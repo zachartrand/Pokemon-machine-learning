@@ -17,3 +17,11 @@ height_weight*
 # Web scraper file #
 ####################
 web_scraper.ipynb
+
+# old files #
+#############
+*-old*
+
+# Specific files #
+pokemon.csv
+pokemon_machine_learning.ipynb
