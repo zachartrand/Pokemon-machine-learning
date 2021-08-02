@@ -1,0 +1,1044 @@
+pokedex_number|pokedex_number_form|name|hp|attack|defense|sp_attack|sp_defense|speed|base_total|base_average|ability_1|ability_2|hidden_ability|type_1|type_2|japanese_name|catch_rate|base_friendship_old|base_friendship|exp_100|category|height_m|weight_kg|hatch_cycles
+1|1|Bulbasaur|45|49|49|65|65|45|318|53|Overgrow||Chlorophyll|Grass|Poison|Fushigidaneフシギダネ|45|70|50|1059860|Seed Pokémon|0.7|6.9|20
+2|2|Ivysaur|60|62|63|80|80|60|405|67.5|Overgrow||Chlorophyll|Grass|Poison|Fushigisouフシギソウ|45|70|50|1059860|Seed Pokémon|1|13|20
+3|3|Venusaur|80|82|83|100|100|80|525|87.5|Overgrow||Chlorophyll|Grass|Poison|Fushigibanaフシギバナ|45|70|50|1059860|Seed Pokémon|2|100|20
+3|003M|Venusaur (Mega Venusaur)|80|100|123|122|120|80|625|104.17|Thick Fat|||Grass|Poison|MegaFushigibanaメガフシギバナ|45|70|50|1059860|Seed Pokémon|2.4|155.5|20
+4|4|Charmander|39|52|43|60|50|65|309|51.5|Blaze||Solar Power|Fire||Hitokageヒトカゲ|45|70|50|1059860|Lizard Pokémon|0.6|8.5|20
+5|5|Charmeleon|58|64|58|80|65|80|405|67.5|Blaze||Solar Power|Fire||Lizardoリザード|45|70|50|1059860|Flame Pokémon|1.1|19|20
+6|6|Charizard|78|84|78|109|85|100|534|89|Blaze||Solar Power|Fire|Flying|Lizardonリザードン|45|70|50|1059860|Flame Pokémon|1.7|90.5|20
+6|006MX|Charizard (Mega Charizard X)|78|130|111|130|85|100|634|105.67|Tough Claws|||Fire|Dragon|MegaLizardon XメガリザードンX|45|70|50|1059860|Flame Pokémon|1.7|110.5|20
+6|006MY|Charizard (Mega Charizard Y)|78|104|78|159|115|100|634|105.67|Drought|||Fire|Flying|MegaLizardon YメガリザードンY|45|70|50|1059860|Flame Pokémon|1.7|100.5|20
+7|7|Squirtle|44|48|65|50|64|43|314|52.33|Torrent||Rain Dish|Water||Zenigameゼニガメ|45|70|50|1059860|Tiny Turtle Pokémon|0.5|9|20
+8|8|Wartortle|59|63|80|65|80|58|405|67.5|Torrent||Rain Dish|Water||Kameilカメール|45|70|50|1059860|Turtle Pokémon|1|22.5|20
+9|9|Blastoise|79|83|100|85|105|78|530|88.33|Torrent||Rain Dish|Water||Kamexカメックス|45|70|50|1059860|Shellfish Pokémon|1.6|85.5|20
+9|009M|Blastoise (Mega Blastoise)|79|103|120|135|115|78|630|105|Mega Launcher|||Water||MegaKamexメガカメックス|45|70|50|1059860|Shellfish Pokémon|1.6|101.1|20
+10|10|Caterpie|45|30|35|20|20|45|195|32.5|Shield Dust||Run Away|Bug||Caterpieキャタピー|255|70|50|1000000|Worm Pokémon|0.3|2.9|15
+11|11|Metapod|50|20|55|25|25|30|205|34.17|Shed Skin|||Bug||Transelトランセル|120|70|50|1000000|Cocoon Pokémon|0.7|9.9|15
+12|12|Butterfree|60|45|50|90|80|70|395|65.83|Compound Eyes||Tinted Lens|Bug|Flying|Butterfreeバタフリー|45|70|50|1000000|Butterfly Pokémon|1.1|32|15
+13|13|Weedle|40|35|30|20|20|50|195|32.5|Shield Dust||Run Away|Bug|Poison|Beedleビードル|255|70|50|1000000|Hairy Bug Pokémon|0.3|3.2|15
+14|14|Kakuna|45|25|50|25|25|35|205|34.17|Shed Skin|||Bug|Poison|Cocoonコクーン|120|70|50|1000000|Cocoon Pokémon|0.6|10|15
+15|15|Beedrill|65|90|40|45|80|75|395|65.83|Swarm||Sniper|Bug|Poison|Spearスピアー|45|70|50|1000000|Poison Bee Pokémon|1|29.5|15
+15|015M|Beedrill (Mega Beedrill)|65|150|40|15|80|145|495|82.5|Adaptability|||Bug|Poison|MegaSpearメガスピアー|45|70|50|1000000|Poison Bee Pokémon|1.4|40.5|15
+16|16|Pidgey|40|45|40|35|35|56|251|41.83|Keen Eye|Tangled Feet|Big Pecks|Normal|Flying|Poppoポッポ|255|70|50|1059860|Tiny Bird Pokémon|0.3|1.8|15
+17|17|Pidgeotto|63|60|55|50|50|71|349|58.17|Keen Eye|Tangled Feet|Big Pecks|Normal|Flying|Pigeonピジョン|120|70|50|1059860|Bird Pokémon|1.1|30|15
+18|18|Pidgeot|83|80|75|70|70|101|479|79.83|Keen Eye|Tangled Feet|Big Pecks|Normal|Flying|Pigeotピジョット|45|70|50|1059860|Bird Pokémon|1.5|39.5|15
+18|018M|Pidgeot (Mega Pidgeot)|83|80|80|135|80|121|579|96.5|No Guard|||Normal|Flying|MegaPigeotメガピジョット|45|70|50|1059860|Bird Pokémon|2.2|50.5|15
+19|19|Rattata|30|56|35|25|35|72|253|42.17|Run Away|Guts|Hustle|Normal||Korattaコラッタ|255|70|50|1000000|Mouse Pokémon|0.3|3.5|15
+19|019A|Rattata (Alolan Rattata)|30|56|35|25|35|72|253|42.17|Gluttony|Hustle|Thick Fat|Dark|Normal|Korattaコラッタ|255|70|50|1000000|Mouse Pokémon|0.3|3.8|15
+20|20|Raticate|55|81|60|50|70|97|413|68.83|Run Away|Guts|Hustle|Normal||Rattaラッタ|127|70|50|1000000|Mouse Pokémon|0.7|18.5|15
+20|020A|Raticate (Alolan Raticate)|75|71|70|40|80|77|413|68.83|Gluttony|Hustle|Thick Fat|Dark|Normal|Rattaラッタ|127|70|50|1000000|Mouse Pokémon|0.7|25.5|15
+21|21|Spearow|40|60|30|31|31|70|262|43.67|Keen Eye||Sniper|Normal|Flying|Onisuzumeオニスズメ|255|70|50|1000000|Tiny Bird Pokémon|0.3|2|15
+22|22|Fearow|65|90|65|61|61|100|442|73.67|Keen Eye||Sniper|Normal|Flying|Onidrillオニドリル|90|70|50|1000000|Beak Pokémon|1.2|38|15
+23|23|Ekans|35|60|44|40|54|55|288|48|Intimidate|Shed Skin|Unnerve|Poison||Arboアーボ|255|70|50|1000000|Snake Pokémon|2|6.9|20
+24|24|Arbok|60|95|69|65|79|80|448|74.67|Intimidate|Shed Skin|Unnerve|Poison||Arbokアーボック|90|70|50|1000000|Cobra Pokémon|3.5|65|20
+25|25|Pikachu|35|55|40|50|50|90|320|53.33|Static||Lightning Rod|Electric||Pikachuピカチュウ|190|70|50|1000000|Mouse Pokémon|0.4|6|10
+25|025Pa|Pikachu (Partner Pikachu)|45|80|50|75|60|120|430|71.67|Static|||Electric||Pikachuピカチュウ|255|70|50|1000000|Mouse Pokémon|0.4|6|10
+26|26|Raichu|60|90|55|90|80|110|485|80.83|Static||Lightning Rod|Electric||Raichuライチュウ|75|70|50|1000000|Mouse Pokémon|0.8|30|10
+26|026A|Raichu (Alolan Raichu)|60|85|50|95|85|110|485|80.83|Surge Surfer|||Electric|Psychic|Raichuライチュウ|75|70|50|1000000|Mouse Pokémon|0.7|21|10
+27|27|Sandshrew|50|75|85|20|30|40|300|50|Sand Veil||Sand Rush|Ground||Sandサンド|255|70|50|1000000|Mouse Pokémon|0.6|12|20
+27|027A|Sandshrew (Alolan Sandshrew)|50|75|90|10|35|40|300|50|Snow Cloak||Slush Rush|Ice|Steel|Sandサンド|255|70|50|1000000|Mouse Pokémon|0.7|40|20
+28|28|Sandslash|75|100|110|45|55|65|450|75|Sand Veil||Sand Rush|Ground||Sandpanサンドパン|90|70|50|1000000|Mouse Pokémon|1|29.5|20
+28|028A|Sandslash (Alolan Sandslash)|75|100|120|25|65|65|450|75|Snow Cloak||Slush Rush|Ice|Steel|Sandpanサンドパン|90|70|50|1000000|Mouse Pokémon|1.2|55|20
+29|29|Nidoran♀|55|47|52|40|40|41|275|45.83|Poison Point|Rivalry|Hustle|Poison||Nidoran?ニドラン♀|235|70|50|1059860|Poison Pin Pokémon|0.4|7|20
+30|30|Nidorina|70|62|67|55|55|56|365|60.83|Poison Point|Rivalry|Hustle|Poison||Nidorinaニドリーナ|120|70|50|1059860|Poison Pin Pokémon|0.8|20|20
+31|31|Nidoqueen|90|92|87|75|85|76|505|84.17|Poison Point|Rivalry|Sheer Force|Poison|Ground|Nidoqueenニドクイン|45|70|50|1059860|Drill Pokémon|1.3|60|20
+32|32|Nidoran♂|46|57|40|40|40|50|273|45.5|Poison Point|Rivalry|Hustle|Poison||Nidoran?ニドラン♂|235|70|50|1059860|Poison Pin Pokémon|0.5|9|20
+33|33|Nidorino|61|72|57|55|55|65|365|60.83|Poison Point|Rivalry|Hustle|Poison||Nidorinoニドリーノ|120|70|50|1059860|Poison Pin Pokémon|0.9|19.5|20
+34|34|Nidoking|81|102|77|85|75|85|505|84.17|Poison Point|Rivalry|Sheer Force|Poison|Ground|Nidokingニドキング|45|70|50|1059860|Drill Pokémon|1.4|62|20
+35|35|Clefairy|70|45|48|60|65|35|323|53.83|Cute Charm|Magic Guard|Friend Guard|Fairy||Pippiピッピ|150|140|140|800000|Fairy Pokémon|0.6|7.5|10
+36|36|Clefable|95|70|73|95|90|60|483|80.5|Cute Charm|Magic Guard|Unaware|Fairy||Pixyピクシー|25|140|140|800000|Fairy Pokémon|1.3|40|10
+37|37|Vulpix|38|41|40|50|65|65|299|49.83|Flash Fire||Drought|Fire||Rokonロコン|190|70|50|1000000|Fox Pokémon|0.6|9.9|20
+37|037A|Vulpix (Alolan Vulpix)|38|41|40|50|65|65|299|49.83|Snow Cloak||Snow Warning|Ice||Rokonロコン|190|70|50|1000000|Fox Pokémon|0.6|9.9|20
+38|38|Ninetales|73|76|75|81|100|100|505|84.17|Flash Fire||Drought|Fire||Kyukonキュウコン|75|70|50|1000000|Fox Pokémon|1.1|19.9|20
+38|038A|Ninetales (Alolan Ninetales)|73|67|75|81|100|109|505|84.17|Snow Cloak||Snow Warning|Ice|Fairy|Kyukonキュウコン|75|70|50|1000000|Fox Pokémon|1.1|19.9|20
+39|39|Jigglypuff|115|45|20|45|25|20|270|45|Cute Charm|Competitive|Friend Guard|Normal|Fairy|Purinプリン|170|70|50|800000|Balloon Pokémon|0.5|5.5|10
+40|40|Wigglytuff|140|70|45|85|50|45|435|72.5|Cute Charm|Competitive|Frisk|Normal|Fairy|Pukurinプクリン|50|70|50|800000|Balloon Pokémon|1|12|10
+41|41|Zubat|40|45|35|30|40|55|245|40.83|Inner Focus||Infiltrator|Poison|Flying|Zubatズバット|255|70|50|1000000|Bat Pokémon|0.8|7.5|15
+42|42|Golbat|75|80|70|65|75|90|455|75.83|Inner Focus||Infiltrator|Poison|Flying|Golbatゴルバット|90|70|50|1000000|Bat Pokémon|1.6|55|15
+43|43|Oddish|45|50|55|75|65|30|320|53.33|Chlorophyll||Run Away|Grass|Poison|Nazonokusaナゾノクサ|255|70|50|1059860|Weed Pokémon|0.5|5.4|20
+44|44|Gloom|60|65|70|85|75|40|395|65.83|Chlorophyll||Stench|Grass|Poison|Kusaihanaクサイハナ|120|70|50|1059860|Weed Pokémon|0.8|8.6|20
+45|45|Vileplume|75|80|85|110|90|50|490|81.67|Chlorophyll||Effect Spore|Grass|Poison|Ruffresiaラフレシア|45|70|50|1059860|Flower Pokémon|1.2|18.6|20
+46|46|Paras|35|70|55|45|55|25|285|47.5|Effect Spore|Dry Skin|Damp|Bug|Grass|Parasパラス|190|70|50|1000000|Mushroom Pokémon|0.3|5.4|20
+47|47|Parasect|60|95|80|60|80|30|405|67.5|Effect Spore|Dry Skin|Damp|Bug|Grass|Parasectパラセクト|75|70|50|1000000|Mushroom Pokémon|1|29.5|20
+48|48|Venonat|60|55|50|40|55|45|305|50.83|Compound Eyes|Tinted Lens|Run Away|Bug|Poison|Kongpangコンパン|190|70|50|1000000|Insect Pokémon|1|30|20
+49|49|Venomoth|70|65|60|90|75|90|450|75|Shield Dust|Tinted Lens|Wonder Skin|Bug|Poison|Morphonモルフォン|75|70|50|1000000|Poison Moth Pokémon|1.5|12.5|20
+50|50|Diglett|10|55|25|35|45|95|265|44.17|Sand Veil|Arena Trap|Sand Force|Ground||Digdaディグダ|255|70|50|1000000|Mole Pokémon|0.2|0.8|20
+50|050A|Diglett (Alolan Diglett)|10|55|30|35|45|90|265|44.17|Sand Veil|Tangling Hair|Sand Force|Ground|Steel|Digdaディグダ|255|70|50|1000000|Mole Pokémon|0.2|1|20
+51|51|Dugtrio|35|100|50|50|70|120|425|70.83|Sand Veil|Arena Trap|Sand Force|Ground||Dugtrioダグトリオ|50|70|50|1000000|Mole Pokémon|0.7|33.3|20
+51|051A|Dugtrio (Alolan Dugtrio)|35|100|60|50|70|110|425|70.83|Sand Veil|Tangling Hair|Sand Force|Ground|Steel|Dugtrioダグトリオ|50|70|50|1000000|Mole Pokémon|0.7|66.6|20
+52|52|Meowth|40|45|35|40|40|90|290|48.33|Pickup|Technician|Unnerve|Normal||Nyarthニャース|255|70|50|1000000|Scratch Cat Pokémon|0.4|4.2|20
+52|052A|Meowth (Alolan Meowth)|40|35|35|50|40|90|290|48.33|Pickup|Technician|Rattled|Dark||Nyarthニャース|255|70|50|1000000|Scratch Cat Pokémon|0.4|4.2|20
+52|052G|Meowth (Galarian Meowth)|50|65|55|40|40|40|290|48.33|Pickup|Tough Claws|Unnerve|Steel||Nyarthニャース|255|70|50|1000000|Scratch Cat Pokémon|0.4|7.5|20
+53|53|Persian|65|70|60|65|65|115|440|73.33|Limber|Technician|Unnerve|Normal||Persianペルシアン|90|70|50|1000000|Classy Cat Pokémon|1|32|20
+53|053A|Persian (Alolan Persian)|65|60|60|75|65|115|440|73.33|Fur Coat|Technician|Rattled|Dark||Persianペルシアン|90|70|50|1000000|Classy Cat Pokémon|1.1|33|20
+54|54|Psyduck|50|52|48|65|50|55|320|53.33|Damp|Cloud Nine|Swift Swim|Water||Koduckコダック|190|70|50|1000000|Duck Pokémon|0.8|19.6|20
+55|55|Golduck|80|82|78|95|80|85|500|83.33|Damp|Cloud Nine|Swift Swim|Water||Golduckゴルダック|75|70|50|1000000|Duck Pokémon|1.7|76.6|20
+56|56|Mankey|40|80|35|35|45|70|305|50.83|Vital Spirit|Anger Point|Defiant|Fighting||Mankeyマンキー|190|70|50|1000000|Pig Monkey Pokémon|0.5|28|20
+57|57|Primeape|65|105|60|60|70|95|455|75.83|Vital Spirit|Anger Point|Defiant|Fighting||Okorizaruオコリザル|75|70|50|1000000|Pig Monkey Pokémon|1|32|20
+58|58|Growlithe|55|70|45|70|50|60|350|58.33|Intimidate|Flash Fire|Justified|Fire||Gardieガーディ|190|70|50|1250000|Puppy Pokémon|0.7|19|20
+59|59|Arcanine|90|110|80|100|80|95|555|92.5|Intimidate|Flash Fire|Justified|Fire||Windieウインディ|75|70|50|1250000|Legendary Pokémon|1.9|155|20
+60|60|Poliwag|40|50|40|40|40|90|300|50|Water Absorb|Damp|Swift Swim|Water||Nyoromoニョロモ|255|70|50|1059860|Tadpole Pokémon|0.6|12.4|20
+61|61|Poliwhirl|65|65|65|50|50|90|385|64.17|Water Absorb|Damp|Swift Swim|Water||Nyorozoニョロゾ|120|70|50|1059860|Tadpole Pokémon|1|20|20
+62|62|Poliwrath|90|95|95|70|90|70|510|85|Water Absorb|Damp|Swift Swim|Water|Fighting|Nyorobonニョロボン|45|70|50|1059860|Tadpole Pokémon|1.3|54|20
+63|63|Abra|25|20|15|105|55|90|310|51.67|Synchronize|Inner Focus|Magic Guard|Psychic||Caseyケーシィ|200|70|50|1059860|Psi Pokémon|0.9|19.5|20
+64|64|Kadabra|40|35|30|120|70|105|400|66.67|Synchronize|Inner Focus|Magic Guard|Psychic||Yungererユンゲラー|100|70|50|1059860|Psi Pokémon|1.3|56.5|20
+65|65|Alakazam|55|50|45|135|95|120|500|83.33|Synchronize|Inner Focus|Magic Guard|Psychic||Foodinフーディン|50|70|50|1059860|Psi Pokémon|1.5|48|20
+65|065M|Alakazam (Mega Alakazam)|55|50|65|175|105|150|600|100|Trace|||Psychic||MegaFoodinメガフーディン|50|70|50|1059860|Psi Pokémon|1.2|48|20
+66|66|Machop|70|80|50|35|35|35|305|50.83|Guts|No Guard|Steadfast|Fighting||Wanrikyワンリキー|180|70|50|1059860|Superpower Pokémon|0.8|19.5|20
+67|67|Machoke|80|100|70|50|60|45|405|67.5|Guts|No Guard|Steadfast|Fighting||Gorikyゴーリキー|90|70|50|1059860|Superpower Pokémon|1.5|70.5|20
+68|68|Machamp|90|130|80|65|85|55|505|84.17|Guts|No Guard|Steadfast|Fighting||Kairikyカイリキー|45|70|50|1059860|Superpower Pokémon|1.6|130|20
+69|69|Bellsprout|50|75|35|70|30|40|300|50|Chlorophyll||Gluttony|Grass|Poison|Madatsubomiマダツボミ|255|70|50|1059860|Flower Pokémon|0.7|4|20
+70|70|Weepinbell|65|90|50|85|45|55|390|65|Chlorophyll||Gluttony|Grass|Poison|Utsudonウツドン|120|70|50|1059860|Flycatcher Pokémon|1|6.4|20
+71|71|Victreebel|80|105|65|100|70|70|490|81.67|Chlorophyll||Gluttony|Grass|Poison|Utsubotウツボット|45|70|50|1059860|Flycatcher Pokémon|1.7|15.5|20
+72|72|Tentacool|40|40|35|50|100|70|335|55.83|Clear Body|Liquid Ooze|Rain Dish|Water|Poison|Menokurageメノクラゲ|190|70|50|1250000|Jellyfish Pokémon|0.9|45.5|20
+73|73|Tentacruel|80|70|65|80|120|100|515|85.83|Clear Body|Liquid Ooze|Rain Dish|Water|Poison|Dokukurageドククラゲ|60|70|50|1250000|Jellyfish Pokémon|1.6|55|20
+74|74|Geodude|40|80|100|30|30|20|300|50|Rock Head|Sturdy|Sand Veil|Rock|Ground|Isitsubuteイシツブテ|255|70|50|1059860|Rock Pokémon|0.4|20|15
+74|074A|Geodude (Alolan Geodude)|40|80|100|30|30|20|300|50|Magnet Pull|Sturdy|Galvanize|Rock|Electric|Isitsubuteイシツブテ|255|70|50|1059860|Rock Pokémon|0.4|20.3|15
+75|75|Graveler|55|95|115|45|45|35|390|65|Rock Head|Sturdy|Sand Veil|Rock|Ground|Goloneゴローン|120|70|50|1059860|Rock Pokémon|1|105|15
+75|075A|Graveler (Alolan Graveler)|55|95|115|45|45|35|390|65|Magnet Pull|Sturdy|Galvanize|Rock|Electric|Goloneゴローン|120|70|50|1059860|Rock Pokémon|1|110|15
+76|76|Golem|80|120|130|55|65|45|495|82.5|Rock Head|Sturdy|Sand Veil|Rock|Ground|Golonyaゴローニャ|45|70|50|1059860|Megaton Pokémon|1.4|300|15
+76|076A|Golem (Alolan Golem)|80|120|130|55|65|45|495|82.5|Magnet Pull|Sturdy|Galvanize|Rock|Electric|Golonyaゴローニャ|45|70|50|1059860|Megaton Pokémon|1.7|316|15
+77|77|Ponyta|50|85|55|65|65|90|410|68.33|Run Away|Flash Fire|Flame Body|Fire||Ponytaポニータ|190|70|50|1000000|Fire Horse Pokémon|1|30|20
+77|077G|Ponyta (Galarian Ponyta)|50|85|55|65|65|90|410|68.33|Run Away|Pastel Veil|Anticipation|Psychic||Ponytaポニータ|190|70|50|1000000|Unique Horn Pokémon|0.8|24|20
+78|78|Rapidash|65|100|70|80|80|105|500|83.33|Run Away|Flash Fire|Flame Body|Fire||Gallopギャロップ|60|70|50|1000000|Fire Horse Pokémon|1.7|95|20
+78|078G|Rapidash (Galarian Rapidash)|65|100|70|80|80|105|500|83.33|Run Away|Pastel Veil|Anticipation|Psychic|Fairy|Gallopギャロップ|60|70|50|1000000|Unique Horn Pokémon|1.7|80|20
+79|79|Slowpoke|90|65|65|40|40|15|315|52.5|Oblivious|Own Tempo|Regenerator|Water|Psychic|Yadonヤドン|190|70|50|1000000|Dopey Pokémon|1.2|36|20
+79|079G|Slowpoke (Galarian Slowpoke)|90|65|65|40|40|15|315|52.5|Gluttony|Own Tempo|Regenerator|Psychic||Yadonヤドン|190|70|50|1000000|Dopey Pokémon|1.2|36|20
+80|80|Slowbro|95|75|110|100|80|30|490|81.67|Oblivious|Own Tempo|Regenerator|Water|Psychic|Yadoranヤドラン|75|70|50|1000000|Hermit Crab Pokémon|1.6|78.5|20
+80|080G|Slowbro (Galarian Slowbro)|95|100|95|100|70|30|490|81.67|Quick Draw|Own Tempo|Regenerator|Poison|Psychic|Yadoranヤドラン|75|70|50|1000000|Hermit Crab Pokémon|2|120|20
+80|080M|Slowbro (Mega Slowbro)|95|75|180|130|80|30|590|98.33|Shell Armor|||Water|Psychic|MegaYadoranメガヤドラン|75|70|50|1000000|Hermit Crab Pokémon|1.6|70.5|20
+81|81|Magnemite|25|35|70|95|55|45|325|54.17|Magnet Pull|Sturdy|Analytic|Electric|Steel|Coilコイル|190|70|50|1000000|Magnet Pokémon|0.3|6|20
+82|82|Magneton|50|60|95|120|70|70|465|77.5|Magnet Pull|Sturdy|Analytic|Electric|Steel|Rarecoilレアコイル|60|70|50|1000000|Magnet Pokémon|1|60|20
+83|83|Farfetch'd|52|90|55|58|62|60|377|62.83|Keen Eye|Inner Focus|Defiant|Normal|Flying|Kamonegiカモネギ|45|70|50|1000000|Wild Duck Pokémon|0.8|15|20
+83|083G|Farfetch'd (Galarian Farfetch'd)|52|95|55|58|62|55|377|62.83|Steadfast||Scrappy|Fighting||Kamonegiカモネギ|45|70|50|1000000|Wild Duck Pokémon|0.8|42|20
+84|84|Doduo|35|85|45|35|35|75|310|51.67|Run Away|Early Bird|Tangled Feet|Normal|Flying|Dodoドードー|190|70|50|1000000|Twin Bird Pokémon|1.4|39.2|20
+85|85|Dodrio|60|110|70|60|60|110|470|78.33|Run Away|Early Bird|Tangled Feet|Normal|Flying|Dodorioドードリオ|45|70|50|1000000|Triple Bird Pokémon|1.8|85.2|20
+86|86|Seel|65|45|55|45|70|45|325|54.17|Thick Fat|Hydration|Ice Body|Water||Pawouパウワウ|190|70|50|1000000|Sea Lion Pokémon|1.1|90|20
+87|87|Dewgong|90|70|80|70|95|70|475|79.17|Thick Fat|Hydration|Ice Body|Water|Ice|Jugonジュゴン|75|70|50|1000000|Sea Lion Pokémon|1.7|120|20
+88|88|Grimer|80|80|50|40|50|25|325|54.17|Stench|Sticky Hold|Poison Touch|Poison||Betbeterベトベター|190|70|50|1000000|Sludge Pokémon|0.9|30|20
+88|088A|Grimer (Alolan Grimer)|80|80|50|40|50|25|325|54.17|Poison Touch|Gluttony|Power of Alchemy|Poison|Dark|Betbeterベトベター|190|70|50|1000000|Sludge Pokémon|0.7|42|20
+89|89|Muk|105|105|75|65|100|50|500|83.33|Stench|Sticky Hold|Poison Touch|Poison||Betbetonベトベトン|75|70|50|1000000|Sludge Pokémon|1.2|30|20
+89|089A|Muk (Alolan Muk)|105|105|75|65|100|50|500|83.33|Poison Touch|Gluttony|Power of Alchemy|Poison|Dark|Betbetonベトベトン|75|70|50|1000000|Sludge Pokémon|1|52|20
+90|90|Shellder|30|65|100|45|25|40|305|50.83|Shell Armor|Skill Link|Overcoat|Water||Shellderシェルダー|190|70|50|1250000|Bivalve Pokémon|0.3|4|20
+91|91|Cloyster|50|95|180|85|45|70|525|87.5|Shell Armor|Skill Link|Overcoat|Water|Ice|Parshenパルシェン|60|70|50|1250000|Bivalve Pokémon|1.5|132.5|20
+92|92|Gastly|30|35|30|100|35|80|310|51.67|Levitate|||Ghost|Poison|Ghosゴース|190|70|50|1059860|Gas Pokémon|1.3|0.1|20
+93|93|Haunter|45|50|45|115|55|95|405|67.5|Levitate|||Ghost|Poison|Ghostゴースト|90|70|50|1059860|Gas Pokémon|1.6|0.1|20
+94|94|Gengar|60|65|60|130|75|110|500|83.33|Cursed Body|||Ghost|Poison|Gangarゲンガー|45|70|50|1059860|Shadow Pokémon|1.5|40.5|20
+94|094M|Gengar (Mega Gengar)|60|65|80|170|95|130|600|100|Shadow Tag|||Ghost|Poison|MegaGangarメガゲンガー|45|70|50|1059860|Shadow Pokémon|1.4|40.5|20
+95|95|Onix|35|45|160|30|45|70|385|64.17|Rock Head|Sturdy|Weak Armor|Rock|Ground|Iwarkイワーク|45|70|50|1000000|Rock Snake Pokémon|8.8|210|25
+96|96|Drowzee|60|48|45|43|90|42|328|54.67|Insomnia|Forewarn|Inner Focus|Psychic||Sleepeスリープ|190|70|50|1000000|Hypnosis Pokémon|1|32.4|20
+97|97|Hypno|85|73|70|73|115|67|483|80.5|Insomnia|Forewarn|Inner Focus|Psychic||Sleeperスリーパー|75|70|50|1000000|Hypnosis Pokémon|1.6|75.6|20
+98|98|Krabby|30|105|90|25|25|50|325|54.17|Hyper Cutter|Shell Armor|Sheer Force|Water||Crabクラブ|225|70|50|1000000|River Crab Pokémon|0.4|6.5|20
+99|99|Kingler|55|130|115|50|50|75|475|79.17|Hyper Cutter|Shell Armor|Sheer Force|Water||Kinglerキングラー|60|70|50|1000000|Pincer Pokémon|1.3|60|20
+100|100|Voltorb|40|30|50|55|55|100|330|55|Soundproof|Static|Aftermath|Electric||Biriridamaビリリダマ|190|70|50|1000000|Ball Pokémon|0.5|10.4|20
+101|101|Electrode|60|50|70|80|80|150|490|81.67|Soundproof|Static|Aftermath|Electric||Marumineマルマイン|60|70|50|1000000|Ball Pokémon|1.2|66.6|20
+102|102|Exeggcute|60|40|80|60|45|40|325|54.17|Chlorophyll||Harvest|Grass|Psychic|Tamatamaタマタマ|90|70|50|1250000|Egg Pokémon|0.4|2.5|20
+103|103|Exeggutor|95|95|85|125|75|55|530|88.33|Chlorophyll||Harvest|Grass|Psychic|Nassyナッシー|45|70|50|1250000|Coconut Pokémon|2|120|20
+103|103A|Exeggutor (Alolan Exeggutor)|95|105|85|125|75|45|530|88.33|Frisk||Harvest|Grass|Dragon|Nassyナッシー|45|70|50|1250000|Coconut Pokémon|10.9|415.6|20
+104|104|Cubone|50|50|95|40|50|35|320|53.33|Rock Head|Lightning Rod|Battle Armor|Ground||Karakaraカラカラ|190|70|50|1000000|Lonely Pokémon|0.4|6.5|20
+105|105|Marowak|60|80|110|50|80|45|425|70.83|Rock Head|Lightning Rod|Battle Armor|Ground||Garagaraガラガラ|75|70|50|1000000|Bone Keeper Pokémon|1|45|20
+105|105A|Marowak (Alolan Marowak)|60|80|110|50|80|45|425|70.83|Cursed Body|Lightning Rod|Rock Head|Fire|Ghost|Garagaraガラガラ|75|70|50|1000000|Bone Keeper Pokémon|1|34|20
+106|106|Hitmonlee|50|120|53|35|110|87|455|75.83|Limber|Reckless|Unburden|Fighting||Sawamularサワムラー|45|70|50|1000000|Kicking Pokémon|1.5|49.8|25
+107|107|Hitmonchan|50|105|79|35|110|76|455|75.83|Keen Eye|Iron Fist|Inner Focus|Fighting||Ebiwalarエビワラー|45|70|50|1000000|Punching Pokémon|1.4|50.2|25
+108|108|Lickitung|90|55|75|60|75|30|385|64.17|Own Tempo|Oblivious|Cloud Nine|Normal||Beroringaベロリンガ|45|70|50|1000000|Licking Pokémon|1.2|65.5|20
+109|109|Koffing|40|65|95|60|45|35|340|56.67|Levitate|Neutralizing Gas|Stench|Poison||Dogarsドガース|190|70|50|1000000|Poison Gas Pokémon|0.6|1|20
+110|110|Weezing|65|90|120|85|70|60|490|81.67|Levitate|Neutralizing Gas|Stench|Poison||Matadogasマタドガス|60|70|50|1000000|Poison Gas Pokémon|1.2|9.5|20
+110|110G|Weezing (Galarian Weezing)|65|90|120|85|70|60|490|81.67|Levitate|Neutralizing Gas|Misty Surge|Poison|Fairy|Matadogasマタドガス|60|70|50|1000000|Poison Gas Pokémon|3|16|20
+111|111|Rhyhorn|80|85|95|30|30|25|345|57.5|Lightning Rod|Rock Head|Reckless|Ground|Rock|Sihornサイホーン|120|70|50|1250000|Spikes Pokémon|1|115|20
+112|112|Rhydon|105|130|120|45|45|40|485|80.83|Lightning Rod|Rock Head|Reckless|Ground|Rock|Sidonサイドン|60|70|50|1250000|Drill Pokémon|1.9|120|20
+113|113|Chansey|250|5|5|35|105|50|450|75|Natural Cure|Serene Grace|Healer|Normal||Luckyラッキー|30|140|140|800000|Egg Pokémon|1.1|34.6|40
+114|114|Tangela|65|55|115|100|40|60|435|72.5|Chlorophyll|Leaf Guard|Regenerator|Grass||Monjaraモンジャラ|45|70|50|1000000|Vine Pokémon|1|35|20
+115|115|Kangaskhan|105|95|80|40|80|90|490|81.67|Early Bird|Scrappy|Inner Focus|Normal||Garuraガルーラ|45|70|50|1000000|Parent Pokémon|2.2|80|20
+115|115M|Kangaskhan (Mega Kangaskhan)|105|125|100|60|100|100|590|98.33|Parental Bond|||Normal||MegaGaruraメガガルーラ|45|70|50|1000000|Parent Pokémon|2.2|100|20
+116|116|Horsea|30|40|70|70|25|60|295|49.17|Swift Swim|Sniper|Damp|Water||Tattuタッツー|225|70|50|1000000|Dragon Pokémon|0.4|8|20
+117|117|Seadra|55|65|95|95|45|85|440|73.33|Poison Point|Sniper|Damp|Water||Seadraシードラ|75|70|50|1000000|Dragon Pokémon|1.2|25|20
+118|118|Goldeen|45|67|60|35|50|63|320|53.33|Swift Swim|Water Veil|Lightning Rod|Water||Tosakintoトサキント|225|70|50|1000000|Goldfish Pokémon|0.6|15|20
+119|119|Seaking|80|92|65|65|80|68|450|75|Swift Swim|Water Veil|Lightning Rod|Water||Azumaoアズマオウ|60|70|50|1000000|Goldfish Pokémon|1.3|39|20
+120|120|Staryu|30|45|55|70|55|85|340|56.67|Illuminate|Natural Cure|Analytic|Water||Hitodemanヒトデマン|225|70|50|1250000|Star Shape Pokémon|0.8|34.5|20
+121|121|Starmie|60|75|85|100|85|115|520|86.67|Illuminate|Natural Cure|Analytic|Water|Psychic|Starmieスターミー|60|70|50|1250000|Mysterious Pokémon|1.1|80|20
+122|122|Mr. Mime|40|45|65|100|120|90|460|76.67|Soundproof|Filter|Technician|Psychic|Fairy|Barrierdバリヤード|45|70|50|1000000|Barrier Pokémon|1.3|54.5|25
+122|122G|Mr. Mime (Galarian Mr. Mime)|50|65|65|90|90|100|460|76.67|Vital Spirit|Screen Cleaner|Ice Body|Ice|Psychic|Barrierdバリヤード|45|70|50|1000000|Dancing Pokémon|1.4|56.8|25
+123|123|Scyther|70|110|80|55|80|105|500|83.33|Swarm|Technician|Steadfast|Bug|Flying|Strikeストライク|45|70|50|1000000|Mantis Pokémon|1.5|56|25
+124|124|Jynx|65|50|35|115|95|95|455|75.83|Oblivious|Forewarn|Dry Skin|Ice|Psychic|Rougelaルージュラ|45|70|50|1000000|Human Shape Pokémon|1.4|40.6|25
+125|125|Electabuzz|65|83|57|95|85|105|490|81.67|Static||Vital Spirit|Electric||Elebooエレブー|45|70|50|1000000|Electric Pokémon|1.1|30|25
+126|126|Magmar|65|95|57|100|85|93|495|82.5|Flame Body||Vital Spirit|Fire||Booberブーバー|45|70|50|1000000|Spitfire Pokémon|1.3|44.5|25
+127|127|Pinsir|65|125|100|55|70|85|500|83.33|Hyper Cutter|Mold Breaker|Moxie|Bug||Kailiosカイロス|45|70|50|1250000|Stag Beetle Pokémon|1.5|55|25
+127|127M|Pinsir (Mega Pinsir)|65|155|120|65|90|105|600|100|Aerilate|||Bug|Flying|MegaKailiosメガカイロス|45|70|50|1250000|Stag Beetle Pokémon|1.7|59|25
+128|128|Tauros|75|100|95|40|70|110|490|81.67|Intimidate|Anger Point|Sheer Force|Normal||Kentaurosケンタロス|45|70|50|1250000|Wild Bull Pokémon|1.4|88.4|20
+129|129|Magikarp|20|10|55|15|20|80|200|33.33|Swift Swim||Rattled|Water||Koikingコイキング|255|70|50|1250000|Fish Pokémon|0.9|10|5
+130|130|Gyarados|95|125|79|60|100|81|540|90|Intimidate||Moxie|Water|Flying|Gyaradosギャラドス|45|70|50|1250000|Atrocious Pokémon|6.5|235|5
+130|130M|Gyarados (Mega Gyarados)|95|155|109|70|130|81|640|106.67|Mold Breaker|||Water|Dark|MegaGyaradosメガギャラドス|45|70|50|1250000|Atrocious Pokémon|6.5|305|5
+131|131|Lapras|130|85|80|85|95|60|535|89.17|Water Absorb|Shell Armor|Hydration|Water|Ice|Laplaceラプラス|45|70|50|1250000|Transport Pokémon|2.5|220|40
+132|132|Ditto|48|48|48|48|48|48|288|48|Limber||Imposter|Normal||Metamonメタモン|35|70|50|1000000|Transform Pokémon|0.3|4|20
+133|133|Eevee|55|55|50|45|65|55|325|54.17|Run Away|Adaptability|Anticipation|Normal||Eievuiイーブイ|45|70|50|1000000|Evolution Pokémon|0.3|6.5|35
+133|133Pa|Eevee (Partner Eevee)|65|75|70|65|85|75|435|72.5|Run Away|Adaptability|Anticipation|Normal||Eievuiイーブイ|255|70|50|1000000|Evolution Pokémon|0.3|6.5|35
+134|134|Vaporeon|130|65|60|110|95|65|525|87.5|Water Absorb||Hydration|Water||Showersシャワーズ|45|70|50|1000000|Bubble Jet Pokémon|1|29|35
+135|135|Jolteon|65|65|60|110|95|130|525|87.5|Volt Absorb||Quick Feet|Electric||Thundersサンダース|45|70|50|1000000|Lightning Pokémon|0.8|24.5|35
+136|136|Flareon|65|130|60|95|110|65|525|87.5|Flash Fire||Guts|Fire||Boosterブースター|45|70|50|1000000|Flame Pokémon|0.9|25|35
+137|137|Porygon|65|60|70|85|75|40|395|65.83|Trace|Download|Analytic|Normal||Porygonポリゴン|45|70|50|1000000|Virtual Pokémon|0.8|36.5|20
+138|138|Omanyte|35|40|100|90|55|35|355|59.17|Swift Swim|Shell Armor|Weak Armor|Rock|Water|Omniteオムナイト|45|70|50|1000000|Spiral Pokémon|0.4|7.5|30
+139|139|Omastar|70|60|125|115|70|55|495|82.5|Swift Swim|Shell Armor|Weak Armor|Rock|Water|Omstarオムスター|45|70|50|1000000|Spiral Pokémon|1|35|30
+140|140|Kabuto|30|80|90|55|45|55|355|59.17|Swift Swim|Battle Armor|Weak Armor|Rock|Water|Kabutoカブト|45|70|50|1000000|Shellfish Pokémon|0.5|11.5|30
+141|141|Kabutops|60|115|105|65|70|80|495|82.5|Swift Swim|Battle Armor|Weak Armor|Rock|Water|Kabutopsカブトプス|45|70|50|1000000|Shellfish Pokémon|1.3|40.5|30
+142|142|Aerodactyl|80|105|65|60|75|130|515|85.83|Rock Head|Pressure|Unnerve|Rock|Flying|Pteraプテラ|45|70|50|1250000|Fossil Pokémon|1.8|59|35
+142|142M|Aerodactyl (Mega Aerodactyl)|80|135|85|70|95|150|615|102.5|Tough Claws|||Rock|Flying|MegaPteraメガプテラ|45|70|50|1250000|Fossil Pokémon|2.1|79|35
+143|143|Snorlax|160|110|65|65|110|30|540|90|Immunity|Thick Fat|Gluttony|Normal||Kabigonカビゴン|25|70|50|1250000|Sleeping Pokémon|2.1|460|40
+144|144|Articuno|90|85|100|95|125|85|580|96.67|Pressure||Snow Cloak|Ice|Flying|Freezerフリーザー|3|35|35|1250000|Freeze Pokémon|1.7|55.4|80
+144|144G|Articuno (Galarian Articuno)|90|85|85|125|100|95|580|96.67|Competitive|||Psychic|Flying|Freezerフリーザー|3|35|35|1250000|Cruel Pokémon|1.7|50.9|80
+145|145|Zapdos|90|90|85|125|90|100|580|96.67|Pressure||Static|Electric|Flying|Thunderサンダー|3|35|35|1250000|Electric Pokémon|1.6|52.6|80
+145|145G|Zapdos (Galarian Zapdos)|90|125|90|85|90|100|580|96.67|Defiant|||Fighting|Flying|Thunderサンダー|3|35|35|1250000|Strong Legs Pokémon|1.6|58.2|80
+146|146|Moltres|90|100|90|125|85|90|580|96.67|Pressure||Flame Body|Fire|Flying|Fireファイヤー|3|35|35|1250000|Flame Pokémon|2|60|80
+146|146G|Moltres (Galarian Moltres)|90|85|90|100|125|90|580|96.67|Berserk|||Dark|Flying|Fireファイヤー|3|35|35|1250000|Malevolent Pokémon|2|66|80
+147|147|Dratini|41|64|45|50|50|50|300|50|Shed Skin||Marvel Scale|Dragon||Miniryuミニリュウ|45|35|35|1250000|Dragon Pokémon|1.8|3.3|40
+148|148|Dragonair|61|84|65|70|70|70|420|70|Shed Skin||Marvel Scale|Dragon||Hakuryuハクリュー|45|35|35|1250000|Dragon Pokémon|4|16.5|40
+149|149|Dragonite|91|134|95|100|100|80|600|100|Inner Focus||Multiscale|Dragon|Flying|Kairyuカイリュー|45|35|35|1250000|Dragon Pokémon|2.2|210|40
+150|150|Mewtwo|106|110|90|154|90|130|680|113.33|Pressure||Unnerve|Psychic||Mewtwoミュウツー|3|0|0|1250000|Genetic Pokémon|2|122|120
+150|150MX|Mewtwo (Mega Mewtwo X)|106|190|100|154|100|130|780|130|Steadfast|||Psychic|Fighting|MegaMewtwo XメガミュウツーX|3|0|0|1250000|Genetic Pokémon|2.3|127|120
+150|150MY|Mewtwo (Mega Mewtwo Y)|106|150|70|194|120|140|780|130|Insomnia|||Psychic||MegaMewtwo YメガミュウツーY|3|0|0|1250000|Genetic Pokémon|1.5|33|120
+151|151|Mew|100|100|100|100|100|100|600|100|Synchronize|||Psychic||Mewミュウ|45|100|100|1059860|New Species Pokémon|0.4|4|120
+152|152|Chikorita|45|49|65|49|65|45|318|53|Overgrow||Leaf Guard|Grass||Chicoritaチコリータ|45|70|50|1059860|Leaf Pokémon|0.9|6.4|20
+153|153|Bayleef|60|62|80|63|80|60|405|67.5|Overgrow||Leaf Guard|Grass||Bayleafベイリーフ|45|70|50|1059860|Leaf Pokémon|1.2|15.8|20
+154|154|Meganium|80|82|100|83|100|80|525|87.5|Overgrow||Leaf Guard|Grass||Meganiumメガニウム|45|70|50|1059860|Herb Pokémon|1.8|100.5|20
+155|155|Cyndaquil|39|52|43|60|50|65|309|51.5|Blaze||Flash Fire|Fire||Hinoarashiヒノアラシ|45|70|50|1059860|Fire Mouse Pokémon|0.5|7.9|20
+156|156|Quilava|58|64|58|80|65|80|405|67.5|Blaze||Flash Fire|Fire||Magmarashiマグマラシ|45|70|50|1059860|Volcano Pokémon|0.9|19|20
+157|157|Typhlosion|78|84|78|109|85|100|534|89|Blaze||Flash Fire|Fire||Bakphoonバクフーン|45|70|50|1059860|Volcano Pokémon|1.7|79.5|20
+158|158|Totodile|50|65|64|44|48|43|314|52.33|Torrent||Sheer Force|Water||Waninokoワニノコ|45|70|50|1059860|Big Jaw Pokémon|0.6|9.5|20
+159|159|Croconaw|65|80|80|59|63|58|405|67.5|Torrent||Sheer Force|Water||Alligatesアリゲイツ|45|70|50|1059860|Big Jaw Pokémon|1.1|25|20
+160|160|Feraligatr|85|105|100|79|83|78|530|88.33|Torrent||Sheer Force|Water||Ordileオーダイル|45|70|50|1059860|Big Jaw Pokémon|2.3|88.8|20
+161|161|Sentret|35|46|34|35|45|20|215|35.83|Run Away|Keen Eye|Frisk|Normal||Otachiオタチ|255|70|50|1000000|Scout Pokémon|0.8|6|15
+162|162|Furret|85|76|64|45|55|90|415|69.17|Run Away|Keen Eye|Frisk|Normal||Ootachiオオタチ|90|70|50|1000000|Long Body Pokémon|1.8|32.5|15
+163|163|Hoothoot|60|30|30|36|56|50|262|43.67|Insomnia|Keen Eye|Tinted Lens|Normal|Flying|Hohoホーホー|255|70|50|1000000|Owl Pokémon|0.7|21.2|15
+164|164|Noctowl|100|50|50|86|96|70|452|75.33|Insomnia|Keen Eye|Tinted Lens|Normal|Flying|Yorunozukuヨルノズク|90|70|50|1000000|Owl Pokémon|1.6|40.8|15
+165|165|Ledyba|40|20|30|40|80|55|265|44.17|Swarm|Early Bird|Rattled|Bug|Flying|Redibaレディバ|255|70|50|800000|Five Star Pokémon|1|10.8|15
+166|166|Ledian|55|35|50|55|110|85|390|65|Swarm|Early Bird|Iron Fist|Bug|Flying|Redianレディアン|90|70|50|800000|Five Star Pokémon|1.4|35.6|15
+167|167|Spinarak|40|60|40|40|40|30|250|41.67|Swarm|Insomnia|Sniper|Bug|Poison|Itomaruイトマル|255|70|50|800000|String Spit Pokémon|0.5|8.5|15
+168|168|Ariados|70|90|70|60|70|40|400|66.67|Swarm|Insomnia|Sniper|Bug|Poison|Ariadosアリアドス|90|70|50|800000|Long Leg Pokémon|1.1|33.5|15
+169|169|Crobat|85|90|80|70|80|130|535|89.17|Inner Focus||Infiltrator|Poison|Flying|Crobatクロバット|90|70|50|1000000|Bat Pokémon|1.8|75|15
+170|170|Chinchou|75|38|38|56|56|67|330|55|Volt Absorb|Illuminate|Water Absorb|Water|Electric|Chonchieチョンチー|190|70|50|1250000|Angler Pokémon|0.5|12|20
+171|171|Lanturn|125|58|58|76|76|67|460|76.67|Volt Absorb|Illuminate|Water Absorb|Water|Electric|Lanternランターン|75|70|50|1250000|Light Pokémon|1.2|22.5|20
+172|172|Pichu|20|40|15|35|35|60|205|34.17|Static||Lightning Rod|Electric||Pichuピチュー|190|70|50|1000000|Tiny Mouse Pokémon|0.3|2|10
+173|173|Cleffa|50|25|28|45|55|15|218|36.33|Cute Charm|Magic Guard|Friend Guard|Fairy||Pyピィ|150|140|140|800000|Star Shape Pokémon|0.3|3|10
+174|174|Igglybuff|90|30|15|40|20|15|210|35|Cute Charm|Competitive|Friend Guard|Normal|Fairy|Pupurinププリン|170|70|50|800000|Balloon Pokémon|0.3|1|10
+175|175|Togepi|35|20|65|40|65|20|245|40.83|Hustle|Serene Grace|Super Luck|Fairy||Togepyトゲピー|190|70|50|800000|Spike Ball Pokémon|0.3|1.5|10
+176|176|Togetic|55|40|85|80|105|40|405|67.5|Hustle|Serene Grace|Super Luck|Fairy|Flying|Togechickトゲチック|75|70|50|800000|Happiness Pokémon|0.6|3.2|10
+177|177|Natu|40|50|45|70|45|70|320|53.33|Synchronize|Early Bird|Magic Bounce|Psychic|Flying|Natyネイティ|190|70|50|1000000|Tiny Bird Pokémon|0.2|2|20
+178|178|Xatu|65|75|70|95|70|95|470|78.33|Synchronize|Early Bird|Magic Bounce|Psychic|Flying|Natioネイティオ|75|70|50|1000000|Mystic Pokémon|1.5|15|20
+179|179|Mareep|55|40|40|65|45|35|280|46.67|Static||Plus|Electric||Merriepメリープ|235|70|50|1059860|Wool Pokémon|0.6|7.8|20
+180|180|Flaaffy|70|55|55|80|60|45|365|60.83|Static||Plus|Electric||Mokokoモココ|120|70|50|1059860|Wool Pokémon|0.8|13.3|20
+181|181|Ampharos|90|75|85|115|90|55|510|85|Static||Plus|Electric||Denryuデンリュウ|45|70|50|1059860|Light Pokémon|1.4|61.5|20
+181|181M|Ampharos (Mega Ampharos)|90|95|105|165|110|45|610|101.67|Mold Breaker|||Electric|Dragon|MegaDenryuメガデンリュウ|45|70|50|1059860|Light Pokémon|1.4|61.5|20
+182|182|Bellossom|75|80|95|90|100|50|490|81.67|Chlorophyll||Healer|Grass||Kireihanaキレイハナ|45|70|50|1059860|Flower Pokémon|0.4|5.8|20
+183|183|Marill|70|20|50|20|50|40|250|41.67|Thick Fat|Huge Power|Sap Sipper|Water|Fairy|Marilマリル|190|70|50|800000|Aqua Mouse Pokémon|0.4|8.5|10
+184|184|Azumarill|100|50|80|60|80|50|420|70|Thick Fat|Huge Power|Sap Sipper|Water|Fairy|Marilliマリルリ|75|70|50|800000|Aqua Rabbit Pokémon|0.8|28.5|10
+185|185|Sudowoodo|70|100|115|30|65|30|410|68.33|Sturdy|Rock Head|Rattled|Rock||Usokkieウソッキー|65|70|50|1000000|Imitation Pokémon|1.2|38|20
+186|186|Politoed|90|75|75|90|100|70|500|83.33|Water Absorb|Damp|Drizzle|Water||Nyorotonoニョロトノ|45|70|50|1059860|Frog Pokémon|1.1|33.9|20
+187|187|Hoppip|35|35|40|35|55|50|250|41.67|Chlorophyll|Leaf Guard|Infiltrator|Grass|Flying|Haneccoハネッコ|255|70|50|1059860|Cottonweed Pokémon|0.4|0.5|20
+188|188|Skiploom|55|45|50|45|65|80|340|56.67|Chlorophyll|Leaf Guard|Infiltrator|Grass|Flying|Popoccoポポッコ|120|70|50|1059860|Cottonweed Pokémon|0.6|1|20
+189|189|Jumpluff|75|55|70|55|95|110|460|76.67|Chlorophyll|Leaf Guard|Infiltrator|Grass|Flying|Wataccoワタッコ|45|70|50|1059860|Cottonweed Pokémon|0.8|3|20
+190|190|Aipom|55|70|55|40|55|85|360|60|Run Away|Pickup|Skill Link|Normal||Eipamエイパム|45|70|50|800000|Long Tail Pokémon|0.8|11.5|20
+191|191|Sunkern|30|30|30|30|30|30|180|30|Chlorophyll|Solar Power|Early Bird|Grass||Himanutsヒマナッツ|235|70|50|1059860|Seed Pokémon|0.3|1.8|20
+192|192|Sunflora|75|75|55|105|85|30|425|70.83|Chlorophyll|Solar Power|Early Bird|Grass||Kimawariキマワリ|120|70|50|1059860|Sun Pokémon|0.8|8.5|20
+193|193|Yanma|65|65|45|75|45|95|390|65|Speed Boost|Compound Eyes|Frisk|Bug|Flying|Yanyanmaヤンヤンマ|75|70|50|1000000|Clear Wing Pokémon|1.2|38|20
+194|194|Wooper|55|45|45|25|25|15|210|35|Damp|Water Absorb|Unaware|Water|Ground|Upahウパー|255|70|50|1000000|Water Fish Pokémon|0.4|8.5|20
+195|195|Quagsire|95|85|85|65|65|35|430|71.67|Damp|Water Absorb|Unaware|Water|Ground|Nuohヌオー|90|70|50|1000000|Water Fish Pokémon|1.4|75|20
+196|196|Espeon|65|65|60|130|95|110|525|87.5|Synchronize||Magic Bounce|Psychic||Eifieエーフィ|45|70|50|1000000|Sun Pokémon|0.9|26.5|35
+197|197|Umbreon|95|65|110|60|130|65|525|87.5|Synchronize||Inner Focus|Dark||Blackyブラッキー|45|35|35|1000000|Moonlight Pokémon|1|27|35
+198|198|Murkrow|60|85|42|85|42|91|405|67.5|Insomnia|Super Luck|Prankster|Dark|Flying|Yamikarasuヤミカラス|30|35|35|1059860|Darkness Pokémon|0.5|2.1|20
+199|199|Slowking|95|75|80|100|110|30|490|81.67|Oblivious|Own Tempo|Regenerator|Water|Psychic|Yadokingヤドキング|70|70|50|1000000|Royal Pokémon|2|79.5|20
+199|199G|Slowking (Galarian Slowking)|95|65|80|110|110|30|490|81.67|Curious Medicine|Own Tempo|Regenerator|Poison|Psychic|Yadokingヤドキング|70|70|50|1000000|Hexpert Pokémon|1.8|79.5|20
+200|200|Misdreavus|60|60|60|85|85|85|435|72.5|Levitate|||Ghost||Mumaムウマ|45|35|35|800000|Screech Pokémon|0.7|1|25
+201|201|Unown|48|72|48|72|48|48|336|56|Levitate|||Psychic||Unknownアンノーン|225|70|50|1000000|Symbol Pokémon|0.5|5|40
+202|202|Wobbuffet|190|33|58|33|58|33|405|67.5|Shadow Tag||Telepathy|Psychic||Sonansソーナンス|45|70|50|1000000|Patient Pokémon|1.3|28.5|20
+203|203|Girafarig|70|80|65|90|65|85|455|75.83|Inner Focus|Early Bird|Sap Sipper|Normal|Psychic|Kirinrikiキリンリキ|60|70|50|1000000|Long Neck Pokémon|1.5|41.5|20
+204|204|Pineco|50|65|90|35|35|15|290|48.33|Sturdy||Overcoat|Bug||Kunugidamaクヌギダマ|190|70|50|1000000|Bagworm Pokémon|0.6|7.2|20
+205|205|Forretress|75|90|140|60|60|40|465|77.5|Sturdy||Overcoat|Bug|Steel|Foretosフォレトス|75|70|50|1000000|Bagworm Pokémon|1.2|125.8|20
+206|206|Dunsparce|100|70|70|65|65|45|415|69.17|Serene Grace|Run Away|Rattled|Normal||Nokocchiノコッチ|190|70|50|1000000|Land Snake Pokémon|1.5|14|20
+207|207|Gligar|65|75|105|35|65|85|430|71.67|Hyper Cutter|Sand Veil|Immunity|Ground|Flying|Gligerグライガー|60|70|50|1059860|Fly Scorpion Pokémon|1.1|64.8|20
+208|208|Steelix|75|85|200|55|65|30|510|85|Rock Head|Sturdy|Sheer Force|Steel|Ground|Haganeilハガネール|25|70|50|1000000|Iron Snake Pokémon|9.2|400|25
+208|208M|Steelix (Mega Steelix)|75|125|230|55|95|30|610|101.67|Sand Force|||Steel|Ground|MegaHaganeilメガハガネール|25|70|50|1000000|Iron Snake Pokémon|10.5|740|25
+209|209|Snubbull|60|80|50|40|40|30|300|50|Intimidate|Run Away|Rattled|Fairy||Buluブルー|190|70|50|800000|Fairy Pokémon|0.6|7.8|20
+210|210|Granbull|90|120|75|60|60|45|450|75|Intimidate|Quick Feet|Rattled|Fairy||Granbuluグランブル|75|70|50|800000|Fairy Pokémon|1.4|48.7|20
+211|211|Qwilfish|65|95|85|55|55|85|440|73.33|Poison Point|Swift Swim|Intimidate|Water|Poison|Harysenハリーセン|45|70|50|1000000|Balloon Pokémon|0.5|3.9|20
+212|212|Scizor|70|130|100|55|80|65|500|83.33|Swarm|Technician|Light Metal|Bug|Steel|Hassamハッサム|25|70|50|1000000|Pincer Pokémon|1.8|118|25
+212|212M|Scizor (Mega Scizor)|70|150|140|65|100|75|600|100|Technician|||Bug|Steel|MegaHassamメガハッサム|25|70|50|1000000|Pincer Pokémon|2|125|25
+213|213|Shuckle|20|10|230|10|230|5|505|84.17|Sturdy|Gluttony|Contrary|Bug|Rock|Tsubotsuboツボツボ|190|70|50|1059860|Mold Pokémon|0.6|20.5|20
+214|214|Heracross|80|125|75|40|95|85|500|83.33|Swarm|Guts|Moxie|Bug|Fighting|Heracrosヘラクロス|45|70|50|1250000|Single Horn Pokémon|1.5|54|25
+214|214M|Heracross (Mega Heracross)|80|185|115|40|105|75|600|100|Skill Link|||Bug|Fighting|MegaHeracrosメガヘラクロス|45|70|50|1250000|Single Horn Pokémon|1.7|62.5|25
+215|215|Sneasel|55|95|55|35|75|115|430|71.67|Inner Focus|Keen Eye|Pickpocket|Dark|Ice|Nyulaニューラ|60|35|35|1059860|Sharp Claw Pokémon|0.9|28|20
+216|216|Teddiursa|60|80|50|50|50|40|330|55|Pickup|Quick Feet|Honey Gather|Normal||Himegumaヒメグマ|120|70|50|1000000|Little Bear Pokémon|0.6|8.8|20
+217|217|Ursaring|90|130|75|75|75|55|500|83.33|Guts|Quick Feet|Unnerve|Normal||Ringumaリングマ|60|70|50|1000000|Hibernator Pokémon|1.8|125.8|20
+218|218|Slugma|40|40|40|70|40|20|250|41.67|Magma Armor|Flame Body|Weak Armor|Fire||Magmagマグマッグ|190|70|50|1000000|Lava Pokémon|0.7|35|20
+219|219|Magcargo|60|50|120|90|80|30|430|71.67|Magma Armor|Flame Body|Weak Armor|Fire|Rock|Magcargotマグカルゴ|75|70|50|1000000|Lava Pokémon|0.8|55|20
+220|220|Swinub|50|50|40|30|30|50|250|41.67|Oblivious|Snow Cloak|Thick Fat|Ice|Ground|Urimooウリムー|225|70|50|1250000|Pig Pokémon|0.4|6.5|20
+221|221|Piloswine|100|100|80|60|60|50|450|75|Oblivious|Snow Cloak|Thick Fat|Ice|Ground|Inomooイノムー|75|70|50|1250000|Swine Pokémon|1.1|55.8|20
+222|222|Corsola|65|55|95|65|95|35|410|68.33|Hustle|Natural Cure|Regenerator|Water|Rock|Sunnygoサニーゴ|60|70|50|800000|Coral Pokémon|0.6|5|20
+222|222G|Corsola (Galarian Corsola)|60|55|100|65|100|30|410|68.33|Weak Armor||Cursed Body|Ghost||Sunnygoサニーゴ|60|70|50|800000|Coral Pokémon|0.6|0.5|20
+223|223|Remoraid|35|65|35|65|35|65|300|50|Hustle|Sniper|Moody|Water||Teppouoテッポウオ|190|70|50|1000000|Jet Pokémon|0.6|12|20
+224|224|Octillery|75|105|75|105|75|45|480|80|Suction Cups|Sniper|Moody|Water||Okutankオクタン|75|70|50|1000000|Jet Pokémon|0.9|28.5|20
+225|225|Delibird|45|55|45|65|45|75|330|55|Vital Spirit|Hustle|Insomnia|Ice|Flying|Delibirdデリバード|45|70|50|800000|Delivery Pokémon|0.9|16|20
+226|226|Mantine|85|40|70|80|140|70|485|80.83|Swift Swim|Water Absorb|Water Veil|Water|Flying|Mantainマンタイン|25|70|50|1250000|Kite Pokémon|2.1|220|25
+227|227|Skarmory|65|80|140|40|70|70|465|77.5|Keen Eye|Sturdy|Weak Armor|Steel|Flying|Airmdエアームド|25|70|50|1250000|Armor Bird Pokémon|1.7|50.5|25
+228|228|Houndour|45|60|30|80|50|65|330|55|Early Bird|Flash Fire|Unnerve|Dark|Fire|Delvilデルビル|120|35|35|1250000|Dark Pokémon|0.6|10.8|20
+229|229|Houndoom|75|90|50|110|80|95|500|83.33|Early Bird|Flash Fire|Unnerve|Dark|Fire|Hellgarヘルガー|45|35|35|1250000|Dark Pokémon|1.4|35|20
+229|229M|Houndoom (Mega Houndoom)|75|90|90|140|90|115|600|100|Solar Power|||Dark|Fire|MegaHellgarメガヘルガー |45|35|35|1250000|Dark Pokémon|1.9|49.5|20
+230|230|Kingdra|75|95|95|95|95|85|540|90|Swift Swim|Sniper|Damp|Water|Dragon|Kingdraキングドラ|45|70|50|1000000|Dragon Pokémon|1.8|152|20
+231|231|Phanpy|90|60|60|40|40|40|330|55|Pickup||Sand Veil|Ground||Gomazouゴマゾウ|120|70|50|1000000|Long Nose Pokémon|0.5|33.5|20
+232|232|Donphan|90|120|120|60|60|50|500|83.33|Sturdy||Sand Veil|Ground||Donfanドンファン|60|70|50|1000000|Armor Pokémon|1.1|120|20
+233|233|Porygon2|85|80|90|105|95|60|515|85.83|Trace|Download|Analytic|Normal||Porygon2ポリゴン２|45|70|50|1000000|Virtual Pokémon|0.6|32.5|20
+234|234|Stantler|73|95|62|85|65|85|465|77.5|Intimidate|Frisk|Sap Sipper|Normal||Odoshishiオドシシ|45|70|50|1250000|Big Horn Pokémon|1.4|71.2|20
+235|235|Smeargle|55|20|35|20|45|75|250|41.67|Own Tempo|Technician|Moody|Normal||Dobleドーブル|45|70|50|800000|Painter Pokémon|1.2|58|20
+236|236|Tyrogue|35|35|35|35|35|35|210|35|Guts|Steadfast|Vital Spirit|Fighting||Balkieバルキー|75|70|50|1000000|Scuffle Pokémon|0.7|21|25
+237|237|Hitmontop|50|95|95|35|110|70|455|75.83|Intimidate|Technician|Steadfast|Fighting||Kapoererカポエラー|45|70|50|1000000|Handstand Pokémon|1.4|48|25
+238|238|Smoochum|45|30|15|85|65|65|305|50.83|Oblivious|Forewarn|Hydration|Ice|Psychic|Muchulムチュール|45|70|50|1000000|Kiss Pokémon|0.4|6|25
+239|239|Elekid|45|63|37|65|55|95|360|60|Static||Vital Spirit|Electric||Elekidエレキッド|45|70|50|1000000|Electric Pokémon|0.6|23.5|25
+240|240|Magby|45|75|37|70|55|83|365|60.83|Flame Body||Vital Spirit|Fire||Bubyブビィ|45|70|50|1000000|Live Coal Pokémon|0.7|21.4|25
+241|241|Miltank|95|80|105|40|70|100|490|81.67|Thick Fat|Scrappy|Sap Sipper|Normal||Miltankミルタンク|45|70|50|1250000|Milk Cow Pokémon|1.2|75.5|20
+242|242|Blissey|255|10|10|75|135|55|540|90|Natural Cure|Serene Grace|Healer|Normal||Happinasハピナス|30|140|140|800000|Happiness Pokémon|1.5|46.8|40
+243|243|Raikou|90|85|75|115|100|115|580|96.67|Pressure||Inner Focus|Electric||Raikouライコウ|3|35|35|1250000|Thunder Pokémon|1.9|178|80
+244|244|Entei|115|115|85|90|75|100|580|96.67|Pressure||Inner Focus|Fire||Enteiエンテイ|3|35|35|1250000|Volcano Pokémon|2.1|198|80
+245|245|Suicune|100|75|115|90|115|85|580|96.67|Pressure||Inner Focus|Water||Suicuneスイクン|3|35|35|1250000|Aurora Pokémon|2|187|80
+246|246|Larvitar|50|64|50|45|50|41|300|50|Guts||Sand Veil|Rock|Ground|Yogirasヨーギラス|45|35|35|1250000|Rock Skin Pokémon|0.6|72|40
+247|247|Pupitar|70|84|70|65|70|51|410|68.33|Shed Skin|||Rock|Ground|Sanagirasサナギラス|45|35|35|1250000|Hard Shell Pokémon|1.2|152|40
+248|248|Tyranitar|100|134|110|95|100|61|600|100|Sand Stream||Unnerve|Rock|Dark|Bangirasバンギラス|45|35|35|1250000|Armor Pokémon|2|202|40
+248|248M|Tyranitar (Mega Tyranitar)|100|164|150|95|120|71|700|116.67|Sand Stream|||Rock|Dark|MegaBangirasメガバンギラス|45|35|35|1250000|Armor Pokémon|2.5|255|40
+249|249|Lugia|106|90|130|90|154|110|680|113.33|Pressure||Multiscale|Psychic|Flying|Lugiaルギア|3|0|0|1250000|Diving Pokémon|5.2|216|120
+250|250|Ho-Oh|106|130|90|110|154|90|680|113.33|Pressure||Regenerator|Fire|Flying|Hououホウオウ|3|0|0|1250000|Rainbow Pokémon|3.8|199|120
+251|251|Celebi|100|100|100|100|100|100|600|100|Natural Cure|||Psychic|Grass|Celebiセレビィ|45|100|100|1059860|Time Travel Pokémon|0.6|5|120
+252|252|Treecko|40|45|35|65|55|70|310|51.67|Overgrow||Unburden|Grass||Kimoriキモリ|45|70|50|1059860|Wood Gecko Pokémon|0.5|5|20
+253|253|Grovyle|50|65|45|85|65|95|405|67.5|Overgrow||Unburden|Grass||Juptileジュプトル|45|70|50|1059860|Wood Gecko Pokémon|0.9|21.6|20
+254|254|Sceptile|70|85|65|105|85|120|530|88.33|Overgrow||Unburden|Grass||Jukainジュカイン|45|70|50|1059860|Forest Pokémon|1.7|52.2|20
+254|254M|Sceptile (Mega Sceptile)|70|110|75|145|85|145|630|105|Lightning Rod|||Grass|Dragon|MegaJukainメガジュカイン|45|70|50|1059860|Forest Pokémon|1.9|55.2|20
+255|255|Torchic|45|60|40|70|50|45|310|51.67|Blaze||Speed Boost|Fire||Achamoアチャモ|45|70|50|1059860|Chick Pokémon|0.4|2.5|20
+256|256|Combusken|60|85|60|85|60|55|405|67.5|Blaze||Speed Boost|Fire|Fighting|Wakasyamoワカシャモ|45|70|50|1059860|Young Fowl Pokémon|0.9|19.5|20
+257|257|Blaziken|80|120|70|110|70|80|530|88.33|Blaze||Speed Boost|Fire|Fighting|Bursyamoバシャーモ|45|70|50|1059860|Blaze Pokémon|1.9|52|20
+257|257M|Blaziken (Mega Blaziken)|80|160|80|130|80|100|630|105|Speed Boost|||Fire|Fighting|MegaBursyamoメガバシャーモ|45|70|50|1059860|Blaze Pokémon|1.9|52|20
+258|258|Mudkip|50|70|50|50|50|40|310|51.67|Torrent||Damp|Water||Mizugorouミズゴロウ|45|70|50|1059860|Mud Fish Pokémon|0.4|7.6|20
+259|259|Marshtomp|70|85|70|60|70|50|405|67.5|Torrent||Damp|Water|Ground|Numacrawヌマクロー|45|70|50|1059860|Mud Fish Pokémon|0.7|28|20
+260|260|Swampert|100|110|90|85|90|60|535|89.17|Torrent||Damp|Water|Ground|Laglargeラグラージ|45|70|50|1059860|Mud Fish Pokémon|1.5|81.9|20
+260|260M|Swampert (Mega Swampert)|100|150|110|95|110|70|635|105.83|Swift Swim|||Water|Ground|MegaLaglargeメガラグラージ|45|70|50|1059860|Mud Fish Pokémon|1.9|102|20
+261|261|Poochyena|35|55|35|30|30|35|220|36.67|Run Away|Quick Feet|Rattled|Dark||Pochienaポチエナ|255|70|50|1000000|Bite Pokémon|0.5|13.6|15
+262|262|Mightyena|70|90|70|60|60|70|420|70|Intimidate|Quick Feet|Moxie|Dark||Graenaグラエナ|127|70|50|1000000|Bite Pokémon|1|37|15
+263|263|Zigzagoon|38|30|41|30|41|60|240|40|Pickup|Gluttony|Quick Feet|Normal||Jiguzagumaジグザグマ|255|70|50|1000000|Tiny Raccoon Pokémon|0.4|17.5|15
+263|263G|Zigzagoon (Galarian Zigzagoon)|38|30|41|30|41|60|240|40|Pickup|Gluttony|Quick Feet|Dark|Normal|Jiguzagumaジグザグマ|255|70|50|1000000|Tiny Raccoon Pokémon|0.4|17.5|15
+264|264|Linoone|78|70|61|50|61|100|420|70|Pickup|Gluttony|Quick Feet|Normal||Massugumaマッスグマ|90|70|50|1000000|Rushing Pokémon|0.5|32.5|15
+264|264G|Linoone (Galarian Linoone)|78|70|61|50|61|100|420|70|Pickup|Gluttony|Quick Feet|Dark|Normal|Massugumaマッスグマ|90|70|50|1000000|Rushing Pokémon|0.5|32.5|15
+265|265|Wurmple|45|45|35|20|30|20|195|32.5|Shield Dust||Run Away|Bug||Kemussoケムッソ|255|70|50|1000000|Worm Pokémon|0.3|3.6|15
+266|266|Silcoon|50|35|55|25|25|15|205|34.17|Shed Skin|||Bug||Karasalisカラサリス|120|70|50|1000000|Cocoon Pokémon|0.6|10|15
+267|267|Beautifly|60|70|50|100|50|65|395|65.83|Swarm||Rivalry|Bug|Flying|Agehuntアゲハント|45|70|50|1000000|Butterfly Pokémon|1|28.4|15
+268|268|Cascoon|50|35|55|25|25|15|205|34.17|Shed Skin|||Bug||Mayuldマユルド|120|70|50|1000000|Cocoon Pokémon|0.7|11.5|15
+269|269|Dustox|60|50|70|50|90|65|385|64.17|Shield Dust||Compound Eyes|Bug|Poison|Dokucaleドクケイル|45|70|50|1000000|Poison Moth Pokémon|1.2|31.6|15
+270|270|Lotad|40|30|30|40|50|30|220|36.67|Swift Swim|Rain Dish|Own Tempo|Water|Grass|Hassbohハスボー|255|70|50|1059860|Water Weed Pokémon|0.5|2.6|15
+271|271|Lombre|60|50|50|60|70|50|340|56.67|Swift Swim|Rain Dish|Own Tempo|Water|Grass|Hasubreroハスブレロ|120|70|50|1059860|Jolly Pokémon|1.2|32.5|15
+272|272|Ludicolo|80|70|70|90|100|70|480|80|Swift Swim|Rain Dish|Own Tempo|Water|Grass|Runpappaルンパッパ|45|70|50|1059860|Carefree Pokémon|1.5|55|15
+273|273|Seedot|40|40|50|30|30|30|220|36.67|Chlorophyll|Early Bird|Pickpocket|Grass||Tanebohタネボー|255|70|50|1059860|Acorn Pokémon|0.5|4|15
+274|274|Nuzleaf|70|70|40|60|40|60|340|56.67|Chlorophyll|Early Bird|Pickpocket|Grass|Dark|Konohanaコノハナ|120|70|50|1059860|Wily Pokémon|1|28|15
+275|275|Shiftry|90|100|60|90|60|80|480|80|Chlorophyll|Early Bird|Pickpocket|Grass|Dark|Dirtengダーテング|45|70|50|1059860|Wicked Pokémon|1.3|59.6|15
+276|276|Taillow|40|55|30|30|30|85|270|45|Guts||Scrappy|Normal|Flying|Subameスバメ|200|70|50|1059860|Tiny Swallow Pokémon|0.3|2.3|15
+277|277|Swellow|60|85|60|75|50|125|455|75.83|Guts||Scrappy|Normal|Flying|Ohsubameオオスバメ|45|70|50|1059860|Swallow Pokémon|0.7|19.8|15
+278|278|Wingull|40|30|30|55|30|85|270|45|Keen Eye|Hydration|Rain Dish|Water|Flying|Camomeキャモメ|190|70|50|1000000|Seagull Pokémon|0.6|9.5|20
+279|279|Pelipper|60|50|100|95|70|65|440|73.33|Keen Eye|Drizzle|Rain Dish|Water|Flying|Pelipperペリッパー|45|70|50|1000000|Water Bird Pokémon|1.2|28|20
+280|280|Ralts|28|25|25|45|35|40|198|33|Synchronize|Trace|Telepathy|Psychic|Fairy|Raltsラルトス|235|35|35|1250000|Feeling Pokémon|0.4|6.6|20
+281|281|Kirlia|38|35|35|65|55|50|278|46.33|Synchronize|Trace|Telepathy|Psychic|Fairy|Kirliaキルリア|120|35|35|1250000|Emotion Pokémon|0.8|20.2|20
+282|282|Gardevoir|68|65|65|125|115|80|518|86.33|Synchronize|Trace|Telepathy|Psychic|Fairy|Sirnightサーナイト|45|35|35|1250000|Embrace Pokémon|1.6|48.4|20
+282|282M|Gardevoir (Mega Gardevoir)|68|85|65|165|135|100|618|103|Pixilate|||Psychic|Fairy|MegaSirnightメガサーナイト|45|35|35|1250000|Embrace Pokémon|1.6|48.4|20
+283|283|Surskit|40|30|32|50|52|65|269|44.83|Swift Swim||Rain Dish|Bug|Water|Ametamaアメタマ|200|70|50|1000000|Pond Skater Pokémon|0.5|1.7|15
+284|284|Masquerain|70|60|62|100|82|80|454|75.67|Intimidate||Unnerve|Bug|Flying|Amemothアメモース|75|70|50|1000000|Eyeball Pokémon|0.8|3.6|15
+285|285|Shroomish|60|40|60|40|60|35|295|49.17|Effect Spore|Poison Heal|Quick Feet|Grass||Kinococoキノココ|255|70|50|1640000|Mushroom Pokémon|0.4|4.5|15
+286|286|Breloom|60|130|80|60|60|70|460|76.67|Effect Spore|Poison Heal|Technician|Grass|Fighting|Kinogassaキノガッサ|90|70|50|1640000|Mushroom Pokémon|1.2|39.2|15
+287|287|Slakoth|60|60|60|35|35|30|280|46.67|Truant|||Normal||Namakeroナマケロ|255|70|50|1250000|Slacker Pokémon|0.8|24|15
+288|288|Vigoroth|80|80|80|55|55|90|440|73.33|Vital Spirit|||Normal||Yarukimonoヤルキモノ|120|70|50|1250000|Wild Monkey Pokémon|1.4|46.5|15
+289|289|Slaking|150|160|100|95|65|100|670|111.67|Truant|||Normal||Kekkingケッキング|45|70|50|1250000|Lazy Pokémon|2|130.5|15
+290|290|Nincada|31|45|90|30|30|40|266|44.33|Compound Eyes||Run Away|Bug|Ground|Tutininツチニン|255|70|50|600000|Trainee Pokémon|0.5|5.5|15
+291|291|Ninjask|61|90|45|50|50|160|456|76|Speed Boost||Infiltrator|Bug|Flying|Tekkaninテッカニン|120|70|50|600000|Ninja Pokémon|0.8|12|15
+292|292|Shedinja|1|90|45|30|30|40|236|39.33|Wonder Guard|||Bug|Ghost|Nukeninヌケニン|45|70|50|600000|Shed Pokémon|0.8|1.2|15
+293|293|Whismur|64|51|23|51|23|28|240|40|Soundproof||Rattled|Normal||Gonyonyoゴニョニョ|190|70|50|1059860|Whisper Pokémon|0.6|16.3|20
+294|294|Loudred|84|71|43|71|43|48|360|60|Soundproof||Scrappy|Normal||Dogohmbドゴーム|120|70|50|1059860|Big Voice Pokémon|1|40.5|20
+295|295|Exploud|104|91|63|91|73|68|490|81.67|Soundproof||Scrappy|Normal||Bakuongバクオング|45|70|50|1059860|Loud Noise Pokémon|1.5|84|20
+296|296|Makuhita|72|60|30|20|30|25|237|39.5|Thick Fat|Guts|Sheer Force|Fighting||Makunoshitaマクノシタ|180|70|50|1640000|Guts Pokémon|1|86.4|20
+297|297|Hariyama|144|120|60|40|60|50|474|79|Thick Fat|Guts|Sheer Force|Fighting||Hariteyamaハリテヤマ|200|70|50|1640000|Arm Thrust Pokémon|2.3|253.8|20
+298|298|Azurill|50|20|40|20|40|20|190|31.67|Thick Fat|Huge Power|Sap Sipper|Normal|Fairy|Ruririルリリ|150|70|50|800000|Polka Dot Pokémon|0.2|2|10
+299|299|Nosepass|30|45|135|45|90|30|375|62.5|Sturdy|Magnet Pull|Sand Force|Rock||Nosepassノズパス|255|70|50|1000000|Compass Pokémon|1|97|20
+300|300|Skitty|50|45|45|35|35|50|260|43.33|Cute Charm|Normalize|Wonder Skin|Normal||Enecoエネコ|255|70|50|800000|Kitten Pokémon|0.6|11|15
+301|301|Delcatty|70|65|65|55|55|90|400|66.67|Cute Charm|Normalize|Wonder Skin|Normal||Enekororoエネコロロ|60|70|50|800000|Prim Pokémon|1.1|32.6|15
+302|302|Sableye|50|75|75|65|65|50|380|63.33|Keen Eye|Stall|Prankster|Dark|Ghost|Yamiramiヤミラミ|45|35|35|1059860|Darkness Pokémon|0.5|11|25
+302|302M|Sableye (Mega Sableye)|50|85|125|85|115|20|480|80|Magic Bounce|||Dark|Ghost|MegaYamiramiメガヤミラミ|45|35|35|1059860|Darkness Pokémon|0.5|161|25
+303|303|Mawile|50|85|85|55|55|50|380|63.33|Hyper Cutter|Intimidate|Sheer Force|Steel|Fairy|Kucheatクチート|45|70|50|800000|Deceiver Pokémon|0.6|11.5|20
+303|303M|Mawile (Mega Mawile)|50|105|125|55|95|50|480|80|Huge Power|||Steel|Fairy|MegaKucheatメガクチート|45|70|50|800000|Deceiver Pokémon|1|23.5|20
+304|304|Aron|50|70|100|40|40|30|330|55|Sturdy|Rock Head|Heavy Metal|Steel|Rock|Cokodoraココドラ|180|35|35|1250000|Iron Armor Pokémon|0.4|60|35
+305|305|Lairon|60|90|140|50|50|40|430|71.67|Sturdy|Rock Head|Heavy Metal|Steel|Rock|Kodoraコドラ|90|35|35|1250000|Iron Armor Pokémon|0.9|120|35
+306|306|Aggron|70|110|180|60|60|50|530|88.33|Sturdy|Rock Head|Heavy Metal|Steel|Rock|Bossgodoraボスゴドラ|45|35|35|1250000|Iron Armor Pokémon|2.1|360|35
+306|306M|Aggron (Mega Aggron)|70|140|230|60|80|50|630|105|Filter|||Steel||MegaBossgodoraメガボスゴドラ|45|35|35|1250000|Iron Armor Pokémon|2.2|395|35
+307|307|Meditite|30|40|55|40|55|60|280|46.67|Pure Power||Telepathy|Fighting|Psychic|Asananアサナン|180|70|50|1000000|Meditate Pokémon|0.6|11.2|20
+308|308|Medicham|60|60|75|60|75|80|410|68.33|Pure Power||Telepathy|Fighting|Psychic|Charemチャーレム|90|70|50|1000000|Meditate Pokémon|1.3|31.5|20
+308|308M|Medicham (Mega Medicham)|60|100|85|80|85|100|510|85|Pure Power|||Fighting|Psychic|MegaCharemメガチャーレム|90|70|50|1000000|Meditate Pokémon|1.3|31.5|20
+309|309|Electrike|40|45|40|65|40|65|295|49.17|Static|Lightning Rod|Minus|Electric||Rakuraiラクライ|120|70|50|1250000|Lightning Pokémon|0.6|15.2|20
+310|310|Manectric|70|75|60|105|60|105|475|79.17|Static|Lightning Rod|Minus|Electric||Livoltライボルト|45|70|50|1250000|Discharge Pokémon|1.5|40.2|20
+310|310M|Manectric (Mega Manectric)|70|75|80|135|80|135|575|95.83|Intimidate|||Electric||MegaLivoltメガライボルト|45|70|50|1250000|Discharge Pokémon|1.8|44|20
+311|311|Plusle|60|50|40|85|75|95|405|67.5|Plus||Lightning Rod|Electric||Prasleプラスル|200|70|50|1000000|Cheering Pokémon|0.4|4.2|20
+312|312|Minun|60|40|50|75|85|95|405|67.5|Minus||Volt Absorb|Electric||Minunマイナン|200|70|50|1000000|Cheering Pokémon|0.4|4.2|20
+313|313|Volbeat|65|73|75|47|85|85|430|71.67|Illuminate|Swarm|Prankster|Bug||Barubeatバルビート|150|70|50|600000|Firefly Pokémon|0.7|17.7|15
+314|314|Illumise|65|47|75|73|85|85|430|71.67|Oblivious|Tinted Lens|Prankster|Bug||Illumiseイルミーゼ|150|70|50|1640000|Firefly Pokémon|0.6|17.7|15
+315|315|Roselia|50|60|45|100|80|65|400|66.67|Natural Cure|Poison Point|Leaf Guard|Grass|Poison|Roseliaロゼリア|150|70|50|1059860|Thorn Pokémon|0.3|2|20
+316|316|Gulpin|70|43|53|43|53|40|302|50.33|Liquid Ooze|Sticky Hold|Gluttony|Poison||Gokulinゴクリン|225|70|50|1640000|Stomach Pokémon|0.4|10.3|20
+317|317|Swalot|100|73|83|73|83|55|467|77.83|Liquid Ooze|Sticky Hold|Gluttony|Poison||Marunoomマルノーム|75|70|50|1640000|Poison Bag Pokémon|1.7|80|20
+318|318|Carvanha|45|90|20|65|20|65|305|50.83|Rough Skin||Speed Boost|Water|Dark|Kibanhaキバニア|225|35|35|1250000|Savage Pokémon|0.8|20.8|20
+319|319|Sharpedo|70|120|40|95|40|95|460|76.67|Rough Skin||Speed Boost|Water|Dark|Samehaderサメハダー|60|35|35|1250000|Brutal Pokémon|1.8|88.8|20
+319|319M|Sharpedo (Mega Sharpedo)|70|140|70|110|65|105|560|93.33|Strong Jaw|||Water|Dark|MegaSamehaderメガサメハダー|60|35|35|1250000|Brutal Pokémon|2.5|130.3|20
+320|320|Wailmer|130|70|35|70|35|60|400|66.67|Water Veil|Oblivious|Pressure|Water||Hoerukoホエルコ|125|70|50|1640000|Ball Whale Pokémon|2|130|40
+321|321|Wailord|170|90|45|90|45|60|500|83.33|Water Veil|Oblivious|Pressure|Water||Whalohホエルオー|60|70|50|1640000|Float Whale Pokémon|14.5|398|40
+322|322|Numel|60|60|40|65|45|35|305|50.83|Oblivious|Simple|Own Tempo|Fire|Ground|Donmelドンメル|255|70|50|1000000|Numb Pokémon|0.7|24|20
+323|323|Camerupt|70|100|70|105|75|40|460|76.67|Magma Armor|Solid Rock|Anger Point|Fire|Ground|Bakuudaバクーダ|150|70|50|1000000|Eruption Pokémon|1.9|220|20
+323|323M|Camerupt (Mega Camerupt)|70|120|100|145|105|20|560|93.33|Sheer Force|||Fire|Ground|MegaBakuudaメガバクーダ|150|70|50|1000000|Eruption Pokémon|2.5|320.5|20
+324|324|Torkoal|70|85|140|85|70|20|470|78.33|White Smoke|Drought|Shell Armor|Fire||Cotoiseコータス|90|70|50|1000000|Coal Pokémon|0.5|80.4|20
+325|325|Spoink|60|25|35|70|80|60|330|55|Thick Fat|Own Tempo|Gluttony|Psychic||Banebooバネブー|255|70|50|800000|Bounce Pokémon|0.7|30.6|20
+326|326|Grumpig|80|45|65|90|110|80|470|78.33|Thick Fat|Own Tempo|Gluttony|Psychic||Boopigブーピッグ|60|70|50|800000|Manipulate Pokémon|0.9|71.5|20
+327|327|Spinda|60|60|60|60|60|60|360|60|Own Tempo|Tangled Feet|Contrary|Normal||Patcheelパッチール|255|70|50|800000|Spot Panda Pokémon|1.1|5|15
+328|328|Trapinch|45|100|45|45|45|10|290|48.33|Hyper Cutter|Arena Trap|Sheer Force|Ground||Nuckrarナックラー|255|70|50|1059860|Ant Pit Pokémon|0.7|15|20
+329|329|Vibrava|50|70|50|50|50|70|340|56.67|Levitate|||Ground|Dragon|Vibravaビブラーバ|120|70|50|1059860|Vibration Pokémon|1.1|15.3|20
+330|330|Flygon|80|100|80|80|80|100|520|86.67|Levitate|||Ground|Dragon|Flygonフライゴン|45|70|50|1059860|Mystic Pokémon|2|82|20
+331|331|Cacnea|50|85|40|85|40|35|335|55.83|Sand Veil||Water Absorb|Grass||Saboneaサボネア|190|35|35|1059860|Cactus Pokémon|0.4|51.3|20
+332|332|Cacturne|70|115|60|115|60|55|475|79.17|Sand Veil||Water Absorb|Grass|Dark|Noctusノクタス|60|35|35|1059860|Scarecrow Pokémon|1.3|77.4|20
+333|333|Swablu|45|40|60|40|75|50|310|51.67|Natural Cure||Cloud Nine|Normal|Flying|Tylttoチルット|255|70|50|600000|Cotton Bird Pokémon|0.4|1.2|20
+334|334|Altaria|75|70|90|70|105|80|490|81.67|Natural Cure||Cloud Nine|Dragon|Flying|Tyltalisチルタリス|45|70|50|600000|Humming Pokémon|1.1|20.6|20
+334|334M|Altaria (Mega Altaria)|75|110|110|110|105|80|590|98.33|Pixilate|||Dragon|Fairy|MegaTyltalisメガチルタリス|45|70|50|600000|Humming Pokémon|1.5|20.6|20
+335|335|Zangoose|73|115|60|60|60|90|458|76.33|Immunity||Toxic Boost|Normal||Zangooseザングース|90|70|50|600000|Cat Ferret Pokémon|1.3|40.3|20
+336|336|Seviper|73|100|60|100|60|65|458|76.33|Shed Skin||Infiltrator|Poison||Habunakeハブネーク|90|70|50|1640000|Fang Snake Pokémon|2.7|52.5|20
+337|337|Lunatone|90|55|65|95|85|70|460|76.67|Levitate|||Rock|Psychic|Lunatoneルナトーン|45|70|50|800000|Meteorite Pokémon|1|168|25
+338|338|Solrock|90|95|85|55|65|70|460|76.67|Levitate|||Rock|Psychic|Solrockソルロック|45|70|50|800000|Meteorite Pokémon|1.2|154|25
+339|339|Barboach|50|48|43|46|41|60|288|48|Oblivious|Anticipation|Hydration|Water|Ground|Dojoachドジョッチ|190|70|50|1000000|Whiskers Pokémon|0.4|1.9|20
+340|340|Whiscash|110|78|73|76|71|60|468|78|Oblivious|Anticipation|Hydration|Water|Ground|Namazunナマズン|75|70|50|1000000|Whiskers Pokémon|0.9|23.6|20
+341|341|Corphish|43|80|65|50|35|35|308|51.33|Hyper Cutter|Shell Armor|Adaptability|Water||Heiganiヘイガニ|205|70|50|1640000|Ruffian Pokémon|0.6|11.5|15
+342|342|Crawdaunt|63|120|85|90|55|55|468|78|Hyper Cutter|Shell Armor|Adaptability|Water|Dark|Shizarigerシザリガー|155|70|50|1640000|Rogue Pokémon|1.1|32.8|15
+343|343|Baltoy|40|40|55|40|70|55|300|50|Levitate|||Ground|Psychic|Yajilonヤジロン|255|70|50|1000000|Clay Doll Pokémon|0.5|21.5|20
+344|344|Claydol|60|70|105|70|120|75|500|83.33|Levitate|||Ground|Psychic|Nendollネンドール|90|70|50|1000000|Clay Doll Pokémon|1.5|108|20
+345|345|Lileep|66|41|77|61|87|23|355|59.17|Suction Cups||Storm Drain|Rock|Grass|Lilylaリリーラ|45|70|50|600000|Sea Lily Pokémon|1|23.8|30
+346|346|Cradily|86|81|97|81|107|43|495|82.5|Suction Cups||Storm Drain|Rock|Grass|Yuradleユレイドル|45|70|50|600000|Barnacle Pokémon|1.5|60.4|30
+347|347|Anorith|45|95|50|40|50|75|355|59.17|Battle Armor||Swift Swim|Rock|Bug|Anopthアノプス|45|70|50|600000|Old Shrimp Pokémon|0.7|12.5|30
+348|348|Armaldo|75|125|100|70|80|45|495|82.5|Battle Armor||Swift Swim|Rock|Bug|Armaldoアーマルド|45|70|50|600000|Plate Pokémon|1.5|68.2|30
+349|349|Feebas|20|15|20|10|55|80|200|33.33|Swift Swim|Oblivious|Adaptability|Water||Hinbassヒンバス|255|70|50|600000|Fish Pokémon|0.6|7.4|20
+350|350|Milotic|95|60|79|100|125|81|540|90|Marvel Scale|Competitive|Cute Charm|Water||Milokarossミロカロス|60|70|50|600000|Tender Pokémon|6.2|162|20
+351|351|Castform|70|70|70|70|70|70|420|70|Forecast|||Normal||Powalenポワルン|45|70|50|1000000|Weather Pokémon|0.3|0.8|25
+351|351R|Castform (Rainy Form)|70|70|70|70|70|70|420|70|Forecast|||Water||Powalenポワルン|45|70|50|1000000|Weather Pokémon|0.3|0.8|25
+351|351Sn|Castform (Snowy Form)|70|70|70|70|70|70|420|70|Forecast|||Ice||Powalenポワルン|45|70|50|1000000|Weather Pokémon|0.3|0.8|25
+351|351Su|Castform (Sunny Form)|70|70|70|70|70|70|420|70|Forecast|||Fire||Powalenポワルン|45|70|50|1000000|Weather Pokémon|0.3|0.8|25
+352|352|Kecleon|60|90|70|60|120|40|440|73.33|Color Change||Protean|Normal||Kakureonカクレオン|200|70|50|1059860|Color Swap Pokémon|1|22|20
+353|353|Shuppet|44|75|35|63|33|45|295|49.17|Insomnia|Frisk|Cursed Body|Ghost||Kagebouzuカゲボウズ|225|35|35|800000|Puppet Pokémon|0.6|2.3|25
+354|354|Banette|64|115|65|83|63|65|455|75.83|Insomnia|Frisk|Cursed Body|Ghost||Juppetaジュペッタ|45|35|35|800000|Marionette Pokémon|1.1|12.5|25
+354|354M|Banette (Mega Banette)|64|165|75|93|83|75|555|92.5|Prankster|||Ghost||MegaJuppetaメガジュペッタ|45|35|35|800000|Marionette Pokémon|1.2|13|25
+355|355|Duskull|20|40|90|30|90|25|295|49.17|Levitate||Frisk|Ghost||Yomawaruヨマワル|190|35|35|800000|Requiem Pokémon|0.8|15|25
+356|356|Dusclops|40|70|130|60|130|25|455|75.83|Pressure||Frisk|Ghost||Samayouruサマヨール|90|35|35|800000|Beckon Pokémon|1.6|30.6|25
+357|357|Tropius|99|68|83|72|87|51|460|76.67|Chlorophyll|Solar Power|Harvest|Grass|Flying|Tropiusトロピウス|200|70|50|1250000|Fruit Pokémon|2|100|25
+358|358|Chimecho|75|50|80|95|90|65|455|75.83|Levitate|||Psychic||Chireanチリーン|45|70|50|800000|Wind Chime Pokémon|0.6|1|25
+359|359|Absol|65|130|60|75|60|75|465|77.5|Pressure|Super Luck|Justified|Dark||Absolアブソル|30|35|35|1059860|Disaster Pokémon|1.2|47|25
+359|359M|Absol (Mega Absol)|65|150|60|115|60|115|565|94.17|Magic Bounce|||Dark||MegaAbsolメガアブソル|30|35|35|1059860|Disaster Pokémon|1.2|49|25
+360|360|Wynaut|95|23|48|23|48|23|260|43.33|Shadow Tag||Telepathy|Psychic||Sohnanoソーナノ|125|70|50|1000000|Bright Pokémon|0.6|14|20
+361|361|Snorunt|50|50|50|50|50|50|300|50|Inner Focus|Ice Body|Moody|Ice||Yukiwarashiユキワラシ|190|70|50|1000000|Snow Hat Pokémon|0.7|16.8|20
+362|362|Glalie|80|80|80|80|80|80|480|80|Inner Focus|Ice Body|Moody|Ice||Onigohriオニゴーリ|75|70|50|1000000|Face Pokémon|1.5|256.5|20
+362|362M|Glalie (Mega Glalie)|80|120|80|120|80|100|580|96.67|Refrigerate|||Ice||MegaOnigohriメガオニゴーリ|75|70|50|1000000|Face Pokémon|2.1|350.2|20
+363|363|Spheal|70|40|50|55|50|25|290|48.33|Thick Fat|Ice Body|Oblivious|Ice|Water|Tamazarashiタマザラシ|255|70|50|1059860|Clap Pokémon|0.8|39.5|20
+364|364|Sealeo|90|60|70|75|70|45|410|68.33|Thick Fat|Ice Body|Oblivious|Ice|Water|Todogglerトドグラー|120|70|50|1059860|Ball Roll Pokémon|1.1|87.6|20
+365|365|Walrein|110|80|90|95|90|65|530|88.33|Thick Fat|Ice Body|Oblivious|Ice|Water|Todoserugaトドゼルガ|45|70|50|1059860|Ice Break Pokémon|1.4|150.6|20
+366|366|Clamperl|35|64|85|74|55|32|345|57.5|Shell Armor||Rattled|Water||Pearluluパールル|255|70|50|600000|Bivalve Pokémon|0.4|52.5|20
+367|367|Huntail|55|104|105|94|75|52|485|80.83|Swift Swim||Water Veil|Water||Huntailハンテール|60|70|50|600000|Deep Sea Pokémon|1.7|27|20
+368|368|Gorebyss|55|84|105|114|75|52|485|80.83|Swift Swim||Hydration|Water||Sakurabyssサクラビス|60|70|50|600000|South Sea Pokémon|1.8|22.6|20
+369|369|Relicanth|100|90|130|45|65|55|485|80.83|Swift Swim|Rock Head|Sturdy|Water|Rock|Glanthジーランス|25|70|50|1250000|Longevity Pokémon|1|23.4|40
+370|370|Luvdisc|43|30|55|40|65|97|330|55|Swift Swim||Hydration|Water||Lovecusラブカス|225|70|50|800000|Rendezvous Pokémon|0.6|8.7|20
+371|371|Bagon|45|75|60|40|30|50|300|50|Rock Head||Sheer Force|Dragon||Tatsubayタツベイ|45|35|35|1250000|Rock Head Pokémon|0.6|42.1|40
+372|372|Shelgon|65|95|100|60|50|50|420|70|Rock Head||Overcoat|Dragon||Komoruuコモルー|45|35|35|1250000|Endurance Pokémon|1.1|110.5|40
+373|373|Salamence|95|135|80|110|80|100|600|100|Intimidate||Moxie|Dragon|Flying|Bohmanderボーマンダ|45|35|35|1250000|Dragon Pokémon|1.5|102.6|40
+373|373M|Salamence (Mega Salamence)|95|145|130|120|90|120|700|116.67|Aerilate|||Dragon|Flying|MegaBohmanderメガボーマンダ|45|35|35|1250000|Dragon Pokémon|1.8|112.6|40
+374|374|Beldum|40|55|80|35|60|30|300|50|Clear Body||Light Metal|Steel|Psychic|Dumbberダンバル|3|35|35|1250000|Iron Ball Pokémon|0.6|95.2|40
+375|375|Metang|60|75|100|55|80|50|420|70|Clear Body||Light Metal|Steel|Psychic|Metangメタング|3|35|35|1250000|Iron Claw Pokémon|1.2|202.5|40
+376|376|Metagross|80|135|130|95|90|70|600|100|Clear Body||Light Metal|Steel|Psychic|Metagrossメタグロス|3|35|35|1250000|Iron Leg Pokémon|1.6|550|40
+376|376M|Metagross (Mega Metagross)|80|145|150|105|110|110|700|116.67|Tough Claws|||Steel|Psychic|MegaMetagrossメガメタグロス|3|35|35|1250000|Iron Leg Pokémon|2.5|942.9|40
+377|377|Regirock|80|100|200|50|100|50|580|96.67|Clear Body||Sturdy|Rock||Regirockレジロック|3|35|35|1250000|Rock Peak Pokémon|1.7|230|80
+378|378|Regice|80|50|100|100|200|50|580|96.67|Clear Body||Ice Body|Ice||Regiceレジアイス|3|35|35|1250000|Iceberg Pokémon|1.8|175|80
+379|379|Registeel|80|75|150|75|150|50|580|96.67|Clear Body||Light Metal|Steel||Registeelレジスチル|3|35|35|1250000|Iron Pokémon|1.9|205|80
+380|380|Latias|80|80|90|110|130|110|600|100|Levitate|||Dragon|Psychic|Latiasラティアス|3|90|90|1250000|Eon Pokémon|1.4|40|120
+380|380M|Latias (Mega Latias)|80|100|120|140|150|110|700|116.67|Levitate|||Dragon|Psychic|MegaLatiasメガラティアス|3|90|90|1250000|Eon Pokémon|1.8|52|120
+381|381|Latios|80|90|80|130|110|110|600|100|Levitate|||Dragon|Psychic|Latiosラティオス|3|90|90|1250000|Eon Pokémon|2|60|120
+381|381M|Latios (Mega Latios)|80|130|100|160|120|110|700|116.67|Levitate|||Dragon|Psychic|MegaLatiosメガラティオス|3|90|90|1250000|Eon Pokémon|2.3|70|120
+382|382|Kyogre|100|100|90|150|140|90|670|111.67|Drizzle|||Water||Kyogreカイオーガ|3|0|0|1250000|Sea Basin Pokémon|4.5|352|120
+382|382P|Kyogre (Primal Kyogre)|100|150|90|180|160|90|770|128.33|Primordial Sea|||Water||PrimalKyogreゲンシカイオーガ|3|0|0|1250000|Sea Basin Pokémon|9.8|430|120
+383|383|Groudon|100|150|140|100|90|90|670|111.67|Drought|||Ground||Groudonグラードン|3|0|0|1250000|Continent Pokémon|3.5|950|120
+383|383P|Groudon (Primal Groudon)|100|180|160|150|90|90|770|128.33|Desolate Land|||Ground|Fire|PrimalGroudonゲンシグラードン|3|0|0|1250000|Continent Pokémon|5|999.7|120
+384|384|Rayquaza|105|150|90|150|90|95|680|113.33|Air Lock|||Dragon|Flying|Rayquazaレックウザ|45|0|0|1250000|Sky High Pokémon|7|206.5|120
+384|384M|Rayquaza (Mega Rayquaza)|105|180|100|180|100|115|780|130|Delta Stream|||Dragon|Flying|MegaRayquazaメガレックウザ|45|0|0|1250000|Sky High Pokémon|10.8|392|120
+385|385|Jirachi|100|100|100|100|100|100|600|100|Serene Grace|||Steel|Psychic|Jirachiジラーチ|3|100|100|1250000|Wish Pokémon|0.3|1.1|120
+386|386|Deoxys (Normal Forme)|50|150|50|150|50|150|600|100|Pressure|||Psychic||Deoxysデオキシス|3|0|0|1250000|DNA Pokémon|1.7|60.8|120
+386|386A|Deoxys (Attack Forme)|50|180|20|180|20|150|600|100|Pressure|||Psychic||Deoxysデオキシス|3|0|0|1250000|DNA Pokémon|1.7|60.8|120
+386|386D|Deoxys (Defense Forme)|50|70|160|70|160|90|600|100|Pressure|||Psychic||Deoxysデオキシス|3|0|0|1250000|DNA Pokémon|1.7|60.8|120
+386|386S|Deoxys (Speed Forme)|50|95|90|95|90|180|600|100|Pressure|||Psychic||Deoxysデオキシス|3|0|0|1250000|DNA Pokémon|1.7|60.8|120
+387|387|Turtwig|55|68|64|45|55|31|318|53|Overgrow||Shell Armor|Grass||Naetleナエトル|45|70|50|1059860|Tiny Leaf Pokémon|0.4|10.2|20
+388|388|Grotle|75|89|85|55|65|36|405|67.5|Overgrow||Shell Armor|Grass||Hayashigameハヤシガメ|45|70|50|1059860|Grove Pokémon|1.1|97|20
+389|389|Torterra|95|109|105|75|85|56|525|87.5|Overgrow||Shell Armor|Grass|Ground|Dodaitoseドダイトス|45|70|50|1059860|Continent Pokémon|2.2|310|20
+390|390|Chimchar|44|58|44|58|44|61|309|51.5|Blaze||Iron Fist|Fire||Hikozaruヒコザル|45|70|50|1059860|Chimp Pokémon|0.5|6.2|20
+391|391|Monferno|64|78|52|78|52|81|405|67.5|Blaze||Iron Fist|Fire|Fighting|Moukazaruモウカザル|45|70|50|1059860|Playful Pokémon|0.9|22|20
+392|392|Infernape|76|104|71|104|71|108|534|89|Blaze||Iron Fist|Fire|Fighting|Goukazaruゴウカザル|45|70|50|1059860|Flame Pokémon|1.2|55|20
+393|393|Piplup|53|51|53|61|56|40|314|52.33|Torrent||Defiant|Water||Pochamaポッチャマ|45|70|50|1059860|Penguin Pokémon|0.4|5.2|20
+394|394|Prinplup|64|66|68|81|76|50|405|67.5|Torrent||Defiant|Water||Pottaishiポッタイシ|45|70|50|1059860|Penguin Pokémon|0.8|23|20
+395|395|Empoleon|84|86|88|111|101|60|530|88.33|Torrent||Defiant|Water|Steel|Emperteエンペルト|45|70|50|1059860|Emperor Pokémon|1.7|84.5|20
+396|396|Starly|40|55|30|30|30|60|245|40.83|Keen Eye||Reckless|Normal|Flying|Mukkuruムックル|255|70|50|1059860|Starling Pokémon|0.3|2|15
+397|397|Staravia|55|75|50|40|40|80|340|56.67|Intimidate||Reckless|Normal|Flying|Mukubirdムクバード|120|70|50|1059860|Starling Pokémon|0.6|15.5|15
+398|398|Staraptor|85|120|70|50|60|100|485|80.83|Intimidate||Reckless|Normal|Flying|Mukuhawkムクホーク|45|70|50|1059860|Predator Pokémon|1.2|24.9|15
+399|399|Bidoof|59|45|40|35|40|31|250|41.67|Simple|Unaware|Moody|Normal||Bippaビッパ|255|70|50|1000000|Plump Mouse Pokémon|0.5|20|15
+400|400|Bibarel|79|85|60|55|60|71|410|68.33|Simple|Unaware|Moody|Normal|Water|Beadaruビーダル|127|70|50|1000000|Beaver Pokémon|1|31.5|15
+401|401|Kricketot|37|25|41|25|41|25|194|32.33|Shed Skin||Run Away|Bug||Korobohshiコロボーシ|255|70|50|1059860|Cricket Pokémon|0.3|2.2|15
+402|402|Kricketune|77|85|51|55|51|65|384|64|Swarm||Technician|Bug||Korotockコロトック|45|70|50|1059860|Cricket Pokémon|1|25.5|15
+403|403|Shinx|45|65|34|40|34|45|263|43.83|Rivalry|Intimidate|Guts|Electric||Kolinkコリンク|235|70|50|1059860|Flash Pokémon|0.5|9.5|20
+404|404|Luxio|60|85|49|60|49|60|363|60.5|Rivalry|Intimidate|Guts|Electric||Luxioルクシオ|120|100|100|1059860|Spark Pokémon|0.9|30.5|20
+405|405|Luxray|80|120|79|95|79|70|523|87.17|Rivalry|Intimidate|Guts|Electric||Rentorarレントラー|45|70|50|1059860|Gleam Eyes Pokémon|1.4|42|20
+406|406|Budew|40|30|35|50|70|55|280|46.67|Natural Cure|Poison Point|Leaf Guard|Grass|Poison|Subomieスボミー|255|70|50|1059860|Bud Pokémon|0.2|1.2|20
+407|407|Roserade|60|70|65|125|105|90|515|85.83|Natural Cure|Poison Point|Technician|Grass|Poison|Roseradeロズレイド|75|70|50|1059860|Bouquet Pokémon|0.9|14.5|20
+408|408|Cranidos|67|125|40|30|30|58|350|58.33|Mold Breaker||Sheer Force|Rock||Zugaidosズガイドス|45|70|50|600000|Head Butt Pokémon|0.9|31.5|30
+409|409|Rampardos|97|165|60|65|50|58|495|82.5|Mold Breaker||Sheer Force|Rock||Rampaldラムパルド|45|70|50|600000|Head Butt Pokémon|1.6|102.5|30
+410|410|Shieldon|30|42|118|42|88|30|350|58.33|Sturdy||Soundproof|Rock|Steel|Tatetopsタテトプス|45|70|50|600000|Shield Pokémon|0.5|57|30
+411|411|Bastiodon|60|52|168|47|138|30|495|82.5|Sturdy||Soundproof|Rock|Steel|Toridepsトリデプス|45|70|50|600000|Shield Pokémon|1.3|149.5|30
+412|412|Burmy|40|29|45|29|45|36|224|37.33|Shed Skin||Overcoat|Bug||Minomucchiミノムッチ|120|70|50|1000000|Bagworm Pokémon|0.2|3.4|15
+413|413|Wormadam (Plant Cloak)|60|59|85|79|105|36|424|70.67|Anticipation||Overcoat|Bug|Grass|Minomadamミノマダム|45|70|50|1000000|Bagworm Pokémon|0.5|6.5|15
+413|413G|Wormadam (Sandy Cloak)|60|79|105|59|85|36|424|70.67|Anticipation||Overcoat|Bug|Ground|Minomadamミノマダム|45|70|50|1000000|Bagworm Pokémon|0.5|6.5|15
+413|413S|Wormadam (Trash Cloak)|60|69|95|69|95|36|424|70.67|Anticipation||Overcoat|Bug|Steel|Minomadamミノマダム|45|70|50|1000000|Bagworm Pokémon|0.5|6.5|15
+414|414|Mothim|70|94|50|94|50|66|424|70.67|Swarm||Tinted Lens|Bug|Flying|Gamaleガーメイル|45|70|50|1000000|Moth Pokémon|0.9|23.3|15
+415|415|Combee|30|30|42|30|42|70|244|40.67|Honey Gather||Hustle|Bug|Flying|Mitsuhoneyミツハニー|120|70|50|1059860|Tiny Bee Pokémon|0.3|5.5|15
+416|416|Vespiquen|70|80|102|80|102|40|474|79|Pressure||Unnerve|Bug|Flying|Beequenビークイン|45|70|50|1059860|Beehive Pokémon|1.2|38.5|15
+417|417|Pachirisu|60|45|70|45|90|95|405|67.5|Run Away|Pickup|Volt Absorb|Electric||Pachirisuパチリス|200|100|100|1000000|EleSquirrel Pokémon|0.4|3.9|10
+418|418|Buizel|55|65|35|60|30|85|330|55|Swift Swim||Water Veil|Water||Buoyselブイゼル|190|70|50|1000000|Sea Weasel Pokémon|0.7|29.5|20
+419|419|Floatzel|85|105|55|85|50|115|495|82.5|Swift Swim||Water Veil|Water||Floazelフローゼル|75|70|50|1000000|Sea Weasel Pokémon|1.1|33.5|20
+420|420|Cherubi|45|35|45|62|53|35|275|45.83|Chlorophyll|||Grass||Cherinboチェリンボ|190|70|50|1000000|Cherry Pokémon|0.4|3.3|20
+421|421|Cherrim|70|60|70|87|78|85|450|75|Flower Gift|||Grass||Cherrimチェリム|75|70|50|1000000|Blossom Pokémon|0.5|9.3|20
+422|422|Shellos|76|48|48|57|62|34|325|54.17|Sticky Hold|Storm Drain|Sand Force|Water||Karanakushiカラナクシ|190|70|50|1000000|Sea Slug Pokémon|0.3|6.3|20
+423|423|Gastrodon|111|83|68|92|82|39|475|79.17|Sticky Hold|Storm Drain|Sand Force|Water|Ground|Tritodonトリトドン|75|70|50|1000000|Sea Slug Pokémon|0.9|29.9|20
+424|424|Ambipom|75|100|66|60|66|115|482|80.33|Technician|Pickup|Skill Link|Normal||Etebothエテボース|45|100|100|800000|Long Tail Pokémon|1.2|20.3|20
+425|425|Drifloon|90|50|34|60|44|70|348|58|Aftermath|Unburden|Flare Boost|Ghost|Flying|Fuwanteフワンテ|125|70|50|1640000|Balloon Pokémon|0.4|1.2|30
+426|426|Drifblim|150|80|44|90|54|80|498|83|Aftermath|Unburden|Flare Boost|Ghost|Flying|Fuwarideフワライド|60|70|50|1640000|Blimp Pokémon|1.2|15|30
+427|427|Buneary|55|66|44|44|56|85|350|58.33|Run Away|Klutz|Limber|Normal||Mimirolミミロル|190|0|0|1000000|Rabbit Pokémon|0.4|5.5|20
+428|428|Lopunny|65|76|84|54|96|105|480|80|Cute Charm|Klutz|Limber|Normal||Mimilopミミロップ|60|140|140|1000000|Rabbit Pokémon|1.2|33.3|20
+428|428M|Lopunny (Mega Lopunny)|65|136|94|54|96|135|580|96.67|Scrappy|||Normal|Fighting|MegaMimilopメガミミロップ|60|140|140|1000000|Rabbit Pokémon|1.3|28.3|20
+429|429|Mismagius|60|60|60|105|105|105|495|82.5|Levitate|||Ghost||Mumargiムウマージ|45|35|35|800000|Magical Pokémon|0.9|4.4|25
+430|430|Honchkrow|100|125|52|105|52|71|505|84.17|Insomnia|Super Luck|Moxie|Dark|Flying|Dongkarasuドンカラス|30|35|35|1059860|Big Boss Pokémon|0.9|27.3|20
+431|431|Glameow|49|55|42|42|37|85|310|51.67|Limber|Own Tempo|Keen Eye|Normal||Nyarmarニャルマー|190|70|50|800000|Catty Pokémon|0.5|3.9|20
+432|432|Purugly|71|82|64|64|59|112|452|75.33|Thick Fat|Own Tempo|Defiant|Normal||Bunyattoブニャット|75|70|50|800000|Tiger Cat Pokémon|1|43.8|20
+433|433|Chingling|45|30|50|65|50|45|285|47.5|Levitate|||Psychic||Lisyanリーシャン|120|70|50|800000|Bell Pokémon|0.2|0.6|25
+434|434|Stunky|63|63|47|41|41|74|329|54.83|Stench|Aftermath|Keen Eye|Poison|Dark|Skunpuuスカンプー|225|70|50|1000000|Skunk Pokémon|0.4|19.2|20
+435|435|Skuntank|103|93|67|71|61|84|479|79.83|Stench|Aftermath|Keen Eye|Poison|Dark|Skutankスカタンク|60|70|50|1000000|Skunk Pokémon|1|38|20
+436|436|Bronzor|57|24|86|24|86|23|300|50|Levitate|Heatproof|Heavy Metal|Steel|Psychic|Dohmirrorドーミラー|255|70|50|1000000|Bronze Pokémon|0.5|60.5|20
+437|437|Bronzong|67|89|116|79|116|33|500|83.33|Levitate|Heatproof|Heavy Metal|Steel|Psychic|Dohtakunドータクン|90|70|50|1000000|Bronze Bell Pokémon|1.3|187|20
+438|438|Bonsly|50|80|95|10|45|10|290|48.33|Sturdy|Rock Head|Rattled|Rock||Usohachiウソハチ|255|70|50|1000000|Bonsai Pokémon|0.5|15|20
+439|439|Mime Jr.|20|25|45|70|90|60|310|51.67|Soundproof|Filter|Technician|Psychic|Fairy|Maneneマネネ|145|70|50|1000000|Mime Pokémon|0.6|13|25
+440|440|Happiny|100|5|5|15|65|30|220|36.67|Natural Cure|Serene Grace|Friend Guard|Normal||Pinpukuピンプク|130|140|140|800000|Playhouse Pokémon|0.6|24.4|40
+441|441|Chatot|76|65|45|92|42|91|411|68.5|Keen Eye|Tangled Feet|Big Pecks|Normal|Flying|Perapペラップ|30|35|35|1059860|Music Note Pokémon|0.5|1.9|20
+442|442|Spiritomb|50|92|108|92|108|35|485|80.83|Pressure||Infiltrator|Ghost|Dark|Mikarugeミカルゲ|100|70|50|1000000|Forbidden Pokémon|1|108|30
+443|443|Gible|58|70|45|40|45|42|300|50|Sand Veil||Rough Skin|Dragon|Ground|Fukamaruフカマル|45|70|50|1250000|Land Shark Pokémon|0.7|20.5|40
+444|444|Gabite|68|90|65|50|55|82|410|68.33|Sand Veil||Rough Skin|Dragon|Ground|Gabiteガバイト|45|70|50|1250000|Cave Pokémon|1.4|56|40
+445|445|Garchomp|108|130|95|80|85|102|600|100|Sand Veil||Rough Skin|Dragon|Ground|Gaburiasガブリアス|45|70|50|1250000|Mach Pokémon|1.9|95|40
+445|445M|Garchomp (Mega Garchomp)|108|170|115|120|95|92|700|116.67|Sand Force|||Dragon|Ground|MegaGaburiasメガガブリアス|45|70|50|1250000|Mach Pokémon|1.9|95|40
+446|446|Munchlax|135|85|40|40|85|5|390|65|Pickup|Thick Fat|Gluttony|Normal||Gonbeゴンベ|50|70|50|1250000|Big Eater Pokémon|0.6|105|40
+447|447|Riolu|40|70|40|35|40|60|285|47.5|Steadfast|Inner Focus|Prankster|Fighting||Rioluリオル|75|70|50|1059860|Emanation Pokémon|0.7|20.2|25
+448|448|Lucario|70|110|70|115|70|90|525|87.5|Steadfast|Inner Focus|Justified|Fighting|Steel|Lucarioルカリオ|45|70|50|1059860|Aura Pokémon|1.2|54|25
+448|448M|Lucario (Mega Lucario)|70|145|88|140|70|112|625|104.17|Adaptability|||Fighting|Steel|MegaLucarioメガルカリオ|45|70|50|1059860|Aura Pokémon|1.3|57.5|25
+449|449|Hippopotas|68|72|78|38|42|32|330|55|Sand Stream||Sand Force|Ground||Hippopotasヒポポタス|140|70|50|1250000|Hippo Pokémon|0.8|49.5|30
+450|450|Hippowdon|108|112|118|68|72|47|525|87.5|Sand Stream||Sand Force|Ground||Kabaldonカバルドン|60|70|50|1250000|Heavyweight Pokémon|2|300|30
+451|451|Skorupi|40|50|90|30|55|65|330|55|Battle Armor|Sniper|Keen Eye|Poison|Bug|Scorupiスコルピ|120|70|50|1250000|Scorpion Pokémon|0.8|12|20
+452|452|Drapion|70|90|110|60|75|95|500|83.33|Battle Armor|Sniper|Keen Eye|Poison|Dark|Dorapionドラピオン|45|70|50|1250000|Ogre Scorpion Pokémon|1.3|61.5|20
+453|453|Croagunk|48|61|40|61|40|50|300|50|Anticipation|Dry Skin|Poison Touch|Poison|Fighting|Gureggruグレッグル|140|100|100|1000000|Toxic Mouth Pokémon|0.7|23|10
+454|454|Toxicroak|83|106|65|86|65|85|490|81.67|Anticipation|Dry Skin|Poison Touch|Poison|Fighting|Dokurogドクロッグ|75|70|50|1000000|Toxic Mouth Pokémon|1.3|44.4|20
+455|455|Carnivine|74|100|72|90|72|46|454|75.67|Levitate|||Grass||Muskippaマスキッパ|200|70|50|1250000|Bug Catcher Pokémon|1.4|27|25
+456|456|Finneon|49|49|56|49|61|66|330|55|Swift Swim|Storm Drain|Water Veil|Water||Keikouoケイコウオ|190|70|50|600000|Wing Fish Pokémon|0.4|7|20
+457|457|Lumineon|69|69|76|69|86|91|460|76.67|Swift Swim|Storm Drain|Water Veil|Water||Neolantネオラント|75|70|50|600000|Neon Pokémon|1.2|24|20
+458|458|Mantyke|45|20|50|60|120|50|345|57.5|Swift Swim|Water Absorb|Water Veil|Water|Flying|Tamantaタマンタ|25|70|50|1250000|Kite Pokémon|1|65|25
+459|459|Snover|60|62|50|62|60|40|334|55.67|Snow Warning||Soundproof|Grass|Ice|Yukikaburiユキカブリ|120|70|50|1250000|Frost Tree Pokémon|1|50.5|20
+460|460|Abomasnow|90|92|75|92|85|60|494|82.33|Snow Warning||Soundproof|Grass|Ice|Yukinoohユキノオー|60|70|50|1250000|Frost Tree Pokémon|2.2|135.5|20
+460|460M|Abomasnow (Mega Abomasnow)|90|132|105|132|105|30|594|99|Snow Warning|||Grass|Ice|MegaYukinoohメガユキノオー|60|70|50|1250000|Frost Tree Pokémon|2.7|185|20
+461|461|Weavile|70|120|65|45|85|125|510|85|Pressure||Pickpocket|Dark|Ice|Manyulaマニューラ|45|35|35|1059860|Sharp Claw Pokémon|1.1|34|20
+462|462|Magnezone|70|70|115|130|90|60|535|89.17|Magnet Pull|Sturdy|Analytic|Electric|Steel|Jibacoilジバコイル|30|70|50|1000000|Magnet Area Pokémon|1.2|180|20
+463|463|Lickilicky|110|85|95|80|95|50|515|85.83|Own Tempo|Oblivious|Cloud Nine|Normal||Berobeltベロベルト|30|70|50|1000000|Licking Pokémon|1.7|140|20
+464|464|Rhyperior|115|140|130|55|55|40|535|89.17|Lightning Rod|Solid Rock|Reckless|Ground|Rock|Dosidonドサイドン|30|70|50|1250000|Drill Pokémon|2.4|282.8|20
+465|465|Tangrowth|100|100|125|110|50|50|535|89.17|Chlorophyll|Leaf Guard|Regenerator|Grass||Mojumboモジャンボ|30|70|50|1000000|Vine Pokémon|2|128.6|20
+466|466|Electivire|75|123|67|95|85|95|540|90|Motor Drive||Vital Spirit|Electric||Elekibleエレキブル|30|70|50|1000000|Thunderbolt Pokémon|1.8|138.6|25
+467|467|Magmortar|75|95|67|125|95|83|540|90|Flame Body||Vital Spirit|Fire||Booburnブーバーン|30|70|50|1000000|Blast Pokémon|1.6|68|25
+468|468|Togekiss|85|50|95|120|115|80|545|90.83|Hustle|Serene Grace|Super Luck|Fairy|Flying|Togekissトゲキッス|30|70|50|800000|Jubilee Pokémon|1.5|38|10
+469|469|Yanmega|86|76|86|116|56|95|515|85.83|Speed Boost|Tinted Lens|Frisk|Bug|Flying|Megayanmaメガヤンマ|30|70|50|1000000|Ogre Darner Pokémon|1.9|51.5|20
+470|470|Leafeon|65|110|130|60|65|95|525|87.5|Leaf Guard||Chlorophyll|Grass||Leafiaリーフィア|45|35|35|1000000|Verdant Pokémon|1|25.5|35
+471|471|Glaceon|65|60|110|130|95|65|525|87.5|Snow Cloak||Ice Body|Ice||Glaciaグレイシア|45|35|35|1000000|Fresh Snow Pokémon|0.8|25.9|35
+472|472|Gliscor|75|95|125|45|75|95|510|85|Hyper Cutter|Sand Veil|Poison Heal|Ground|Flying|Glionグライオン|30|70|50|1059860|Fang Scorpion Pokémon|2|42.5|20
+473|473|Mamoswine|110|130|80|70|60|80|530|88.33|Oblivious|Snow Cloak|Thick Fat|Ice|Ground|Mammooマンムー|50|70|50|1250000|Twin Tusk Pokémon|2.5|291|20
+474|474|Porygon-Z|85|80|70|135|75|90|535|89.17|Adaptability|Download|Analytic|Normal||Porygon-ZポリゴンＺ|30|70|50|1000000|Virtual Pokémon|0.9|34|20
+475|475|Gallade|68|125|65|65|115|80|518|86.33|Steadfast||Justified|Psychic|Fighting|Erureidoエルレイド|45|35|35|1250000|Blade Pokémon|1.6|52|20
+475|475M|Gallade (Mega Gallade)|68|165|95|65|115|110|618|103|Inner Focus|||Psychic|Fighting|MegaErureidoメガエルレイド|45|35|35|1250000|Blade Pokémon|1.6|56.4|20
+476|476|Probopass|60|55|145|75|150|40|525|87.5|Sturdy|Magnet Pull|Sand Force|Rock|Steel|Dainoseダイノーズ|60|70|50|1000000|Compass Pokémon|1.4|340|20
+477|477|Dusknoir|45|100|135|65|135|45|525|87.5|Pressure||Frisk|Ghost||Yonoirヨノワール|45|35|35|800000|Gripper Pokémon|2.2|106.6|25
+478|478|Froslass|70|80|70|80|70|110|480|80|Snow Cloak||Cursed Body|Ice|Ghost|Yukimenokoユキメノコ|75|70|50|1000000|Snow Land Pokémon|1.3|26.6|20
+479|479|Rotom|50|50|77|95|77|91|440|73.33|Levitate|||Electric|Ghost|Rotomロトム|45|70|50|1000000|Plasma Pokémon|0.3|0.3|20
+479|479F|Rotom (Fan Rotom)|50|65|107|105|107|86|520|86.67|Levitate|||Electric|Flying|Spin Rotomスピンロトム|45|70|50|1000000|Plasma Pokémon|0.3|0.3|20
+479|479L|Rotom (Mow Rotom)|50|65|107|105|107|86|520|86.67|Levitate|||Electric|Grass|Cut Rotomカットロトム|45|70|50|1000000|Plasma Pokémon|0.3|0.3|20
+479|479O|Rotom (Heat Rotom)|50|65|107|105|107|86|520|86.67|Levitate|||Electric|Fire|Heat Rotomヒートロトム|45|70|50|1000000|Plasma Pokémon|0.3|0.3|20
+479|479R|Rotom (Frost Rotom)|50|65|107|105|107|86|520|86.67|Levitate|||Electric|Ice|Frost Rotomフロストロトム|45|70|50|1000000|Plasma Pokémon|0.3|0.3|20
+479|479W|Rotom (Wash Rotom)|50|65|107|105|107|86|520|86.67|Levitate|||Electric|Water|Wash Rotomウォッシュロトム|45|70|50|1000000|Plasma Pokémon|0.3|0.3|20
+480|480|Uxie|75|75|130|75|130|95|580|96.67|Levitate|||Psychic||Yuxieユクシー|3|140|140|1250000|Knowledge Pokémon|0.3|0.3|80
+481|481|Mesprit|80|105|105|105|105|80|580|96.67|Levitate|||Psychic||Emritエムリット|3|140|140|1250000|Emotion Pokémon|0.3|0.3|80
+482|482|Azelf|75|125|70|125|70|115|580|96.67|Levitate|||Psychic||Agnomeアグノム|3|140|140|1250000|Willpower Pokémon|0.3|0.3|80
+483|483|Dialga|100|120|120|150|100|90|680|113.33|Pressure||Telepathy|Steel|Dragon|Dialgaディアルガ|3|0|0|1250000|Temporal Pokémon|5.4|683|120
+484|484|Palkia|90|120|100|150|120|100|680|113.33|Pressure||Telepathy|Water|Dragon|Palkiaパルキア|3|0|0|1250000|Spatial Pokémon|4.2|336|120
+485|485|Heatran|91|90|106|130|106|77|600|100|Flash Fire||Flame Body|Fire|Steel|Heatranヒードラン|3|100|100|1250000|Lava Dome Pokémon|1.7|430|10
+486|486|Regigigas|110|160|110|80|110|100|670|111.67|Slow Start|||Normal||Regigigasレジギガス|3|0|0|1250000|Colossal Pokémon|3.7|420|120
+487|487|Giratina (Altered Forme)|150|100|120|100|120|90|680|113.33|Pressure||Telepathy|Ghost|Dragon|Giratinaギラティナ|3|0|0|1250000|Renegade Pokémon|4.5|750|120
+487|487O|Giratina (Origin Forme)|150|120|100|120|100|90|680|113.33|Levitate|||Ghost|Dragon|Giratinaギラティナ|3|0|0|1250000|Renegade Pokémon|6.9|650|120
+488|488|Cresselia|120|70|120|75|130|85|600|100|Levitate|||Psychic||Cresseliaクレセリア|3|100|100|1250000|Lunar Pokémon|1.5|85.6|120
+489|489|Phione|80|80|80|80|80|80|480|80|Hydration|||Water||Phioneフィオネ|30|70|50|1250000|Sea Drifter Pokémon|0.4|3.1|40
+490|490|Manaphy|100|100|100|100|100|100|600|100|Hydration|||Water||Manaphyマナフィ|3|70|50|1250000|Seafaring Pokémon|0.3|1.4|10
+491|491|Darkrai|70|90|90|135|90|125|600|100|Bad Dreams|||Dark||Darkraiダークライ|3|0|0|1250000|Pitch-Black Pokémon|1.5|50.5|120
+492|492|Shaymin (Land Forme)|100|100|100|100|100|100|600|100|Natural Cure|||Grass||Shayminシェイミ|45|100|100|1059860|Gratitude Pokémon|0.2|2.1|120
+492|492S|Shaymin (Sky Forme)|100|103|75|120|75|127|600|100|Serene Grace|||Grass|Flying|Shayminシェイミ|45|100|100|1059860|Gratitude Pokémon|0.4|5.2|120
+493|493|Arceus|120|120|120|120|120|120|720|120|Multitype|||Normal||Arceusアルセウス|3|0|0|1250000|Alpha Pokémon|3.2|320|120
+494|494|Victini|100|100|100|100|100|100|600|100|Victory Star|||Psychic|Fire|Victiniビクティニ|3|100|100|1250000|Victory Pokémon|0.4|4|120
+495|495|Snivy|45|45|55|45|55|63|308|51.33|Overgrow||Contrary|Grass||Tsutarjaツタージャ|45|70|50|1059860|Grass Snake Pokémon|0.6|8.1|20
+496|496|Servine|60|60|75|60|75|83|413|68.83|Overgrow||Contrary|Grass||Janovyジャノビー|45|70|50|1059860|Grass Snake Pokémon|0.8|16|20
+497|497|Serperior|75|75|95|75|95|113|528|88|Overgrow||Contrary|Grass||Jalordaジャローダ|45|70|50|1059860|Regal Pokémon|3.3|63|20
+498|498|Tepig|65|63|45|45|45|45|308|51.33|Blaze||Thick Fat|Fire||Pokabuポカブ|45|70|50|1059860|Fire Pig Pokémon|0.5|9.9|20
+499|499|Pignite|90|93|55|70|55|55|418|69.67|Blaze||Thick Fat|Fire|Fighting|Chaobooチャオブー|45|70|50|1059860|Fire Pig Pokémon|1|55.5|20
+500|500|Emboar|110|123|65|100|65|65|528|88|Blaze||Reckless|Fire|Fighting|Enbuohエンブオー|45|70|50|1059860|Mega Fire Pig Pokémon|1.6|150|20
+501|501|Oshawott|55|55|45|63|45|45|308|51.33|Torrent||Shell Armor|Water||Mijumaruミジュマル|45|70|50|1059860|Sea Otter Pokémon|0.5|5.9|20
+502|502|Dewott|75|75|60|83|60|60|413|68.83|Torrent||Shell Armor|Water||Futachimaruフタチマル|45|70|50|1059860|Discipline Pokémon|0.8|24.5|20
+503|503|Samurott|95|100|85|108|70|70|528|88|Torrent||Shell Armor|Water||Daikenkiダイケンキ|45|70|50|1059860|Formidable Pokémon|1.5|94.6|20
+504|504|Patrat|45|55|39|35|39|42|255|42.5|Run Away|Keen Eye|Analytic|Normal||Minezumiミネズミ|255|70|50|1000000|Scout Pokémon|0.5|11.6|15
+505|505|Watchog|60|85|69|60|69|77|420|70|Illuminate|Keen Eye|Analytic|Normal||Miruhogミルホッグ|255|70|50|1000000|Lookout Pokémon|1.1|27|20
+506|506|Lillipup|45|60|45|25|45|55|275|45.83|Vital Spirit|Pickup|Run Away|Normal||Yorterrieヨーテリー|255|70|50|1059860|Puppy Pokémon|0.4|4.1|15
+507|507|Herdier|65|80|65|35|65|60|370|61.67|Intimidate|Sand Rush|Scrappy|Normal||Herderrieハーデリア|120|70|50|1059860|Loyal Dog Pokémon|0.9|14.7|15
+508|508|Stoutland|85|110|90|45|90|80|500|83.33|Intimidate|Sand Rush|Scrappy|Normal||Moolandムーランド|45|70|50|1059860|Big-Hearted Pokémon|1.2|61|15
+509|509|Purrloin|41|50|37|50|37|66|281|46.83|Limber|Unburden|Prankster|Dark||Choronekoチョロネコ|255|70|50|1000000|Devious Pokémon|0.4|10.1|20
+510|510|Liepard|64|88|50|88|50|106|446|74.33|Limber|Unburden|Prankster|Dark||Lepardasレパルダス|90|70|50|1000000|Cruel Pokémon|1.1|37.5|20
+511|511|Pansage|50|53|48|53|48|64|316|52.67|Gluttony||Overgrow|Grass||Yanappuヤナップ|190|70|50|1000000|Grass Monkey Pokémon|0.6|10.5|20
+512|512|Simisage|75|98|63|98|63|101|498|83|Gluttony||Overgrow|Grass||Yanakkieヤナッキー|75|70|50|1000000|Thorn Monkey Pokémon|1.1|30.5|20
+513|513|Pansear|50|53|48|53|48|64|316|52.67|Gluttony||Blaze|Fire||Baoppuバオップ|190|70|50|1000000|High Temp Pokémon|0.6|11|20
+514|514|Simisear|75|98|63|98|63|101|498|83|Gluttony||Blaze|Fire||Baokkieバオッキー|75|70|50|1000000|Ember Pokémon|1|28|20
+515|515|Panpour|50|53|48|53|48|64|316|52.67|Gluttony||Torrent|Water||Hiyappuヒヤップ|190|70|50|1000000|Spray Pokémon|0.6|13.5|20
+516|516|Simipour|75|98|63|98|63|101|498|83|Gluttony||Torrent|Water||Hiyakkieヒヤッキー|75|70|50|1000000|Geyser Pokémon|1|29|20
+517|517|Munna|76|25|45|67|55|24|292|48.67|Forewarn|Synchronize|Telepathy|Psychic||Munnaムンナ|190|70|50|800000|Dream Eater Pokémon|0.6|23.3|10
+518|518|Musharna|116|55|85|107|95|29|487|81.17|Forewarn|Synchronize|Telepathy|Psychic||Musharnaムシャーナ|75|70|50|800000|Drowsing Pokémon|1.1|60.5|10
+519|519|Pidove|50|55|50|36|30|43|264|44|Big Pecks|Super Luck|Rivalry|Normal|Flying|Mamepatoマメパト|255|70|50|1059860|Tiny Pigeon Pokémon|0.3|2.1|15
+520|520|Tranquill|62|77|62|50|42|65|358|59.67|Big Pecks|Super Luck|Rivalry|Normal|Flying|Hatobohハトーボー|120|70|50|1059860|Wild Pigeon Pokémon|0.6|15|15
+521|521|Unfezant|80|115|80|65|55|93|488|81.33|Big Pecks|Super Luck|Rivalry|Normal|Flying|Kenhallowケンホロウ|45|70|50|1059860|Proud Pokémon|1.2|29|15
+522|522|Blitzle|45|60|32|50|32|76|295|49.17|Lightning Rod|Motor Drive|Sap Sipper|Electric||Shimamaシママ|190|70|50|1000000|Electrified Pokémon|0.8|29.8|20
+523|523|Zebstrika|75|100|63|80|63|116|497|82.83|Lightning Rod|Motor Drive|Sap Sipper|Electric||Zebraikaゼブライカ|75|70|50|1000000|Thunderbolt Pokémon|1.6|79.5|20
+524|524|Roggenrola|55|75|85|25|25|15|280|46.67|Sturdy|Weak Armor|Sand Force|Rock||Dangoroダンゴロ|255|70|50|1059860|Mantle Pokémon|0.4|18|15
+525|525|Boldore|70|105|105|50|40|20|390|65|Sturdy|Weak Armor|Sand Force|Rock||Gantleガントル|120|70|50|1059860|Ore Pokémon|0.9|102|15
+526|526|Gigalith|85|135|130|60|80|25|515|85.83|Sturdy|Sand Stream|Sand Force|Rock||Gigaiathギガイアス|45|70|50|1059860|Compressed Pokémon|1.7|260|15
+527|527|Woobat|65|45|43|55|43|72|323|53.83|Unaware|Klutz|Simple|Psychic|Flying|Koromoriコロモリ|190|70|50|1000000|Bat Pokémon|0.4|2.1|15
+528|528|Swoobat|67|57|55|77|55|114|425|70.83|Unaware|Klutz|Simple|Psychic|Flying|Kokoromoriココロモリ|45|70|50|1000000|Courting Pokémon|0.9|10.5|15
+529|529|Drilbur|60|85|40|30|45|68|328|54.67|Sand Rush|Sand Force|Mold Breaker|Ground||Mogurewモグリュー|120|70|50|1000000|Mole Pokémon|0.3|8.5|20
+530|530|Excadrill|110|135|60|50|65|88|508|84.67|Sand Rush|Sand Force|Mold Breaker|Ground|Steel|Doryuzuドリュウズ|60|70|50|1000000|Subterrene Pokémon|0.7|40.4|20
+531|531|Audino|103|60|86|60|86|50|445|74.17|Healer|Regenerator|Klutz|Normal||Tabunneタブンネ|255|70|50|800000|Hearing Pokémon|1.1|31|20
+531|531M|Audino (Mega Audino)|103|60|126|80|126|50|545|90.83|Healer|||Normal|Fairy|MegaTabunneメガタブンネ|255|70|50|800000|Hearing Pokémon|1.5|32|20
+532|532|Timburr|75|80|55|25|35|35|305|50.83|Guts|Sheer Force|Iron Fist|Fighting||Dokkorerドッコラー|180|70|70|1059860|Muscular Pokémon|0.6|12.5|20
+533|533|Gurdurr|85|105|85|40|50|40|405|67.5|Guts|Sheer Force|Iron Fist|Fighting||Dotekkotsuドテッコツ|90|70|50|1059860|Muscular Pokémon|1.2|40|20
+534|534|Conkeldurr|105|140|95|55|65|45|505|84.17|Guts|Sheer Force|Iron Fist|Fighting||Roubushinローブシン|45|70|50|1059860|Muscular Pokémon|1.4|87|20
+535|535|Tympole|50|50|40|50|40|64|294|49|Swift Swim|Hydration|Water Absorb|Water||Otamaroオタマロ|255|70|50|1059860|Tadpole Pokémon|0.5|4.5|20
+536|536|Palpitoad|75|65|55|65|55|69|384|64|Swift Swim|Hydration|Water Absorb|Water|Ground|Gamagaruガマガル|120|70|50|1059860|Vibration Pokémon|0.8|17|20
+537|537|Seismitoad|105|95|75|85|75|74|509|84.83|Swift Swim|Poison Touch|Water Absorb|Water|Ground|Gamagerogeガマゲロゲ|45|70|50|1059860|Vibration Pokémon|1.5|62|20
+538|538|Throh|120|100|85|30|85|45|465|77.5|Guts|Inner Focus|Mold Breaker|Fighting||Nagekiナゲキ|45|70|50|1000000|Judo Pokémon|1.3|55.5|20
+539|539|Sawk|75|125|75|30|75|85|465|77.5|Sturdy|Inner Focus|Mold Breaker|Fighting||Dagekiダゲキ|45|70|50|1000000|Karate Pokémon|1.4|51|20
+540|540|Sewaddle|45|53|70|40|60|42|310|51.67|Swarm|Chlorophyll|Overcoat|Bug|Grass|Kurumiruクルミル|255|70|50|1059860|Sewing Pokémon|0.3|2.5|15
+541|541|Swadloon|55|63|90|50|80|42|380|63.33|Leaf Guard|Chlorophyll|Overcoat|Bug|Grass|Kurumayuクルマユ|120|70|50|1059860|Leaf-Wrapped Pokémon|0.5|7.3|15
+542|542|Leavanny|75|103|80|70|80|92|500|83.33|Swarm|Chlorophyll|Overcoat|Bug|Grass|Hahakomoriハハコモリ|45|70|50|1059860|Nurturing Pokémon|1.2|20.5|15
+543|543|Venipede|30|45|59|30|39|57|260|43.33|Poison Point|Swarm|Speed Boost|Bug|Poison|Fushideフシデ|255|70|50|1059860|Centipede Pokémon|0.4|5.3|15
+544|544|Whirlipede|40|55|99|40|79|47|360|60|Poison Point|Swarm|Speed Boost|Bug|Poison|Wheegaホイーガ|120|70|50|1059860|Curlipede Pokémon|1.2|58.5|15
+545|545|Scolipede|60|100|89|55|69|112|485|80.83|Poison Point|Swarm|Speed Boost|Bug|Poison|Pendrorペンドラー|45|70|50|1059860|Megapede Pokémon|2.5|200.5|20
+546|546|Cottonee|40|27|60|37|50|66|280|46.67|Prankster|Infiltrator|Chlorophyll|Grass|Fairy|Monmenモンメン|190|70|50|1000000|Cotton Puff Pokémon|0.3|0.6|20
+547|547|Whimsicott|60|67|85|77|75|116|480|80|Prankster|Infiltrator|Chlorophyll|Grass|Fairy|Elfuunエルフーン|75|70|50|1000000|Windveiled Pokémon|0.7|6.6|20
+548|548|Petilil|45|35|50|70|50|30|280|46.67|Chlorophyll|Own Tempo|Leaf Guard|Grass||Churineチュリネ|190|70|50|1000000|Bulb Pokémon|0.5|6.6|20
+549|549|Lilligant|70|60|75|110|75|90|480|80|Chlorophyll|Own Tempo|Leaf Guard|Grass||Dredearドレディア|75|70|50|1000000|Flowering Pokémon|1.1|16.3|20
+550|550|Basculin (Red Stripe)|70|92|65|80|55|98|460|76.67|Reckless|Adaptability|Mold Breaker|Water||Bassraoバスラオ|25|70|50|1000000|Hostile Pokémon|1|18|40
+550|550B|Basculin (Blue Stripe)|70|92|65|80|55|98|460|76.67|Rock Head|Adaptability|Mold Breaker|Water||Bassraoバスラオ|25|70|50|1000000|Hostile Pokémon|1|18|40
+551|551|Sandile|50|72|35|35|35|65|292|48.67|Intimidate|Moxie|Anger Point|Ground|Dark|Megurocoメグロコ|180|70|50|1059860|Desert Croc Pokémon|0.7|15.2|20
+552|552|Krokorok|60|82|45|45|45|74|351|58.5|Intimidate|Moxie|Anger Point|Ground|Dark|Waruvileワルビル|90|70|50|1059860|Desert Croc Pokémon|1|33.4|20
+553|553|Krookodile|95|117|80|65|70|92|519|86.5|Intimidate|Moxie|Anger Point|Ground|Dark|Waruvialワルビアル|45|70|50|1059860|Intimidation Pokémon|1.5|96.3|20
+554|554|Darumaka|70|90|45|15|45|50|315|52.5|Hustle||Inner Focus|Fire||Darumakkaダルマッカ|120|70|50|1059860|Zen Charm Pokémon|0.6|37.5|20
+554|554G|Darumaka (Galarian Darumaka)|70|90|45|15|45|50|315|52.5|Hustle||Inner Focus|Ice||Darumakkaダルマッカ|120|70|50|1059860|Zen Charm Pokémon|0.7|40|20
+555|555|Darmanitan (Standard Mode)|105|140|55|30|55|95|480|80|Sheer Force||Zen Mode|Fire||Hihidarumaヒヒダルマ|60|70|50|1059860|Blazing Pokémon|1.3|92.9|20
+555|555G|Darmanitan (Galarian Standard Mode)|105|140|55|30|55|95|480|80|Gorilla Tactics||Zen Mode|Ice||Hihidarumaヒヒダルマ|60|70|50|1059860|Zen Charm Pokémon|1.7|120|20
+555|555GZ|Darmanitan (Galarian Zen Mode)|105|160|55|30|55|135|540|90|Gorilla Tactics||Zen Mode|Ice|Fire|Hihidarumaヒヒダルマ|60|70|50|1059860|Zen Charm Pokémon|1.7|120|20
+555|555Z|Darmanitan (Zen Mode)|105|30|105|140|105|55|540|90|Sheer Force||Zen Mode|Fire|Psychic|Hihidarumaヒヒダルマ|60|70|50|1059860|Blazing Pokémon|1.3|92.9|20
+556|556|Maractus|75|86|67|106|67|60|461|76.83|Water Absorb|Chlorophyll|Storm Drain|Grass||Maracacchiマラカッチ|255|70|50|1000000|Cactus Pokémon|1|28|20
+557|557|Dwebble|50|65|85|35|35|55|325|54.17|Sturdy|Shell Armor|Weak Armor|Bug|Rock|Ishizumaiイシズマイ|190|70|50|1000000|Rock Inn Pokémon|0.3|14.5|20
+558|558|Crustle|70|105|125|65|75|45|485|80.83|Sturdy|Shell Armor|Weak Armor|Bug|Rock|Iwapalaceイワパレス|75|70|50|1000000|Stone Home Pokémon|1.4|200|20
+559|559|Scraggy|50|75|70|35|70|48|348|58|Shed Skin|Moxie|Intimidate|Dark|Fighting|Zurugguズルッグ|180|35|35|1000000|Shedding Pokémon|0.6|11.8|15
+560|560|Scrafty|65|90|115|45|115|58|488|81.33|Shed Skin|Moxie|Intimidate|Dark|Fighting|Zuruzukinズルズキン|90|70|50|1000000|Hoodlum Pokémon|1.1|30|15
+561|561|Sigilyph|72|58|80|103|80|97|490|81.67|Wonder Skin|Magic Guard|Tinted Lens|Psychic|Flying|Symbolerシンボラー|45|70|50|1000000|Avianoid Pokémon|1.4|14|20
+562|562|Yamask|38|30|85|55|65|30|303|50.5|Mummy|||Ghost||Desumasuデスマス|190|70|50|1000000|Spirit Pokémon|0.5|1.5|25
+562|562G|Yamask (Galarian Yamask)|38|55|85|30|65|30|303|50.5|Wandering Spirit|||Ground|Ghost|Desumasuデスマス|190|70|50|1000000|Spirit Pokémon|0.5|1.5|25
+563|563|Cofagrigus|58|50|145|95|105|30|483|80.5|Mummy|||Ghost||Desukarnデスカーン|90|70|50|1000000|Coffin Pokémon|1.7|76.5|25
+564|564|Tirtouga|54|78|103|53|45|22|355|59.17|Solid Rock|Sturdy|Swift Swim|Water|Rock|Protogaプロトーガ|45|70|50|1000000|Prototurtle Pokémon|0.7|16.5|30
+565|565|Carracosta|74|108|133|83|65|32|495|82.5|Solid Rock|Sturdy|Swift Swim|Water|Rock|Abagouraアバゴーラ|45|70|50|1000000|Prototurtle Pokémon|1.2|81|30
+566|566|Archen|55|112|45|74|45|70|401|66.83|Defeatist|||Rock|Flying|Archenアーケン|45|70|50|1000000|First Bird Pokémon|0.5|9.5|30
+567|567|Archeops|75|140|65|112|65|110|567|94.5|Defeatist|||Rock|Flying|Archeosアーケオス|45|70|50|1000000|First Bird Pokémon|1.4|32|30
+568|568|Trubbish|50|50|62|40|62|65|329|54.83|Stench|Sticky Hold|Aftermath|Poison||Yabukuronヤブクロン|190|70|50|1000000|Trash Bag Pokémon|0.6|31|20
+569|569|Garbodor|80|95|82|60|82|75|474|79|Stench|Weak Armor|Aftermath|Poison||Dustdasダストダス|60|70|50|1000000|Trash Heap Pokémon|1.9|107.3|20
+570|570|Zorua|40|65|40|80|40|65|330|55|Illusion|||Dark||Zoruaゾロア|75|70|50|1059860|Tricky Fox Pokémon|0.7|12.5|25
+571|571|Zoroark|60|105|60|120|60|105|510|85|Illusion|||Dark||Zoroarkゾロアーク|45|70|50|1059860|Illusion Fox Pokémon|1.6|81.1|20
+572|572|Minccino|55|50|40|40|40|75|300|50|Cute Charm|Technician|Skill Link|Normal||Chillarmyチラーミィ|255|70|50|800000|Chinchilla Pokémon|0.4|5.8|15
+573|573|Cinccino|75|95|60|65|60|115|470|78.33|Cute Charm|Technician|Skill Link|Normal||Chillaccinoチラチーノ|60|70|50|800000|Scarf Pokémon|0.5|7.5|15
+574|574|Gothita|45|30|50|55|65|45|290|48.33|Frisk|Competitive|Shadow Tag|Psychic||Gothimuゴチム|200|70|50|1059860|Fixation Pokémon|0.4|5.8|20
+575|575|Gothorita|60|45|70|75|85|55|390|65|Frisk|Competitive|Shadow Tag|Psychic||Gothimiruゴチミル|100|70|50|1059860|Manipulate Pokémon|0.7|18|20
+576|576|Gothitelle|70|55|95|95|110|65|490|81.67|Frisk|Competitive|Shadow Tag|Psychic||Gothiruselleゴチルゼル|50|70|50|1059860|Astral Body Pokémon|1.5|44|20
+577|577|Solosis|45|30|40|105|50|20|290|48.33|Overcoat|Magic Guard|Regenerator|Psychic||Uniranユニラン|200|70|50|1059860|Cell Pokémon|0.3|1|20
+578|578|Duosion|65|40|50|125|60|30|370|61.67|Overcoat|Magic Guard|Regenerator|Psychic||Doublanダブラン|100|70|50|1059860|Mitosis Pokémon|0.6|8|20
+579|579|Reuniclus|110|65|75|125|85|30|490|81.67|Overcoat|Magic Guard|Regenerator|Psychic||Lanculusランクルス|50|70|50|1059860|Multiplying Pokémon|1|20.1|20
+580|580|Ducklett|62|44|50|44|50|55|305|50.83|Keen Eye|Big Pecks|Hydration|Water|Flying|Koaruhieコアルヒー|190|70|50|1000000|Water Bird Pokémon|0.5|5.5|20
+581|581|Swanna|75|87|63|87|63|98|473|78.83|Keen Eye|Big Pecks|Hydration|Water|Flying|Swannaスワンナ|45|70|50|1000000|White Bird Pokémon|1.3|24.2|20
+582|582|Vanillite|36|50|50|65|60|44|305|50.83|Ice Body|Snow Cloak|Weak Armor|Ice||Vanipetiバニプッチ|255|70|50|1250000|Fresh Snow Pokémon|0.4|5.7|20
+583|583|Vanillish|51|65|65|80|75|59|395|65.83|Ice Body|Snow Cloak|Weak Armor|Ice||Vanirichバニリッチ|120|70|50|1250000|Icy Snow Pokémon|1.1|41|20
+584|584|Vanilluxe|71|95|85|110|95|79|535|89.17|Ice Body|Snow Warning|Weak Armor|Ice||Baivanillaバイバニラ|45|70|50|1250000|Snowstorm Pokémon|1.3|57.5|20
+585|585|Deerling|60|60|50|40|50|75|335|55.83|Chlorophyll|Sap Sipper|Serene Grace|Normal|Grass|Shikijikaシキジカ|190|70|50|1000000|Season Pokémon|0.6|19.5|20
+586|586|Sawsbuck|80|100|70|60|70|95|475|79.17|Chlorophyll|Sap Sipper|Serene Grace|Normal|Grass|Mebukijikaメブキジカ|75|70|50|1000000|Season Pokémon|1.9|92.5|20
+587|587|Emolga|55|75|60|75|60|103|428|71.33|Static||Motor Drive|Electric|Flying|Emongaエモンガ|200|70|50|1000000|Sky Squirrel Pokémon|0.4|5|20
+588|588|Karrablast|50|75|45|40|45|60|315|52.5|Swarm|Shed Skin|No Guard|Bug||Kaburumoカブルモ|200|70|50|1000000|Clamping Pokémon|0.5|5.9|15
+589|589|Escavalier|70|135|105|60|105|20|495|82.5|Swarm|Shell Armor|Overcoat|Bug|Steel|Chevargoシュバルゴ|75|70|50|1000000|Cavalry Pokémon|1|33|15
+590|590|Foongus|69|55|45|55|55|15|294|49|Effect Spore||Regenerator|Grass|Poison|Tamagetakeタマゲタケ|190|70|50|1000000|Mushroom Pokémon|0.2|1|20
+591|591|Amoonguss|114|85|70|85|80|30|464|77.33|Effect Spore||Regenerator|Grass|Poison|Morobareruモロバレル|75|70|50|1000000|Mushroom Pokémon|0.6|10.5|20
+592|592|Frillish|55|40|50|65|85|40|335|55.83|Water Absorb|Cursed Body|Damp|Water|Ghost|Pururillプルリル|190|70|50|1000000|Floating Pokémon|1.2|33|20
+593|593|Jellicent|100|60|70|85|105|60|480|80|Water Absorb|Cursed Body|Damp|Water|Ghost|Burungelブルンゲル|60|70|50|1000000|Floating Pokémon|2.2|135|20
+594|594|Alomomola|165|75|80|40|45|65|470|78.33|Healer|Hydration|Regenerator|Water||Mamanbouママンボウ|75|70|50|800000|Caring Pokémon|1.2|31.6|40
+595|595|Joltik|50|47|50|57|50|65|319|53.17|Compound Eyes|Unnerve|Swarm|Bug|Electric|Bachuruバチュル|190|70|50|1000000|Attaching Pokémon|0.1|0.6|20
+596|596|Galvantula|70|77|60|97|60|108|472|78.67|Compound Eyes|Unnerve|Swarm|Bug|Electric|Dentulaデンチュラ|75|70|50|1000000|EleSpider Pokémon|0.8|14.3|20
+597|597|Ferroseed|44|50|91|24|86|10|305|50.83|Iron Barbs|||Grass|Steel|Tesseedテッシード|255|70|50|1000000|Thorn Seed Pokémon|0.6|18.8|20
+598|598|Ferrothorn|74|94|131|54|116|20|489|81.5|Iron Barbs||Anticipation|Grass|Steel|Nutreyナットレイ|90|70|50|1000000|Thorn Pod Pokémon|1|110|20
+599|599|Klink|40|55|70|45|60|30|300|50|Plus|Minus|Clear Body|Steel||Giaruギアル|130|70|50|1059860|Gear Pokémon|0.3|21|20
+600|600|Klang|60|80|95|70|85|50|440|73.33|Plus|Minus|Clear Body|Steel||Gigiaruギギアル|60|70|50|1059860|Gear Pokémon|0.6|51|20
+601|601|Klinklang|60|100|115|70|85|90|520|86.67|Plus|Minus|Clear Body|Steel||Gigigiaruギギギアル|30|70|50|1059860|Gear Pokémon|0.6|81|20
+602|602|Tynamo|35|55|40|45|40|60|275|45.83|Levitate|||Electric||Shibishirasuシビシラス|190|70|50|1250000|EleFish Pokémon|0.2|0.3|20
+603|603|Eelektrik|65|85|70|75|70|40|405|67.5|Levitate|||Electric||Shibibeelシビビール|60|70|50|1250000|EleFish Pokémon|1.2|22|20
+604|604|Eelektross|85|115|80|105|80|50|515|85.83|Levitate|||Electric||Shibirudonシビルドン|30|70|50|1250000|EleFish Pokémon|2.1|80.5|20
+605|605|Elgyem|55|55|55|85|55|30|335|55.83|Telepathy|Synchronize|Analytic|Psychic||Ligrayリグレー|255|70|50|1000000|Cerebral Pokémon|0.5|9|20
+606|606|Beheeyem|75|75|75|125|95|40|485|80.83|Telepathy|Synchronize|Analytic|Psychic||Ohbemオーベム|90|70|50|1000000|Cerebral Pokémon|1|34.5|20
+607|607|Litwick|50|30|55|65|55|20|275|45.83|Flash Fire|Flame Body|Infiltrator|Ghost|Fire|Hitomoshiヒトモシ|190|70|50|1059860|Candle Pokémon|0.3|3.1|20
+608|608|Lampent|60|40|60|95|60|55|370|61.67|Flash Fire|Flame Body|Infiltrator|Ghost|Fire|Lamplerランプラー|90|70|50|1059860|Lamp Pokémon|0.6|13|20
+609|609|Chandelure|60|55|90|145|90|80|520|86.67|Flash Fire|Flame Body|Infiltrator|Ghost|Fire|Chandelaシャンデラ|45|70|50|1059860|Luring Pokémon|1|34.3|20
+610|610|Axew|46|87|60|30|40|57|320|53.33|Rivalry|Mold Breaker|Unnerve|Dragon||Kibagoキバゴ|75|35|35|1250000|Tusk Pokémon|0.6|18|40
+611|611|Fraxure|66|117|70|40|50|67|410|68.33|Rivalry|Mold Breaker|Unnerve|Dragon||Onondoオノンド|60|35|35|1250000|Axe Jaw Pokémon|1|36|40
+612|612|Haxorus|76|147|90|60|70|97|540|90|Rivalry|Mold Breaker|Unnerve|Dragon||Ononokusオノノクス|45|35|35|1250000|Axe Jaw Pokémon|1.8|105.5|40
+613|613|Cubchoo|55|70|40|60|40|40|305|50.83|Snow Cloak|Slush Rush|Rattled|Ice||Kumasyunクマシュン|120|70|50|1000000|Chill Pokémon|0.5|8.5|20
+614|614|Beartic|95|130|80|70|80|50|505|84.17|Snow Cloak|Slush Rush|Swift Swim|Ice||Tunbearツンベアー|60|70|50|1000000|Freezing Pokémon|2.6|260|20
+615|615|Cryogonal|80|50|50|95|135|105|515|85.83|Levitate|||Ice||Freegeoフリージオ|25|70|50|1000000|Crystallizing Pokémon|1.1|148|25
+616|616|Shelmet|50|40|85|40|65|25|305|50.83|Hydration|Shell Armor|Overcoat|Bug||Chobomakiチョボマキ|200|70|50|1000000|Snail Pokémon|0.4|7.7|15
+617|617|Accelgor|80|70|40|100|60|145|495|82.5|Hydration|Sticky Hold|Unburden|Bug||Agilderアギルダー|75|70|50|1000000|Shell Out Pokémon|0.8|25.3|15
+618|618|Stunfisk|109|66|84|81|99|32|471|78.5|Static|Limber|Sand Veil|Ground|Electric|Maggyoマッギョ|75|70|70|1000000|Trap Pokémon|0.7|11|20
+618|618G|Stunfisk (Galarian Stunfisk)|109|81|99|66|84|32|471|78.5|Mimicry|||Ground|Steel|Maggyoマッギョ|75|70|70|1000000|Trap Pokémon|0.7|20.5|20
+619|619|Mienfoo|45|85|50|55|50|65|350|58.33|Inner Focus|Regenerator|Reckless|Fighting||Kojofuコジョフー|180|70|50|1059860|Martial Arts Pokémon|0.9|20|25
+620|620|Mienshao|65|125|60|95|60|105|510|85|Inner Focus|Regenerator|Reckless|Fighting||Kojondoコジョンド|45|70|50|1059860|Martial Arts Pokémon|1.4|35.5|25
+621|621|Druddigon|77|120|90|60|90|48|485|80.83|Rough Skin|Sheer Force|Mold Breaker|Dragon||Crimganクリムガン|45|70|50|1000000|Cave Pokémon|1.6|139|30
+622|622|Golett|59|74|50|35|50|35|303|50.5|Iron Fist|Klutz|No Guard|Ground|Ghost|Gobitゴビット|190|70|50|1000000|Automaton Pokémon|1|92|25
+623|623|Golurk|89|124|80|55|80|55|483|80.5|Iron Fist|Klutz|No Guard|Ground|Ghost|Goloogゴルーグ|90|70|50|1000000|Automaton Pokémon|2.8|330|25
+624|624|Pawniard|45|85|70|40|40|60|340|56.67|Defiant|Inner Focus|Pressure|Dark|Steel|Komatanaコマタナ|120|35|35|1000000|Sharp Blade Pokémon|0.5|10.2|20
+625|625|Bisharp|65|125|100|60|70|70|490|81.67|Defiant|Inner Focus|Pressure|Dark|Steel|Kirikizanキリキザン|45|35|35|1000000|Sword Blade Pokémon|1.6|70|20
+626|626|Bouffalant|95|110|95|40|95|55|490|81.67|Reckless|Sap Sipper|Soundproof|Normal||Buffronバッフロン|45|70|50|1000000|Bash Buffalo Pokémon|1.6|94.6|20
+627|627|Rufflet|70|83|50|37|50|60|350|58.33|Keen Eye|Sheer Force|Hustle|Normal|Flying|Washibonワシボン|190|70|50|1250000|Eaglet Pokémon|0.5|10.5|20
+628|628|Braviary|100|123|75|57|75|80|510|85|Keen Eye|Sheer Force|Defiant|Normal|Flying|Warrgleウォーグル|60|70|50|1250000|Valiant Pokémon|1.5|41|20
+629|629|Vullaby|70|55|75|45|65|60|370|61.67|Big Pecks|Overcoat|Weak Armor|Dark|Flying|Valchaiバルチャイ|190|35|35|1250000|Diapered Pokémon|0.5|9|20
+630|630|Mandibuzz|110|65|105|55|95|80|510|85|Big Pecks|Overcoat|Weak Armor|Dark|Flying|Vulginaバルジーナ|60|35|35|1250000|Bone Vulture Pokémon|1.2|39.5|20
+631|631|Heatmor|85|97|66|105|66|65|484|80.67|Gluttony|Flash Fire|White Smoke|Fire||Kuitaranクイタラン|90|70|50|1000000|Anteater Pokémon|1.4|58|20
+632|632|Durant|58|109|112|48|48|109|484|80.67|Swarm|Hustle|Truant|Bug|Steel|Aiantアイアント|90|70|50|1000000|Iron Ant Pokémon|0.3|33|20
+633|633|Deino|52|65|50|45|50|38|300|50|Hustle|||Dark|Dragon|Monozuモノズ|45|35|35|1250000|Irate Pokémon|0.8|17.3|40
+634|634|Zweilous|72|85|70|65|70|58|420|70|Hustle|||Dark|Dragon|Diheadジヘッド|45|35|35|1250000|Hostile Pokémon|1.4|50|40
+635|635|Hydreigon|92|105|90|125|90|98|600|100|Levitate|||Dark|Dragon|Sazandoraサザンドラ|45|35|35|1250000|Brutal Pokémon|1.8|160|40
+636|636|Larvesta|55|85|55|50|55|60|360|60|Flame Body||Swarm|Bug|Fire|Merlarvaメラルバ|45|70|50|1250000|Torch Pokémon|1.1|28.8|40
+637|637|Volcarona|85|60|65|135|105|100|550|91.67|Flame Body||Swarm|Bug|Fire|Ulgamothウルガモス|15|70|50|1250000|Sun Pokémon|1.6|46|40
+638|638|Cobalion|91|90|129|90|72|108|580|96.67|Justified|||Steel|Fighting|Cobalonコバルオン|3|35|35|1250000|Iron Will Pokémon|2.1|250|80
+639|639|Terrakion|91|129|90|72|90|108|580|96.67|Justified|||Rock|Fighting|Terrakionテラキオン|3|35|35|1250000|Cavern Pokémon|1.9|260|80
+640|640|Virizion|91|90|72|90|129|108|580|96.67|Justified|||Grass|Fighting|Virizionビリジオン|3|35|35|1250000|Grassland Pokémon|2|200|80
+641|641|Tornadus (Incarnate Forme)|79|115|70|125|80|111|580|96.67|Prankster||Defiant|Flying||Tornelosトルネロス|3|90|90|1250000|Cyclone Pokémon|1.5|63|120
+641|641T|Tornadus (Therian Forme)|79|100|80|110|90|121|580|96.67|Regenerator|||Flying||Tornelosトルネロス|3|90|90|1250000|Cyclone Pokémon|1.4|63|120
+642|642|Thundurus (Incarnate Forme)|79|115|70|125|80|111|580|96.67|Prankster||Defiant|Electric|Flying|Voltolosボルトロス|3|90|90|1250000|Bolt Strike Pokémon|1.5|61|120
+642|642T|Thundurus (Therian Forme)|79|105|70|145|80|101|580|96.67|Volt Absorb|||Electric|Flying|Voltolosボルトロス|3|90|90|1250000|Bolt Strike Pokémon|3|61|120
+643|643|Reshiram|100|120|100|150|120|90|680|113.33|Turboblaze|||Dragon|Fire|Reshiramレシラム|3|0|0|1250000|Vast White Pokémon|3.2|330|120
+644|644|Zekrom|100|150|120|120|100|90|680|113.33|Teravolt|||Dragon|Electric|Zekromゼクロム|3|0|0|1250000|Deep Black Pokémon|2.9|345|120
+645|645|Landorus (Incarnate Forme)|89|125|90|115|80|101|600|100|Sand Force||Sheer Force|Ground|Flying|Landlosランドロス|3|90|90|1250000|Abundance Pokémon|1.5|68|120
+645|645T|Landorus (Therian Forme)|89|145|90|105|80|91|600|100|Intimidate|||Ground|Flying|Landlosランドロス|3|90|90|1250000|Abundance Pokémon|1.3|68|120
+646|646|Kyurem|125|130|90|130|90|95|660|110|Pressure|||Dragon|Ice|Kyuremキュレム|3|0|0|1250000|Boundary Pokémon|3|325|120
+646|646B|Kyurem (Black Kyurem)|125|170|100|120|90|95|700|116.67|Teravolt|||Dragon|Ice|Kyuremキュレム|3|0|0|1250000|Boundary Pokémon|3.3|325|120
+646|646W|Kyurem (White Kyurem)|125|120|90|170|100|95|700|116.67|Turboblaze|||Dragon|Ice|Kyuremキュレム|3|0|0|1250000|Boundary Pokémon|3.6|325|120
+647|647|Keldeo|91|72|90|129|90|108|580|96.67|Justified|||Water|Fighting|Keldeoケルディオ|3|35|35|1250000|Colt Pokémon|1.4|48.5|80
+648|648|Meloetta (Aria Forme)|100|77|77|128|128|90|600|100|Serene Grace|||Normal|Psychic|Meloettaメロエッタ|3|100|100|1250000|Melody Pokémon|0.6|6.5|120
+648|648P|Meloetta (Pirouette Forme)|100|128|90|77|77|128|600|100|Serene Grace|||Normal|Fighting|Meloettaメロエッタ|3|100|100|1250000|Melody Pokémon|0.6|6.5|120
+649|649|Genesect|71|120|95|120|95|99|600|100|Download|||Bug|Steel|Genesectゲノセクト|3|0|0|1250000|Paleozoic Pokémon|1.5|82.5|120
+650|650|Chespin|56|61|65|48|45|38|313|52.17|Overgrow||Bulletproof|Grass||Harimaronハリマロン|45|70|50|1059860|Spiny Nut Pokémon|0.4|9|20
+651|651|Quilladin|61|78|95|56|58|57|405|67.5|Overgrow||Bulletproof|Grass||Hariborgハリボーグ|45|70|50|1059860|Spiny Armor Pokémon|0.7|29|20
+652|652|Chesnaught|88|107|122|74|75|64|530|88.33|Overgrow||Bulletproof|Grass|Fighting|Brigarronブリガロン|45|70|50|1059860|Spiny Armor Pokémon|1.6|90|20
+653|653|Fennekin|40|45|40|62|60|60|307|51.17|Blaze||Magician|Fire||Fokkoフォッコ|45|70|50|1059860|Fox Pokémon|0.4|9.4|20
+654|654|Braixen|59|59|58|90|70|73|409|68.17|Blaze||Magician|Fire||Tairenarテールナー|45|70|50|1059860|Fox Pokémon|1|14.5|20
+655|655|Delphox|75|69|72|114|100|104|534|89|Blaze||Magician|Fire|Psychic|Mahoxyマフォクシー|45|70|50|1059860|Fox Pokémon|1.5|39|20
+656|656|Froakie|41|56|40|62|44|71|314|52.33|Torrent||Protean|Water||Keromatsuケロマツ|45|70|50|1059860|Bubble Frog Pokémon|0.3|7|20
+657|657|Frogadier|54|63|52|83|56|97|405|67.5|Torrent||Protean|Water||Gekogashiraゲコガシラ|45|70|50|1059860|Bubble Frog Pokémon|0.6|10.9|20
+658|658|Greninja|72|95|67|103|71|122|530|88.33|Torrent||Protean|Water|Dark|Gekkougaゲッコウガ|45|70|50|1059860|Ninja Pokémon|1.5|40|20
+658|658A|Greninja (Ash-Greninja)|72|145|67|153|71|132|640|106.67|Battle Bond|||Water|Dark|Satoshi Gekkougaサトシゲッコウガ|45|70|50|1059860|Ninja Pokémon|1.5|40|20
+659|659|Bunnelby|38|36|38|32|36|57|237|39.5|Pickup|Cheek Pouch|Huge Power|Normal||Horubeeホルビー|255|70|50|1000000|Digging Pokémon|0.4|5|15
+660|660|Diggersby|85|56|77|50|77|78|423|70.5|Pickup|Cheek Pouch|Huge Power|Normal|Ground|Horudoホルード|127|70|50|1000000|Digging Pokémon|1|42.4|15
+661|661|Fletchling|45|50|43|40|38|62|278|46.33|Big Pecks||Gale Wings|Normal|Flying|Yayakomaヤヤコマ|255|70|50|1059860|Tiny Robin Pokémon|0.3|1.7|15
+662|662|Fletchinder|62|73|55|56|52|84|382|63.67|Flame Body||Gale Wings|Fire|Flying|Hinoyakomaヒノヤコマ|120|70|50|1059860|Ember Pokémon|0.7|16|15
+663|663|Talonflame|78|81|71|74|69|126|499|83.17|Flame Body||Gale Wings|Fire|Flying|Fiarrowファイアロー|45|70|50|1059860|Scorching Pokémon|1.2|24.5|15
+664|664|Scatterbug|38|35|40|27|25|35|200|33.33|Shield Dust|Compound Eyes|Friend Guard|Bug||Kofukimushiコフキムシ|255|70|50|1000000|Scatterdust Pokémon|0.3|2.5|15
+665|665|Spewpa|45|22|60|27|30|29|213|35.5|Shed Skin||Friend Guard|Bug||Kofuuraiコフーライ|120|70|50|1000000|Scatterdust Pokémon|0.3|8.4|15
+666|666|Vivillon|80|52|50|90|50|89|411|68.5|Shield Dust|Compound Eyes|Friend Guard|Bug|Flying|Viviyonビビヨン|45|70|50|1000000|Scale Pokémon|1.2|17|15
+667|667|Litleo|62|50|58|73|54|72|369|61.5|Rivalry|Unnerve|Moxie|Fire|Normal|Shishikoシシコ|220|70|50|1059860|Lion Cub Pokémon|0.6|13.5|20
+668|668|Pyroar|86|68|72|109|66|106|507|84.5|Rivalry|Unnerve|Moxie|Fire|Normal|Kaenjishiカエンジシ|65|70|50|1059860|Royal Pokémon|1.5|81.5|20
+669|669|Flabébé|44|38|39|61|79|42|303|50.5|Flower Veil||Symbiosis|Fairy||Flabebeフラベベ|225|70|50|1000000|Single Bloom Pokémon|0.1|0.1|20
+670|670|Floette|54|45|47|75|98|52|371|61.83|Flower Veil||Symbiosis|Fairy||Floetteフラエッテ|120|70|50|1000000|Single Bloom Pokémon|0.2|0.9|20
+671|671|Florges|78|65|68|112|154|75|552|92|Flower Veil||Symbiosis|Fairy||Florgesフラージェス|45|70|50|1000000|Garden Pokémon|1.1|10|20
+672|672|Skiddo|66|65|48|62|57|52|350|58.33|Sap Sipper||Grass Pelt|Grass||Meecleメェークル|200|70|50|1000000|Mount Pokémon|0.9|31|20
+673|673|Gogoat|123|100|62|97|81|68|531|88.5|Sap Sipper||Grass Pelt|Grass||Gogoatゴーゴート|45|70|50|1000000|Mount Pokémon|1.7|91|20
+674|674|Pancham|67|82|62|46|48|43|348|58|Iron Fist|Mold Breaker|Scrappy|Fighting||Yanchamヤンチャム|220|70|50|1000000|Playful Pokémon|0.6|8|25
+675|675|Pangoro|95|124|78|69|71|58|495|82.5|Iron Fist|Mold Breaker|Scrappy|Fighting|Dark|Gorondaゴロンダ|65|70|50|1000000|Daunting Pokémon|2.1|136|25
+676|676|Furfrou|75|80|60|65|90|102|472|78.67|Fur Coat|||Normal||Trimmienトリミアン|160|70|50|1000000|Poodle Pokémon|1.2|28|20
+677|677|Espurr|62|48|54|63|60|68|355|59.17|Keen Eye|Infiltrator|Own Tempo|Psychic||Nyasperニャスパー|190|70|50|1000000|Restraint Pokémon|0.3|3.5|20
+678|678|Meowstic (Male)|74|48|76|83|81|104|466|77.67|Keen Eye|Infiltrator|Prankster|Psychic||Nyaonixニャオニクス|75|70|50|1000000|Constraint Pokémon|0.6|8.5|20
+678|678F|Meowstic (Female)|74|48|76|83|81|104|466|77.67|Keen Eye|Infiltrator|Competitive|Psychic||Nyaonixニャオニクス|75|70|50|1000000|Constraint Pokémon|0.6|8.5|20
+679|679|Honedge|45|80|100|35|37|28|325|54.17|No Guard|||Steel|Ghost|Hitotsukiヒトツキ|180|70|50|1000000|Sword Pokémon|0.8|2|20
+680|680|Doublade|59|110|150|45|49|35|448|74.67|No Guard|||Steel|Ghost|Nidangillニダンギル|90|70|50|1000000|Sword Pokémon|0.8|4.5|20
+681|681|Aegislash (Shield Forme)|60|50|140|50|140|60|500|83.33|Stance Change|||Steel|Ghost|Gillgardギルガルド|45|70|50|1000000|Royal Sword Pokémon|1.7|53|20
+681|681B|Aegislash (Blade Forme)|60|140|50|140|50|60|500|83.33|Stance Change|||Steel|Ghost|Gillgardギルガルド|45|70|50|1000000|Royal Sword Pokémon|1.7|53|20
+682|682|Spritzee|78|52|60|63|65|23|341|56.83|Healer||Aroma Veil|Fairy||Shushupuシュシュプ|200|70|50|1000000|Perfume Pokémon|0.2|0.5|20
+683|683|Aromatisse|101|72|72|99|89|29|462|77|Healer||Aroma Veil|Fairy||Frefuwanフレフワン|140|70|50|1000000|Fragrance Pokémon|0.8|15.5|20
+684|684|Swirlix|62|48|66|59|57|49|341|56.83|Sweet Veil||Unburden|Fairy||Peroppafuペロッパフ|200|70|50|1000000|Cotton Candy Pokémon|0.4|3.5|20
+685|685|Slurpuff|82|80|86|85|75|72|480|80|Sweet Veil||Unburden|Fairy||Peroreamペロリーム|140|70|50|1000000|Meringue Pokémon|0.8|5|20
+686|686|Inkay|53|54|53|37|46|45|288|48|Contrary|Suction Cups|Infiltrator|Dark|Psychic|Maaiikaマーイーカ|190|70|50|1000000|Revolving Pokémon|0.4|3.5|20
+687|687|Malamar|86|92|88|68|75|73|482|80.33|Contrary|Suction Cups|Infiltrator|Dark|Psychic|Calamaneroカラマネロ|80|70|50|1000000|Overturning Pokémon|1.5|47|20
+688|688|Binacle|42|52|67|39|56|50|306|51|Tough Claws|Sniper|Pickpocket|Rock|Water|Kameteteカメテテ|120|70|50|1000000|Two-Handed Pokémon|0.5|31|20
+689|689|Barbaracle|72|105|115|54|86|68|500|83.33|Tough Claws|Sniper|Pickpocket|Rock|Water|Gamenodesガメノデス|45|70|50|1000000|Collective Pokémon|1.3|96|20
+690|690|Skrelp|50|60|60|60|60|30|320|53.33|Poison Point|Poison Touch|Adaptability|Poison|Water|Kuzumoクズモー|225|70|50|1000000|Mock Kelp Pokémon|0.5|7.3|20
+691|691|Dragalge|65|75|90|97|123|44|494|82.33|Poison Point|Poison Touch|Adaptability|Poison|Dragon|Dramidoroドラミドロ|55|70|50|1000000|Mock Kelp Pokémon|1.8|81.5|20
+692|692|Clauncher|50|53|62|58|63|44|330|55|Mega Launcher|||Water||Udeppouウデッポウ|225|70|50|1250000|Water Gun Pokémon|0.5|8.3|15
+693|693|Clawitzer|71|73|88|120|89|59|500|83.33|Mega Launcher|||Water||Blosterブロスター|55|70|50|1250000|Howitzer Pokémon|1.3|35.3|15
+694|694|Helioptile|44|38|33|61|43|70|289|48.17|Dry Skin|Sand Veil|Solar Power|Electric|Normal|Erikiteruエリキテル|190|70|50|1000000|Generator Pokémon|0.5|6|20
+695|695|Heliolisk|62|55|52|109|94|109|481|80.17|Dry Skin|Sand Veil|Solar Power|Electric|Normal|Elezardエレザード|75|70|50|1000000|Generator Pokémon|1|21|20
+696|696|Tyrunt|58|89|77|45|45|48|362|60.33|Strong Jaw||Sturdy|Rock|Dragon|Chigorasチゴラス|45|70|50|1000000|Royal Heir Pokémon|0.8|26|30
+697|697|Tyrantrum|82|121|119|69|59|71|521|86.83|Strong Jaw||Rock Head|Rock|Dragon|Gachigorasガチゴラス|45|70|50|1000000|Despot Pokémon|2.5|270|30
+698|698|Amaura|77|59|50|67|63|46|362|60.33|Refrigerate||Snow Warning|Rock|Ice|Amarusアマルス|45|70|50|1000000|Tundra Pokémon|1.3|25.2|30
+699|699|Aurorus|123|77|72|99|92|58|521|86.83|Refrigerate||Snow Warning|Rock|Ice|Amarurugaアマルルガ|45|70|50|1000000|Tundra Pokémon|2.7|225|30
+700|700|Sylveon|95|65|65|110|130|60|525|87.5|Cute Charm||Pixilate|Fairy||Nymphiaニンフィア|45|70|50|1000000|Intertwining Pokémon|1|23.5|35
+701|701|Hawlucha|78|92|75|74|63|118|500|83.33|Limber|Unburden|Mold Breaker|Fighting|Flying|Luchabullルチャブル|100|70|50|1000000|Wrestling Pokémon|0.8|21.5|20
+702|702|Dedenne|67|58|57|81|67|101|431|71.83|Cheek Pouch|Pickup|Plus|Electric|Fairy|Dedenneデデンネ|180|70|50|1000000|Antenna Pokémon|0.2|2.2|20
+703|703|Carbink|50|50|150|50|150|50|500|83.33|Clear Body||Sturdy|Rock|Fairy|Melecieメレシー|60|70|50|1250000|Jewel Pokémon|0.3|5.7|25
+704|704|Goomy|45|50|35|55|75|40|300|50|Sap Sipper|Hydration|Gooey|Dragon||Numeraヌメラ|45|35|35|1250000|Soft Tissue Pokémon|0.3|2.8|40
+705|705|Sliggoo|68|75|53|83|113|60|452|75.33|Sap Sipper|Hydration|Gooey|Dragon||Numeilヌメイル|45|35|35|1250000|Soft Tissue Pokémon|0.8|17.5|40
+706|706|Goodra|90|100|70|110|150|80|600|100|Sap Sipper|Hydration|Gooey|Dragon||Numelgonヌメルゴン|45|35|35|1250000|Dragon Pokémon|2|150.5|40
+707|707|Klefki|57|80|91|80|87|75|470|78.33|Prankster||Magician|Steel|Fairy|Cleffyクレッフィ|75|70|50|800000|Key Ring Pokémon|0.2|3|20
+708|708|Phantump|43|70|48|50|60|38|309|51.5|Natural Cure|Frisk|Harvest|Ghost|Grass|Bokureiボクレー|120|70|50|1000000|Stump Pokémon|0.4|7|20
+709|709|Trevenant|85|110|76|65|82|56|474|79|Natural Cure|Frisk|Harvest|Ghost|Grass|Ohrotオーロット|60|70|50|1000000|Elder Tree Pokémon|1.5|71|20
+710|710|Pumpkaboo (Average Size)|49|66|70|44|55|51|335|55.83|Pickup|Frisk|Insomnia|Ghost|Grass|Bakecchaバケッチャ|120|70|50|1000000|Pumpkin Pokémon|0.4|5|20
+710|710L|Pumpkaboo (Large Size)|54|66|70|44|55|46|335|55.83|Pickup|Frisk|Insomnia|Ghost|Grass|Bakecchaバケッチャ|120|70|50||Pumpkin Pokémon|0.5|7.5|20
+710|710S|Pumpkaboo (Small Size)|44|66|70|44|55|56|335|55.83|Pickup|Frisk|Insomnia|Ghost|Grass|Bakecchaバケッチャ|120|70|50||Pumpkin Pokémon|0.3|3.5|20
+710|710Su|Pumpkaboo (Super Size)|59|66|70|44|55|41|335|55.83|Pickup|Frisk|Insomnia|Ghost|Grass|Bakecchaバケッチャ|120|70|50||Pumpkin Pokémon|0.8|15|20
+711|711|Gourgeist (Average Size)|65|90|122|58|75|84|494|82.33|Pickup|Frisk|Insomnia|Ghost|Grass|Pumpjinパンプジン|60|70|50|1000000|Pumpkin Pokémon|0.9|12.5|20
+711|711L|Gourgeist (Large Size)|75|95|122|58|75|69|494|82.33|Pickup|Frisk|Insomnia|Ghost|Grass|Pumpjinパンプジン|60|70|50||Pumpkin Pokémon|1.1|14|20
+711|711S|Gourgeist (Small Size)|55|85|122|58|75|99|494|82.33|Pickup|Frisk|Insomnia|Ghost|Grass|Pumpjinパンプジン|60|70|50||Pumpkin Pokémon|0.7|9.5|20
+711|711Su|Gourgeist (Super Size)|85|100|122|58|75|54|494|82.33|Pickup|Frisk|Insomnia|Ghost|Grass|Pumpjinパンプジン|60|70|50||Pumpkin Pokémon|1.7|39|20
+712|712|Bergmite|55|69|85|32|35|28|304|50.67|Own Tempo|Ice Body|Sturdy|Ice||Kachikohruカチコール|190|70|50|1000000|Ice Chunk Pokémon|1|99.5|20
+713|713|Avalugg|95|117|184|44|46|28|514|85.67|Own Tempo|Ice Body|Sturdy|Ice||Crebaseクレベース|55|70|50|1000000|Iceberg Pokémon|2|505|20
+714|714|Noibat|40|30|35|45|40|55|245|40.83|Frisk|Infiltrator|Telepathy|Flying|Dragon|Onbatオンバット|190|70|50|1000000|Sound Wave Pokémon|0.5|8|20
+715|715|Noivern|85|70|80|97|80|123|535|89.17|Frisk|Infiltrator|Telepathy|Flying|Dragon|Onvernオンバーン|45|70|50|1000000|Sound Wave Pokémon|1.5|85|20
+716|716|Xerneas|126|131|95|131|98|99|680|113.33|Fairy Aura|||Fairy||Xerneasゼルネアス|45|0|0|1250000|Life Pokémon|3|215|120
+717|717|Yveltal|126|131|95|131|98|99|680|113.33|Dark Aura|||Dark|Flying|Yveltalイベルタル|45|0|0|1250000|Destruction Pokémon|5.8|203|120
+718|718|Zygarde (50% Forme)|108|100|121|81|95|95|600|100|Aura Break|Power Construct||Dragon|Ground|Zygardeジガルデ|3|0|0|1250000|Order Pokémon|5|305|120
+718|718C|Zygarde (Complete Forme)|216|100|121|91|95|85|708|118|Power Construct|||Dragon|Ground|Zygardeジガルデ|3|0|0||Order Pokémon|1.2|33.5|120
+718|718T|Zygarde (10% Forme)|54|100|71|61|85|115|486|81|Aura Break|Power Construct||Dragon|Ground|Zygardeジガルデ|3|0|0||Order Pokémon|4.5|610|120
+719|719|Diancie|50|100|150|100|150|50|600|100|Clear Body|||Rock|Fairy|Diancieディアンシー|3|70|50|1250000|Jewel Pokémon|0.7|8.8|25
+719|719M|Diancie (Mega Diancie)|50|160|110|160|110|110|700|116.67|Magic Bounce|||Rock|Fairy|MegaDiancieメガディアンシー|3|70|50||Jewel Pokémon|1.1|27.8|25
+720|720|Hoopa (Hoopa Confined)|80|110|60|150|130|70|600|100|Magician|||Psychic|Ghost|Hoopaフーパ|3|100|100|1250000|Mischief Pokémon|0.5|9|120
+720|720U|Hoopa (Hoopa Unbound)|80|160|60|170|130|80|680|113.33|Magician|||Psychic|Dark|Hoopaフーパ|3|100|50||Djinn Pokémon|6.5|490|120
+721|721|Volcanion|80|110|120|130|90|70|600|100|Water Absorb|||Fire|Water|Volcanionボルケニオン|3|100|100|1250000|Steam Pokémon|1.7|195|120
+722|722|Rowlet|68|55|55|50|50|42|320|53.33|Overgrow||Long Reach|Grass|Flying|Mokurohモクロー|45|70|50|1059860|Grass Quill Pokémon|0.3|1.5|15
+723|723|Dartrix|78|75|75|70|70|52|420|70|Overgrow||Long Reach|Grass|Flying|Fukuthrowフクスロー|45|70|50|1059860|Blade Quill Pokémon|0.7|16|15
+724|724|Decidueye|78|107|75|100|100|70|530|88.33|Overgrow||Long Reach|Grass|Ghost|Junaiperジュナイパー|45|70|50|1059860|Arrow Quill Pokémon|1.6|36.6|15
+725|725|Litten|45|65|40|60|40|70|320|53.33|Blaze||Intimidate|Fire||Nyabbyニャビー|45|70|50|1059860|Fire Cat Pokémon|0.4|4.3|15
+726|726|Torracat|65|85|50|80|50|90|420|70|Blaze||Intimidate|Fire||Nyaheatニャヒート|45|70|50|1059860|Fire Cat Pokémon|0.7|25|15
+727|727|Incineroar|95|115|90|80|90|60|530|88.33|Blaze||Intimidate|Fire|Dark|Gaogaenガオガエン|45|70|50|1059860|Heel Pokémon|1.8|83|15
+728|728|Popplio|50|54|54|66|56|40|320|53.33|Torrent||Liquid Voice|Water||Ashimariアシマリ|45|70|50|1059860|Sea Lion Pokémon|0.4|7.5|15
+729|729|Brionne|60|69|69|91|81|50|420|70|Torrent||Liquid Voice|Water||Osyamariオシャマリ|45|70|50|1059860|Pop Star Pokémon|0.6|17.5|15
+730|730|Primarina|80|74|74|126|116|60|530|88.33|Torrent||Liquid Voice|Water|Fairy|Ashireneアシレーヌ|45|70|50|1059860|Soloist Pokémon|1.8|44|15
+731|731|Pikipek|35|75|30|30|30|65|265|44.17|Keen Eye|Skill Link|Pickup|Normal|Flying|Tsutsukeraツツケラ|255|70|50|1000000|Woodpecker Pokémon|0.3|1.2|15
+732|732|Trumbeak|55|85|50|40|50|75|355|59.17|Keen Eye|Skill Link|Pickup|Normal|Flying|Kerarappaケララッパ|120|70|50|1000000|Bugle Beak Pokémon|0.6|14.8|15
+733|733|Toucannon|80|120|75|75|75|60|485|80.83|Keen Eye|Skill Link|Sheer Force|Normal|Flying|Dodekabashiドデカバシ|45|70|50|1000000|Cannon Pokémon|1.1|26|15
+734|734|Yungoos|48|70|30|30|30|45|253|42.17|Stakeout|Strong Jaw|Adaptability|Normal||Youngooseヤングース|255|70|50|1000000|Loitering Pokémon|0.4|6|15
+735|735|Gumshoos|88|110|60|55|60|45|418|69.67|Stakeout|Strong Jaw|Adaptability|Normal||Dekagooseデカグース|127|70|50|1000000|Stakeout Pokémon|0.7|14.2|15
+736|736|Grubbin|47|62|45|55|45|46|300|50|Swarm|||Bug||Agojimushiアゴジムシ|255|70|50|1000000|Larva Pokémon|0.4|4.4|15
+737|737|Charjabug|57|82|95|55|75|36|400|66.67|Battery|||Bug|Electric|Dendimushiデンヂムシ|120|70|50|1000000|Battery Pokémon|0.5|10.5|15
+738|738|Vikavolt|77|70|90|145|75|43|500|83.33|Levitate|||Bug|Electric|Kuwagannonクワガノン|45|70|50|1000000|Stag Beetle Pokémon|1.5|45|15
+739|739|Crabrawler|47|82|57|42|47|63|338|56.33|Hyper Cutter|Iron Fist|Anger Point|Fighting||Makenkaniマケンカニ|225|70|50|1000000|Boxing Pokémon|0.6|7|20
+740|740|Crabominable|97|132|77|62|67|43|478|79.67|Hyper Cutter|Iron Fist|Anger Point|Fighting|Ice|Kekenkaniケケンカニ|60|70|50|1000000|Woolly Crab Pokémon|1.7|180|20
+741|741|Oricorio (Baile Style)|75|70|70|98|70|93|476|79.33|Dancer|||Fire|Flying|Odoridoriオドリドリ|45|70|50|1000000|Dancing Pokémon|0.6|3.4|20
+741|7141PP|Oricorio (Pom-Pom Style)|75|70|70|98|70|93|476|79.33|Dancer|||Electric|Flying|Odoridoriオドリドリ|45|70|50|1000000|Dancing Pokémon|0.6|3.4|20
+741|741P|Oricorio (Pa’u Style)|75|70|70|98|70|93|476|79.33|Dancer|||Psychic|Flying|Odoridoriオドリドリ|45|70|50|1000000|Dancing Pokémon|0.6|3.4|20
+741|741S|Oricorio (Sensu Style)|75|70|70|98|70|93|476|79.33|Dancer|||Ghost|Flying|Odoridoriオドリドリ|45|70|50|1000000|Dancing Pokémon|0.6|3.4|20
+742|742|Cutiefly|40|45|40|55|40|84|304|50.67|Honey Gather|Shield Dust|Sweet Veil|Bug|Fairy|Abulyアブリー|190|70|50|1000000|Bee Fly Pokémon|0.1|0.2|20
+743|743|Ribombee|60|55|60|95|70|124|464|77.33|Honey Gather|Shield Dust|Sweet Veil|Bug|Fairy|Aburibbonアブリボン|75|70|50|1000000|Bee Fly Pokémon|0.2|0.5|20
+744|744|Rockruff|45|65|40|30|40|60|280|46.67|Keen Eye|Vital Spirit|Steadfast|Rock||Iwankoイワンコ|190|70|50|1000000|Puppy Pokémon|0.5|9.2|15
+744|744OT|Rockruff (Own Tempo)|45|65|40|30|40|60|280|46.67|Own Tempo|||Rock||Iwankoイワンコ|190|70|50|1000000|Puppy Pokémon|0.5|9.2|15
+745|745|Lycanroc (Midday Form)|75|115|65|55|65|112|487|81.17|Keen Eye|Sand Rush|Steadfast|Rock||Lugaruganルガルガン|90|70|50|1000000|Wolf Pokémon|0.8|25|15
+745|745D|Lycanroc (Dusk Form)|75|117|65|55|65|110|487|81.17|Tough Claws|||Rock||Lugaruganルガルガン|90|70|50|1000000|Wolf Pokémon|0.8|25|15
+745|745Mn|Lycanroc (Midnight Form)|85|115|75|55|75|82|487|81.17|Keen Eye|Vital Spirit|No Guard|Rock||Lugaruganルガルガン|90|70|50|1000000|Wolf Pokémon|1.1|25|15
+746|746|Wishiwashi (Solo Form)|45|20|20|25|25|40|175|29.17|Schooling|||Water||Yowashiヨワシ|60|70|50|800000|Small Fry Pokémon|0.2|0.3|15
+746|746Sc|Wishiwashi (School Form)|45|140|130|140|135|30|620|103.33|Schooling|||Water||Yowashiヨワシ|60|70|50|800000|Small Fry Pokémon|8.2|78.6|15
+747|747|Mareanie|50|53|62|43|52|45|305|50.83|Merciless|Limber|Regenerator|Poison|Water|Hidoideヒドイデ|190|70|50|1000000|Brutal Star Pokémon|0.4|8|20
+748|748|Toxapex|50|63|152|53|142|35|495|82.5|Merciless|Limber|Regenerator|Poison|Water|Dohidoideドヒドイデ|75|70|50|1000000|Brutal Star Pokémon|0.7|14.5|20
+749|749|Mudbray|70|100|70|45|55|45|385|64.17|Own Tempo|Stamina|Inner Focus|Ground||Dorobankoドロバンコ|190|70|50|1000000|Donkey Pokémon|1|110|20
+750|750|Mudsdale|100|125|100|55|85|35|500|83.33|Own Tempo|Stamina|Inner Focus|Ground||Banbadoroバンバドロ|60|70|50|1000000|Draft Horse Pokémon|2.5|920|20
+751|751|Dewpider|38|40|52|40|72|27|269|44.83|Water Bubble||Water Absorb|Water|Bug|Shizukumoシズクモ|200|70|50|1000000|Water Bubble Pokémon|0.3|4|15
+752|752|Araquanid|68|70|92|50|132|42|454|75.67|Water Bubble||Water Absorb|Water|Bug|Onishizukumoオニシズクモ|100|70|50|1000000|Water Bubble Pokémon|1.8|82|15
+753|753|Fomantis|40|55|35|50|35|35|250|41.67|Leaf Guard||Contrary|Grass||Karikiriカリキリ|190|70|50|1000000|Sickle Grass Pokémon|0.3|1.5|20
+754|754|Lurantis|70|105|90|80|90|45|480|80|Leaf Guard||Contrary|Grass||Lalantesラランテス|75|70|50|1000000|Bloom Sickle Pokémon|0.9|18.5|20
+755|755|Morelull|40|35|55|65|75|15|285|47.5|Illuminate|Effect Spore|Rain Dish|Grass|Fairy|Nemasyuネマシュ|190|70|50|1000000|Illuminating Pokémon|0.2|1.5|20
+756|756|Shiinotic|60|45|80|90|100|30|405|67.5|Illuminate|Effect Spore|Rain Dish|Grass|Fairy|Mashadeマシェード|75|70|50|1000000|Illuminating Pokémon|1|11.5|20
+757|757|Salandit|48|44|40|71|40|77|320|53.33|Corrosion||Oblivious|Poison|Fire|Yatoumoriヤトウモリ|120|70|50|1000000|Toxic Lizard Pokémon|0.6|4.8|20
+758|758|Salazzle|68|64|60|111|60|117|480|80|Corrosion||Oblivious|Poison|Fire|Ennewtエンニュート|45|70|50|1000000|Toxic Lizard Pokémon|1.2|22.2|20
+759|759|Stufful|70|75|50|45|50|50|340|56.67|Fluffy|Klutz|Cute Charm|Normal|Fighting|Nuikogumaヌイコグマ|140|70|50|1000000|Flailing Pokémon|0.5|6.8|15
+760|760|Bewear|120|125|80|55|60|60|500|83.33|Fluffy|Klutz|Unnerve|Normal|Fighting|Kiterugumaキテルグマ|70|70|50|1000000|Strong Arm Pokémon|2.1|135|15
+761|761|Bounsweet|42|30|38|30|38|32|210|35|Leaf Guard|Oblivious|Sweet Veil|Grass||Amakajiアマカジ|235|70|50|1059860|Fruit Pokémon|0.3|3.2|20
+762|762|Steenee|52|40|48|40|48|62|290|48.33|Leaf Guard|Oblivious|Sweet Veil|Grass||Amamaikoアママイコ|120|70|50|1059860|Fruit Pokémon|0.7|8.2|20
+763|763|Tsareena|72|120|98|50|98|72|510|85|Leaf Guard|Queenly Majesty|Sweet Veil|Grass||Amajoアマージョ|45|70|50|1059860|Fruit Pokémon|1.2|21.4|20
+764|764|Comfey|51|52|90|82|110|100|485|80.83|Flower Veil|Triage|Natural Cure|Fairy||Cuwawaキュワワー|60|70|50|800000|Posy Picker Pokémon|0.1|0.3|20
+765|765|Oranguru|90|60|80|90|110|60|490|81.67|Inner Focus|Telepathy|Symbiosis|Normal|Psychic|Yareyuutanヤレユータン|45|70|50|1250000|Sage Pokémon|1.5|76|20
+766|766|Passimian|100|120|90|40|60|80|490|81.67|Receiver||Defiant|Fighting||Nagetukesaruナゲツケサル|45|70|50|1250000|Teamwork Pokémon|2|82.8|20
+767|767|Wimpod|25|35|40|20|30|80|230|38.33|Wimp Out|||Bug|Water|Kosokumushiコソクムシ|90|70|50|1000000|Turn Tail Pokémon|0.5|12|20
+768|768|Golisopod|75|125|140|60|90|40|530|88.33|Emergency Exit|||Bug|Water|Gusokumushaグソクムシャ|45|70|50|1000000|Hard Scale Pokémon|2|108|20
+769|769|Sandygast|55|55|80|70|45|15|320|53.33|Water Compaction||Sand Veil|Ghost|Ground|Sunabaスナバァ|140|70|50|1000000|Sand Heap Pokémon|0.5|70|15
+770|770|Palossand|85|75|110|100|75|35|480|80|Water Compaction||Sand Veil|Ghost|Ground|Sirodethnaシロデスナ|60|70|50|1000000|Sand Castle Pokémon|1.3|250|15
+771|771|Pyukumuku|55|60|130|30|130|5|410|68.33|Innards Out||Unaware|Water||Namakobushiナマコブシ|60|70|50|800000|Sea Cucumber Pokémon|0.3|1.2|15
+772|772|Type: Null|95|95|95|95|95|59|534|89|Battle Armor|||Normal||Type: Nullタイプ：ヌル|3|0|0|1250000|Synthetic Pokémon|1.9|120.5|120
+773|773|Silvally|95|95|95|95|95|95|570|95|RKS System|||Normal||Silvadyシルヴァディ|3|0|0|1250000|Synthetic Pokémon|2.3|100.5|120
+774|774|Minior (Meteor Form)|60|60|100|60|100|60|440|73.33|Shields Down|||Rock|Flying|Metenoメテノ|30|70|50|1059860|Meteor Pokémon|0.3|40|25
+774|774R|Minior (Core)|60|100|60|100|60|120|500|83.33|Shields Down|||Rock|Flying|Metenoメテノ|30|70|50|1059860|Meteor Pokémon|0.3|0.3|25
+775|775|Komala|65|115|65|75|95|65|480|80|Comatose|||Normal||Nekkoaraネッコアラ|45|70|50|1250000|Drowsing Pokémon|0.4|19.9|20
+776|776|Turtonator|60|78|135|91|85|36|485|80.83|Shell Armor|||Fire|Dragon|Bakugamesバクガメス|70|70|50|1000000|Blast Turtle Pokémon|2|212|20
+777|777|Togedemaru|65|98|63|40|73|96|435|72.5|Iron Barbs|Lightning Rod|Sturdy|Electric|Steel|Togedemaruトゲデマル|180|70|50|1000000|Roly-Poly Pokémon|0.3|3.3|10
+778|778|Mimikyu|55|90|80|50|105|96|476|79.33|Disguise|||Ghost|Fairy|Mimikkyuミミッキュ|45|70|50|1000000|Disguise Pokémon|0.2|0.7|20
+779|779|Bruxish|68|105|70|70|70|92|475|79.17|Dazzling|Strong Jaw|Wonder Skin|Water|Psychic|Hagigishiriハギギシリ|80|70|50|1000000|Gnash Teeth Pokémon|0.9|19|15
+780|780|Drampa|78|60|85|135|91|36|485|80.83|Berserk|Sap Sipper|Cloud Nine|Normal|Dragon|Jijilongジジーロン|70|70|50|1000000|Placid Pokémon|3|185|20
+781|781|Dhelmise|70|131|100|86|90|40|517|86.17|Steelworker|||Ghost|Grass|Dadarinダダリン|25|70|50|1000000|Sea Creeper Pokémon|3.9|210|25
+782|782|Jangmo-o|45|55|65|45|45|45|300|50|Bulletproof|Soundproof|Overcoat|Dragon||Jyarakoジャラコ|45|70|50|1250000|Scaly Pokémon|0.6|29.7|40
+783|783|Hakamo-o|55|75|90|65|70|65|420|70|Bulletproof|Soundproof|Overcoat|Dragon|Fighting|Jyarangoジャランゴ|45|70|50|1250000|Scaly Pokémon|1.2|47|40
+784|784|Kommo-o|75|110|125|100|105|85|600|100|Bulletproof|Soundproof|Overcoat|Dragon|Fighting|Jyararangaジャラランガ|45|70|50|1250000|Scaly Pokémon|1.6|78.2|40
+785|785|Tapu Koko|70|115|85|95|75|130|570|95|Electric Surge||Telepathy|Electric|Fairy|Kapu-Kokekoカプ・コケコ|3|70|50|1250000|Land Spirit Pokémon|1.8|20.5|15
+786|786|Tapu Lele|70|85|75|130|115|95|570|95|Psychic Surge||Telepathy|Psychic|Fairy|Kapu-Tetefuカプ・テテフ|3|70|50|1250000|Land Spirit Pokémon|1.2|18.6|15
+787|787|Tapu Bulu|70|130|115|85|95|75|570|95|Grassy Surge||Telepathy|Grass|Fairy|Kapu-Bululカプ・ブルル|3|70|50|1250000|Land Spirit Pokémon|1.9|45.5|15
+788|788|Tapu Fini|70|75|115|95|130|85|570|95|Misty Surge||Telepathy|Water|Fairy|Kapu-Rehireカプ・レヒレ|3|70|50|1250000|Land Spirit Pokémon|1.3|21.2|15
+789|789|Cosmog|43|29|31|29|31|37|200|33.33|Unaware|||Psychic||Cosmogコスモッグ|45|0|0|1250000|Nebula Pokémon|0.2|0.1|120
+790|790|Cosmoem|43|29|131|29|131|37|400|66.67|Sturdy|||Psychic||Cosmovumコスモウム|45|0|0|1250000|Protostar Pokémon|0.1|999.9|120
+791|791|Solgaleo|137|137|107|113|89|97|680|113.33|Full Metal Body|||Psychic|Steel|Solgaleoソルガレオ|45|0|0|1250000|Sunne Pokémon|3.4|230|120
+792|792|Lunala|137|113|89|137|107|97|680|113.33|Shadow Shield|||Psychic|Ghost|Lunalaルナアーラ|45|0|0|1250000|Moone Pokémon|4|120|120
+793|793|Nihilego|109|53|47|127|131|103|570|95|Beast Boost|||Rock|Poison|Uturoidウツロイド|45|0|0|1250000|Parasite Pokémon|1.2|55.5|120
+794|794|Buzzwole|107|139|139|53|53|79|570|95|Beast Boost|||Bug|Fighting|Massivoonマッシブーン|45|0|0|1250000|Swollen Pokémon|2.4|333.6|120
+795|795|Pheromosa|71|137|37|137|37|151|570|95|Beast Boost|||Bug|Fighting|Pheroacheフェローチェ|45|0|0|1250000|Lissome Pokémon|1.8|25|120
+796|796|Xurkitree|83|89|71|173|71|83|570|95|Beast Boost|||Electric||Denjyumokuデンジュモク|45|0|0|1250000|Glowing Pokémon|3.8|100|120
+797|797|Celesteela|97|101|103|107|101|61|570|95|Beast Boost|||Steel|Flying|Tekkaguyaテッカグヤ|45|0|0|1250000|Launch Pokémon|9.2|999.9|120
+798|798|Kartana|59|181|131|59|31|109|570|95|Beast Boost|||Grass|Steel|Kamiturugiカミツルギ|45|0|0|1250000|Drawn Sword Pokémon|0.3|0.1|120
+799|799|Guzzlord|223|101|53|97|53|43|570|95|Beast Boost|||Dark|Dragon|Akuzikingアクジキング|45|0|0|1250000|Junkivore Pokémon|5.5|888|120
+800|800|Necrozma|97|107|101|127|89|79|600|100|Prism Armor|||Psychic||Necrozmaネクロズマ|3|0|0|1250000|Prism Pokémon|2.4|230|120
+800|800DM|Necrozma (Dusk Mane Necrozma)|97|157|127|113|109|77|680|113.33|Prism Armor|||Psychic|Steel|Necrozmaネクロズマ|3|0|0|1250000|Prism Pokémon|3.8|460|120
+800|800DW|Necrozma (Dawn Wings Necrozma)|97|113|109|157|127|77|680|113.33|Prism Armor|||Psychic|Ghost|Necrozmaネクロズマ|3|0|0|1250000|Prism Pokémon|4.2|350|120
+800|800U|Necrozma (Ultra Necrozma)|97|167|97|167|97|129|754|125.67|Neuroforce|||Psychic|Dragon|Necrozmaネクロズマ|3|0|0|1250000|Prism Pokémon|7.5|230|120
+801|801|Magearna|80|95|115|130|115|65|600|100|Soul-Heart|||Steel|Fairy|Magearnaマギアナ|3|0|0|1250000|Artificial Pokémon|1|80.5|120
+802|802|Marshadow|90|125|80|90|90|125|600|100|Technician|||Fighting|Ghost|Marshadowマーシャドー|3|0|0|1250000|Gloomdweller Pokémon|0.7|22.2|120
+803|803|Poipole|67|73|67|73|67|73|420|70|Beast Boost|||Poison||Bevenomベベノム|45|0|0|1250000|Poison Pin Pokémon|0.6|1.8|120
+804|804|Naganadel|73|73|73|127|73|121|540|90|Beast Boost|||Poison|Dragon|Agoyonアーゴヨン|45|0|0|1250000|Poison Pin Pokémon|3.6|150|120
+805|805|Stakataka|61|131|211|53|101|13|570|95|Beast Boost|||Rock|Steel|Tundetundeツンデツンデ|30|0|0|1250000|Rampart Pokémon|5.5|820|120
+806|806|Blacephalon|53|127|53|151|79|107|570|95|Beast Boost|||Fire|Ghost|Zugadoonズガドーン|30|0|0|1250000|Fireworks Pokémon|1.8|13|120
+807|807|Zeraora|88|112|75|102|80|143|600|100|Volt Absorb|||Electric||Zeraoraゼラオラ|3|0|0|1250000|Thunderclap Pokémon|1.5|44.5|120
+808|808|Meltan|46|65|65|55|35|34|300|50|Magnet Pull|||Steel||Meltanメルタン|3|0|0|1250000|Hex Nut Pokémon|0.2|8|120
+809|809|Melmetal|135|143|143|80|65|34|600|100|Iron Fist|||Steel||Melmetalメルメタル|3|0|0|1250000|Hex Nut Pokémon|2.5|800|120
+810|810|Grookey|50|65|50|40|40|65|310|51.67|Overgrow||Grassy Surge|Grass||Sarunoriサルノリ|45||50|1059860|Chimp Pokémon|0.3|5|20
+811|811|Thwackey|70|85|70|55|60|80|420|70|Overgrow||Grassy Surge|Grass||Bachinkeyバチンキー|45||50|1059860|Beat Pokémon|0.7|14|20
+812|812|Rillaboom|100|125|90|60|70|85|530|88.33|Overgrow||Grassy Surge|Grass||Goriranderゴリランダー|45||50|1059860|Drummer Pokémon|2.1|90|20
+813|813|Scorbunny|50|71|40|40|40|69|310|51.67|Blaze||Libero|Fire||Hibannyヒバニー|45||50|1059860|Rabbit Pokémon|0.3|4.5|20
+814|814|Raboot|65|86|60|55|60|94|420|70|Blaze||Libero|Fire||Rabbifutoラビフット|45||50|1059860|Rabbit Pokémon|0.6|9|20
+815|815|Cinderace|80|116|75|65|75|119|530|88.33|Blaze||Libero|Fire||Aceburnエースバーン|45||50|1059860|Striker Pokémon|1.4|33|20
+816|816|Sobble|50|40|40|70|40|70|310|51.67|Torrent||Sniper|Water||Messonメッソン|45||50|1059860|Water Lizard Pokémon|0.3|4|20
+817|817|Drizzile|65|60|55|95|55|90|420|70|Torrent||Sniper|Water||Jimereonジメレオン|45||50|1059860|Water Lizard Pokémon|0.7|11.5|20
+818|818|Inteleon|70|85|65|125|65|120|530|88.33|Torrent||Sniper|Water||Intereonインテレオン|45||50|1059860|Secret Agent Pokémon|1.9|45.2|20
+819|819|Skwovet|70|55|55|35|35|25|275|45.83|Cheek Pouch||Gluttony|Normal||Hoshigarisuホシガリス|255||50|1000000|Cheeky Pokémon|0.3|2.5|20
+820|820|Greedent|120|95|95|55|75|20|460|76.67|Cheek Pouch||Gluttony|Normal||Yokubarisuヨクバリス|90||50|1000000|Greedy Pokémon|0.6|6|20
+821|821|Rookidee|38|47|35|33|35|57|245|40.83|Keen Eye|Unnerve|Big Pecks|Flying||Kokogaraココガラ|255||50|1059860|Tiny Bird Pokémon|0.2|1.8|15
+822|822|Corvisquire|68|67|55|43|55|77|365|60.83|Keen Eye|Unnerve|Big Pecks|Flying||Aogarasuアオガラス|120||50|1059860|Raven Pokémon|0.8|16|15
+823|823|Corviknight|98|87|105|53|85|67|495|82.5|Pressure|Unnerve|Mirror Armor|Flying|Steel|Armorgaアーマーガア|45||50|1059860|Raven Pokémon|2.2|75|15
+824|824|Blipbug|25|20|20|25|45|45|180|30|Swarm|Compound Eyes|Telepathy|Bug||Sacchimushiサッチムシ|255||50|1000000|Larva Pokémon|0.4|8|15
+825|825|Dottler|50|35|80|50|90|30|335|55.83|Swarm|Compound Eyes|Telepathy|Bug|Psychic|Redomushiレドームシ|120||50|1000000|Radome Pokémon|0.4|19.5|15
+826|826|Orbeetle|60|45|110|80|120|90|505|84.17|Swarm|Frisk|Telepathy|Bug|Psychic|Eolbイオルブ|45||50|1000000|Seven Spot Pokémon|0.4|40.8|15
+827|827|Nickit|40|28|28|47|52|50|245|40.83|Run Away|Unburden|Stakeout|Dark||Kusuneクスネ|255||50|800000|Fox Pokémon|0.6|8.9|15
+828|828|Thievul|70|58|58|87|92|90|455|75.83|Run Away|Unburden|Stakeout|Dark||Foxlyフォクスライ|127||50|800000|Fox Pokémon|1.2|19.9|15
+829|829|Gossifleur|40|40|60|40|60|10|250|41.67|Cotton Down|Regenerator|Effect Spore|Grass||Himenkaヒメンカ|190||50|1000000|Flowering Pokémon|0.4|2.2|20
+830|830|Eldegoss|60|50|90|80|120|60|460|76.67|Cotton Down|Regenerator|Effect Spore|Grass||Watashiragaワタシラガ|75||50|1000000|Cotton Bloom Pokémon|0.5|2.5|20
+831|831|Wooloo|42|40|55|40|45|48|270|45|Fluffy|Run Away|Bulletproof|Normal||Wooluuウールー|255||50|1000000|Sheep Pokémon|0.6|6|15
+832|832|Dubwool|72|80|100|60|90|88|490|81.67|Fluffy|Steadfast|Bulletproof|Normal||Baiwooluuバイウールー|127||50|1000000|Sheep Pokémon|1.3|43|15
+833|833|Chewtle|50|64|50|38|38|44|284|47.33|Strong Jaw|Shell Armor|Swift Swim|Water||Kamukameカムカメ|255||50|1000000|Snapping Pokémon|0.3|8.5|20
+834|834|Drednaw|90|115|90|48|68|74|485|80.83|Strong Jaw|Shell Armor|Swift Swim|Water|Rock|Kajirigameカジリガメ|75||50|1000000|Bite Pokémon|1|115.5|20
+835|835|Yamper|59|45|50|40|50|26|270|45|Ball Fetch||Rattled|Electric||Wanpachiワンパチ|255||50|800000|Puppy Pokémon|0.3|13.5|20
+836|836|Boltund|69|90|60|90|60|121|490|81.67|Strong Jaw||Competitive|Electric||Pulsewanパルスワン|45||50|800000|Dog Pokémon|1|34|20
+837|837|Rolycoly|30|40|50|40|50|30|240|40|Steam Engine|Heatproof|Flash Fire|Rock||Tandonタンドン|255||50|1059860|Coal Pokémon|0.3|12|15
+838|838|Carkol|80|60|90|60|70|50|410|68.33|Steam Engine|Flame Body|Flash Fire|Rock|Fire|Toroggonトロッゴン|120||50|1059860|Coal Pokémon|1.1|78|15
+839|839|Coalossal|110|80|120|80|90|30|510|85|Steam Engine|Flame Body|Flash Fire|Rock|Fire|Sekitanzanセキタンザン|45||50|1059860|Coal Pokémon|2.8|310.5|15
+840|840|Applin|40|40|80|40|40|20|260|43.33|Ripen|Gluttony|Bulletproof|Grass|Dragon|Kajicchuカジッチュ|255||50|600000|Apple Core Pokémon|0.2|0.5|20
+841|841|Flapple|70|110|80|95|60|70|485|80.83|Ripen|Gluttony|Hustle|Grass|Dragon|Appryuアップリュー|45||50|600000|Apple Wing Pokémon|0.3|1|20
+842|842|Appletun|110|85|80|100|80|30|485|80.83|Ripen|Gluttony|Thick Fat|Grass|Dragon|Taruppleタルップル|45||50|600000|Apple Nectar Pokémon|0.4|13|20
+843|843|Silicobra|52|57|75|35|50|46|315|52.5|Sand Spit|Shed Skin|Sand Veil|Ground||Sunahebiスナヘビ|255||50|1000000|Sand Snake Pokémon|2.2|7.6|20
+844|844|Sandaconda|72|107|125|65|70|71|510|85|Sand Spit|Shed Skin|Sand Veil|Ground||Sadaijaサダイジャ|120||50|1000000|Sand Snake Pokémon|3.8|65.5|20
+845|845|Cramorant|70|85|55|85|95|85|475|79.17|Gulp Missile|||Flying|Water|Uuウッウ|45||50|1000000|Gulp Pokémon|0.8|18|20
+846|846|Arrokuda|41|63|40|40|30|66|280|46.67|Swift Swim||Propeller Tail|Water||Sasikamasuサシカマス|255||50|1250000|Rush Pokémon|0.5|1|20
+847|847|Barraskewda|61|123|60|60|50|136|490|81.67|Swift Swim||Propeller Tail|Water||Kamasujawカマスジョー|60||50|1250000|Skewer Pokémon|1.3|30|20
+848|848|Toxel|40|38|35|54|35|40|242|40.33|Rattled|Static|Klutz|Electric|Poison|Elesonエレズン|75||50|1059860|Baby Pokémon|0.4|11|25
+849|849|Toxtricity (Amped Form)|75|98|70|114|70|75|502|83.67|Punk Rock|Plus|Technician|Electric|Poison|Strinderストリンダー|45||50|1059860|Punk Pokémon|1.6|40|25
+849|849L|Toxtricity (Low Key Form)|75|98|70|114|70|75|502|83.67|Punk Rock|Minus|Technician|Electric|Poison|Strinderストリンダー|45||50|1059860|Punk Pokémon|1.6|40|25
+850|850|Sizzlipede|50|65|45|50|50|45|305|50.83|Flash Fire|White Smoke|Flame Body|Fire|Bug|Yakudeヤクデ|190||50|1000000|Radiator Pokémon|0.7|1|20
+851|851|Centiskorch|100|115|65|90|90|65|525|87.5|Flash Fire|White Smoke|Flame Body|Fire|Bug|Maruyakudeマルヤクデ|75||50|1000000|Radiator Pokémon|3|120|20
+852|852|Clobbopus|50|68|60|50|50|32|310|51.67|Limber||Technician|Fighting||Tatakkoタタッコ|180||50|1059860|Tantrum Pokémon|0.6|4|25
+853|853|Grapploct|80|118|90|70|80|42|480|80|Limber||Technician|Fighting||Otosupusオトスパス|45||50|1059860|Jujitsu Pokémon|1.6|39|25
+854|854|Sinistea|40|45|45|74|54|50|308|51.33|Weak Armor||Cursed Body|Ghost||Yabachaヤバチャ|120||50|1000000|Black Tea Pokémon|0.1|0.2|20
+855|855|Polteageist|60|65|65|134|114|70|508|84.67|Weak Armor||Cursed Body|Ghost||Potdeathポットデス|60||50|1000000|Black Tea Pokémon|0.2|0.4|20
+856|856|Hatenna|42|30|45|56|53|39|265|44.17|Healer|Anticipation|Magic Bounce|Psychic||Mibrimミブリム|235||50|1250000|Calm Pokémon|0.4|3.4|20
+857|857|Hattrem|57|40|65|86|73|49|370|61.67|Healer|Anticipation|Magic Bounce|Psychic||Tebrimテブリム|120||50|1250000|Serene Pokémon|0.6|4.8|20
+858|858|Hatterene|57|90|95|136|103|29|510|85|Healer|Anticipation|Magic Bounce|Psychic|Fairy|Brimuonブリムオン|45||50|1250000|Silent Pokémon|2.1|5|20
+859|859|Impidimp|45|45|30|55|40|50|265|44.17|Prankster|Frisk|Pickpocket|Dark|Fairy|Berobaベロバー|255||50|1000000|Wily Pokémon|0.4|5.5|20
+860|860|Morgrem|65|60|45|75|55|70|370|61.67|Prankster|Frisk|Pickpocket|Dark|Fairy|Gimohギモー|120||50|1000000|Devious Pokémon|0.8|12.5|20
+861|861|Grimmsnarl|95|120|65|95|75|60|510|85|Prankster|Frisk|Pickpocket|Dark|Fairy|Ohlongeオーロンゲ|45||50|1000000|Bulk Up Pokémon|1.5|61|20
+862|862|Obstagoon|93|90|101|60|81|95|520|86.67|Reckless|Guts|Defiant|Dark|Normal|Tachifusagumaタチフサグマ|45||50|1000000|Blocking Pokémon|1.6|46|15
+863|863|Perrserker|70|110|100|50|60|50|440|73.33|Battle Armor|Tough Claws|Steely Spirit|Steel||Nyaikingニャイキング|90||50|1000000|Viking Pokémon|0.8|28|20
+864|864|Cursola|60|95|50|145|130|30|510|85|Weak Armor||Perish Body|Ghost||Sunigoonサニゴーン|30||50|800000|Coral Pokémon|1|0.4|20
+865|865|Sirfetch'd|62|135|95|68|82|65|507|84.5|Steadfast||Scrappy|Fighting||Negigaknightネギガナイト|45||50|1000000|Wild Duck Pokémon|0.8|117|20
+866|866|Mr. Rime|80|85|75|110|100|70|520|86.67|Tangled Feet|Screen Cleaner|Ice Body|Ice|Psychic|Barrikohruバリコオル|45||50|1000000|Comedian Pokémon|1.5|58.2|25
+867|867|Runerigus|58|95|145|50|105|30|483|80.5|Wandering Spirit|||Ground|Ghost|Deathbarnデスバーン|90||50|1000000|Grudge Pokémon|1.6|66.6|25
+868|868|Milcery|45|40|40|50|61|34|270|45|Sweet Veil||Aroma Veil|Fairy||Mahomilマホミル|200||50|1000000|Cream Pokémon|0.2|0.3|20
+869|869|Alcremie|65|60|75|110|121|64|495|82.5|Sweet Veil||Aroma Veil|Fairy||Mawhipマホイップ|100||50|1000000|Cream Pokémon|0.3|0.5|20
+870|870|Falinks|65|100|100|70|60|75|470|78.33|Battle Armor||Defiant|Fighting||Tairetsuタイレーツ|45||50|1000000|Formation Pokémon|3|62|25
+871|871|Pincurchin|48|101|95|91|85|15|435|72.5|Lightning Rod||Electric Surge|Electric||Bachinuniバチンウニ|75||50|1000000|Sea Urchin Pokémon|0.3|1|20
+872|872|Snom|30|25|35|45|30|20|185|30.83|Shield Dust||Ice Scales|Ice|Bug|Yukihamiユキハミ|190||50|1000000|Worm Pokémon|0.3|3.8|20
+873|873|Frosmoth|70|65|60|125|90|65|475|79.17|Shield Dust||Ice Scales|Ice|Bug|Mothnowモスノウ|75||50|1000000|Frost Moth Pokémon|1.3|42|20
+874|874|Stonjourner|100|125|135|20|20|70|470|78.33|Power Spot|||Rock||Ishihenginイシヘンジン|60||50|1250000|Big Rock Pokémon|2.5|520|25
+875|875|Eiscue (Ice Face)|75|80|110|65|90|50|470|78.33|Ice Face|||Ice||Korippoコオリッポ|60||50|1250000|Penguin Pokémon|1.4|89|25
+875|875N|Eiscue (Noice Face)|75|80|70|65|50|130|470|78.33|Ice Face|||Ice||Korippoコオリッポ|60||50|1250000|Penguin Pokémon|1.4|89|25
+876|876|Indeedee (Male)|60|65|55|105|95|95|475|79.17|Inner Focus|Synchronize|Psychic Surge|Psychic|Normal|Yessanイエッサン|30||140|800000|Emotion Pokémon|0.9|28|40
+876|876F|Indeedee (Female)|70|55|65|95|105|85|475|79.17|Own Tempo|Synchronize|Psychic Surge|Psychic|Normal|Yessanイエッサン|30||140|800000|Emotion Pokémon|0.9|28|40
+877|877|Morpeko|58|95|58|70|58|97|436|72.67|Hunger Switch|||Electric|Dark|Morpekoモルペコ|180||50|1000000|Two-Sided Pokémon|0.3|3|10
+878|878|Cufant|72|80|49|40|49|40|330|55|Sheer Force||Heavy Metal|Steel||Zoudouゾウドウ|190||50|1000000|Copperderm Pokémon|1.2|100|25
+879|879|Copperajah|122|130|69|80|69|30|500|83.33|Sheer Force||Heavy Metal|Steel||Daioudouダイオウドウ|90||50|1000000|Copperderm Pokémon|3|650|25
+880|880|Dracozolt|90|100|90|80|70|75|505|84.17|Volt Absorb|Hustle|Sand Rush|Electric|Dragon|Patchiragonパッチラゴン|45||50|1250000|Fossil Pokémon|1.8|190|35
+881|881|Arctozolt|90|100|90|90|80|55|505|84.17|Volt Absorb|Static|Slush Rush|Electric|Ice|Patchilldonパッチルドン|45||50|1250000|Fossil Pokémon|2.3|150|35
+882|882|Dracovish|90|90|100|70|80|75|505|84.17|Water Absorb|Strong Jaw|Sand Rush|Water|Dragon|Uonoragonウオノラゴン|45||50|1250000|Fossil Pokémon|2.3|215|35
+883|883|Arctovish|90|90|100|80|90|55|505|84.17|Water Absorb|Ice Body|Slush Rush|Water|Ice|Uochilldonウオチルドン|45||50|1250000|Fossil Pokémon|2|175|35
+884|884|Duraludon|70|95|115|120|50|85|535|89.17|Light Metal|Heavy Metal|Stalwart|Steel|Dragon|Duraludonジュラルドン|45||50|1000000|Alloy Pokémon|1.8|40|30
+885|885|Dreepy|28|60|30|40|30|82|270|45|Clear Body|Infiltrator|Cursed Body|Dragon|Ghost|Dorameshiyaドラメシヤ|45||50|1250000|Lingering Pokémon|0.5|2|40
+886|886|Drakloak|68|80|50|60|50|102|410|68.33|Clear Body|Infiltrator|Cursed Body|Dragon|Ghost|Doronchドロンチ|45||50|1250000|Caretaker Pokémon|1.4|11|40
+887|887|Dragapult|88|120|75|100|75|142|600|100|Clear Body|Infiltrator|Cursed Body|Dragon|Ghost|Dorapultドラパルト|45||50|1250000|Stealth Pokémon|3|50|40
+888|888|Zacian (Hero of Many Battles)|92|130|115|80|115|138|670|111.67|Intrepid Sword|||Fairy||Zacianザシアン|10||0|1250000|Warrior Pokémon|2.8|355|120
+888|888C|Zacian (Crowned Sword)|92|170|115|80|115|148|720|120|Intrepid Sword|||Fairy|Steel|Zacianザシアン|10||0|1250000|Warrior Pokémon|2.8|110|120
+889|889|Zamazenta (Hero of Many Battles)|92|130|115|80|115|138|670|111.67|Dauntless Shield|||Fighting||Zamazentaザマゼンタ|10||0|1250000|Warrior Pokémon|2.9|785|120
+889|889C|Zamazenta (Crowned Shield)|92|130|145|80|145|128|720|120|Dauntless Shield|||Fighting|Steel|Zamazentaザマゼンタ|10||0|1250000|Warrior Pokémon|2.9|210|120
+890|890|Eternatus|140|85|95|145|95|130|690|115|Pressure|||Poison|Dragon|Mugendinaムゲンダイナ|255||0|1250000|Gigantic Pokémon|20|950|120
+890|890E|Eternatus (Eternamax Eternatus)|255|115|250|125|250|130|1125|187.5|Pressure|||Poison|Dragon|Mugendinaムゲンダイナ|||0|1250000|Gigantic Pokémon|||120
+891|891|Kubfu|60|90|60|53|50|72|385|64.17|Inner Focus|||Fighting||Dakumaダクマ|3||50|1250000|Wushu Pokémon|0.6|12|120
+892|892|Urshifu (Single Strike Style)|100|130|100|63|60|97|550|91.67|Unseen Fist|||Fighting|Dark|Wulaosuウーラオス|3||50|1250000|Wushu Pokémon|1.9|105|120
+892|892RS|Urshifu (Rapid Strike Style)|100|130|100|63|60|97|550|91.67|Unseen Fist|||Fighting|Water|Wulaosuウーラオス|3||50|1250000|Wushu Pokémon|1.9|105|120
+893|893|Zarude|105|120|105|70|95|105|600|100|Leaf Guard|||Dark|Grass|Zarudeザルード|3||0|1250000|Rogue Monkey Pokémon|1.8|70|120
+894|894|Regieleki|80|100|50|100|50|200|580|96.67|Transistor|||Electric||Regielekiレジエレキ|3||35|1250000|Electron Pokémon|1.2|145|120
+895|895|Regidrago|200|100|50|100|50|80|580|96.67|Dragon's Maw|||Dragon||Regidoragoレジドラゴ|3||35|1250000|Dragon Orb Pokémon|2.1|200|120
+896|896|Glastrier|100|145|130|65|110|30|580|96.67|Chilling Neigh|||Ice||Blizzaposブリザポス|3||35|1250000|Wild Horse Pokémon|2.2|800|120
+897|897|Spectrier|100|65|60|145|80|130|580|96.67|Grim Neigh|||Ghost||Wraithposレイスポス|3||35|1250000|Swift Horse Pokémon|2|44.5|120
+898|898|Calyrex|100|80|80|80|80|80|500|83.33|Unnerve|||Psychic|Grass|Budrexバドレックス|3||100|1250000|King Pokémon|1.1|7.7|120
+898|898I|Calyrex (Ice Rider Calyrex)|100|165|150|85|130|50|680|113.33|As One|||Psychic|Ice|Budrexバドレックス|3||100|1250000|High King Pokémon|2.4|809.1|120
+898|898S|Calyrex (Shadow Rider Calyrex)|100|85|80|165|100|150|680|113.33|As One|||Psychic|Ghost|Budrexバドレックス|3||100|1250000|High King Pokémon|2.4|53.6|120
