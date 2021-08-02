@@ -1,0 +1,11 @@
+name: streamlit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.*
+  - pandas
+  - streamlit
+  - seaborn
+  - scikit-learn
+  - matplotlib
