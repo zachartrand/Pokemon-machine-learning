@@ -1,0 +1,19 @@
+# .ipynb checkpoints #
+######################
+.ipynb_checkpoints
+
+# zip files #
+#############
+*.zip
+
+# height_weight files #
+#######################
+height_weight*
+
+# Libre Office files #
+######################
+*.ods
+
+# Web scraper file #
+####################
+web_scraper.ipynb
