@@ -25,3 +25,5 @@ web_scraper.ipynb
 # Specific files #
 pokemon.csv
 pokemon_machine_learning.ipynb
+
+__pycache__
